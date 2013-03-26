@@ -3,7 +3,7 @@
 - Úvod / motivace / volba tématu / zaznamenání / návod k přenosu
 - Metoda participant observation
     - Reflexe výhod a omezení vlastního pozorování v pozici insidera
-- Background deliberativná demokracie + experimenty
+- Background deliberativní demokracie + experimenty
 - Popis okolností vzniku komise
 - Popis principů a jejich zdůvodnění
     - Principy
@@ -13,6 +13,7 @@
         - Posílení diskuse a integrace komunity
     - Stanovování parametrů hodnocení
         - Východisko: řazení vhodných, nikoli definitivní výběr
+- Praktický průběh práce komise
     - Proces hodnocení
         - Role a průběh prvního hodnocení
         - Role a průběh diskuse
