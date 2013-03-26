@@ -20,6 +20,9 @@
     - Počítání skóre
         - Váha hodnotitelů
         - Důvody pro sčítání hodnocení
+    - Softwarová podpora procesů
+        - Vnější rozhraní
+        - Vnitřní rozhraní
 - Problematické body
     - Obecně
         - Nezvyklá koncepce hodnocení
@@ -37,6 +40,9 @@
     - Ve vztahu ke studentské komoře
         - disent při ustavování komise
     - Ve vztahu k uchazečům o stipendium
+- Výsledky hodnocení
+    - Průběh diskuse
+    - Rozdíly mezi prvním a druhým kolem
 - Recepce
     - Halas
 - Vztah komisařů ke komisi – dialogy
