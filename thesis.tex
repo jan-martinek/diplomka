@@ -1,0 +1,53 @@
+\documentclass[12pt,oneside,final]{latex/fithesis2}
+\usepackage[czech]{babel} % package for multilingual support
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[plainpages=false,pdfpagelabels,unicode]{hyperref}
+\usepackage{graphicx}
+
+\thesistitle{Stipendijní komise něco něco} % enter thesis title
+\thesissubtitle{diplomová práce}
+\thesisstudent{Jan Martinek}    % name of the author
+\thesiswoman{false} % defines author’s gender
+\thesisfaculty{fss}
+\thesisyear{jaro 2013}
+\thesisadvisor{doc. PhDr. Ing. Ondřej Císař, Ph.D.} % fill in advisor’s name
+\thesislang{cs}
+
+\begin{document}
+\FrontMatter
+\ThesisTitlePage
+
+\begin{ThesisDeclaration}
+\DeclarationText
+\AdvisorName
+\end{ThesisDeclaration}
+
+\begin{ThesisThanks}
+Rád bych poděkoval...
+\end{ThesisThanks}
+
+\begin{ThesisAbstract}
+Abstrakt...
+\end{ThesisAbstract}
+
+\begin{ThesisKeyWords}
+keyword1, keyword2, etc.
+\end{ThesisKeyWords}
+
+\MainMatter
+
+\include{uvod}
+
+\chapter{Další kapitola}
+...
+
+\tableofcontents          % prints table of contents
+
+\chapter{Úvod}    % first chapter followed by
+                          % many others
+
+\bibliographystyle{plain} % sets plain bibliography style
+\bibliography{zdroje}     % BibTeX database file
+
+\end{document}

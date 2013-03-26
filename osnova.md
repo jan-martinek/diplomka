@@ -1,0 +1,45 @@
+# Osnova
+
+- Úvod / motivace / volba tématu / zaznamenání / návod k přenosu
+- Metoda participant observation
+    - Reflexe výhod a omezení vlastního pozorování v pozici insidera
+- Background deliberativná demokracie + experimenty
+- Popis okolností vzniku komise
+- Popis principů a jejich zdůvodnění
+    - Principy
+        - Transparentnost
+        - Obsahová adaptabilita
+        - Spravedlnost
+        - Posílení diskuse a integrace komunity
+    - Stanovování parametrů hodnocení
+        - Východisko: řazení vhodných, nikoli definitivní výběr
+    - Proces hodnocení
+        - Role a průběh prvního hodnocení
+        - Role a průběh diskuse
+        - Role a průběh druhého hodnocení
+    - Počítání skóre
+        - Váha hodnotitelů
+        - Důvody pro sčítání hodnocení
+- Problematické body
+    - Obecně
+        - Nezvyklá koncepce hodnocení
+        - Časová náročnost hodnocení
+    - Ve vztahu k fakultě
+        - obhajitelnost výsledků komise
+        - udržitelnost komise
+        - užití počítačového systému pro správu zveřejňování výsledků
+    - Ve vztahu ke komisi
+        - nejasnost parametrů fungování komise
+        - ne/vhodnost ,,porotního‘‘ rozhodování
+        - tvorba reálných pravidel
+        - vztah mezi komisí a SK AS FSS
+        - vztah mezi komisí a vedením FSS
+    - Ve vztahu ke studentské komoře
+        - disent při ustavování komise
+    - Ve vztahu k uchazečům o stipendium
+- Recepce
+    - Halas
+- Vztah komisařů ke komisi – dialogy
+- Hodnocení působení komise
+- Závěr
+- Zdroje
