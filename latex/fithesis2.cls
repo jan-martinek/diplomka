@@ -43,7 +43,7 @@
 \setcounter{tocdepth}{4}
 
 % loads fit1*.clo size option class
-\input latex/fit1\@ptsize.clo\relax
+\input fit1\@ptsize.clo\relax
 
 \def\ps@thesisheadings{%
 \def\chaptermark##1{%
@@ -101,7 +101,7 @@
 % defines commands to typeset logos and default names of university,
 % faculty and thesis title on the title page
 % \font\filogo fi-logo at 40mm % as logo of FI, METAFONT logo will be used
-\def\facultylogo{assets/\@thesisfaculty-logo} % log format
+\def\facultylogo{\@thesisfaculty-logo} % log format
 \def\universityname{Masarykova univerzita} % default university name
 \def\facultyname{Fakulta informatiky} % default faculty name
 \def\@thesissubtitle{Diplomov\'{a} pr\'{a}ce} % default thesis title
