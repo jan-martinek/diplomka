@@ -1,0 +1,69 @@
+@article{rooney,
+  title={Researching from the inside--does it compromise validity?-A discussion},
+  author={Rooney, Pauline},
+  journal={Articles},
+  pages={5},
+  year={2005}
+}
+
+Researching from the inside — does it compromise validity?
+A discussion
+
+Pauline Rooney, Dublin Institute of Technology
+
+File: compromise validity? rooney.pdf
+
+Annotation summary:
+
+--- Page 3 ---
+
+Highlight (yellow), 1. 4. 2013 21:49, Jan Martinek:
+Such positivist accounts assumed that science could produce objective knowledge and thus the researcher's goal was to accurately capture an objective reality or `truth' (Hammersley 2000). However, with changing ontological and epistemological frameworks, criteria for validity changed. It was no longer deemed possible to produce objective knowledge through research — instead criteria for validity changed to include factors such as credibility, believability and reliability (Guba quoted in Cohen et al. 2000).
+
+
+--- Page 4 ---
+
+Highlight (yellow), 1. 4. 2013 21:49, Jan Martinek:
+The concept of validity itself is open to debate and scrutiny. It is problematic because of philosophical questions underlying the validity concept. Ontological and epistemological questions such as `What is reality and truth?' and `How do we perceive and understand social reality?' are complex. However such questions are critical to an understanding of the validity concept and to the role of the researcher.
+
+
+--- Page 5 ---
+
+Highlight (yellow), 1. 4. 2013 21:49, Jan Martinek:
+If truth and reality exist only as the product of individual consciousness, what constitutes validity? Accuracy? Truth? Credibility? Understanding? Maxwell (quoted in Cohen et al. 2000: 106) and Mishler (quoted in Cohen et al. 2000: 106) suggest that `understanding' is a more suitable term in qualitative research.
+
+Highlight (yellow), 1. 4. 2013 21:49, Jan Martinek:
+Guba et al. (quoted in Cohen et al. 2000: 106) argue for the need to replace positivist notions of validity in qualitative research with the notion of `authenticity'. Denzin and Lincoln (2000: 21) suggest that positivist terms should be replaced by notions of `credibility, transferability, dependability and confirmability'. 
+
+
+--- Page 7 ---
+
+Note (yellow), 1. 4. 2013 23:31, Jan Martinek:
+Napriklad i vyber a formulace otazek v kvanti vyzkumu s vyzkumnikem mimo je zasadne ovlivnena pochopenim jazyka a konstrukci kriterii a pojmu vyzkumnikem.
+
+Highlight (yellow), 1. 4. 2013 23:31, Jan Martinek:
+Promoters of anti-positivism and anti-positivist qualitative research claim that arguments against insider research are applicable to all research. For example, one can never guarantee the honesty and openness of subjects, and our research is always coloured by our subjectivities. Complete objectivity is thus impossible. The task is to minimise the impact of biases on the research process, to carry out research in consciousness of its socially situated character and to make the researcher's position vis-à-vis the research process transparent (Hammersley 2000). By making the research process transparent and honest, it is argued that readers can construct their own perspectives which `are equally as valid as our own' (Cohen et al. 2000: 106). 
+
+
+--- Page 9 ---
+
+Highlight (yellow), 1. 4. 2013 23:31, Jan Martinek:
+Fraser acknowledges that some may accuse her of being `biased towards establishing the effectiveness of a programme for which she is responsible'. There was a danger that her interest in the programme's success may have prompted her to probe for information that she wanted to hear, or gloss over information that did not suit her agenda. 
+
+Highlight (yellow), 1. 4. 2013 23:31, Jan Martinek:
+Another useful technique is respondent validation — asking participants to review the reported information to check that it corresponds to their own `subjective reality'. Although Fraser mentions this technique, she does not confirm whether she used it.
+
+
+--- Page 15 ---
+
+Highlight (yellow), 1. 4. 2013 23:31, Jan Martinek:
+With the case studies presented here, positivists may argue against their validity because, from their perspective, the researcher's subjectivities have inevitably distorted their findings (Kvale 1995). Their research cannot be taken as `fact' or truth' because it does not correspond to an objective reality. Their results are not reliable or generalisable. Triangulation will not present the same results. Neopositivists and antipositivists may argue that because complete objectivity is impossible, it is the insider researcher's biases and assumptions that threaten validity or `trustworthiness'. 
+
+
+--- Page 16 ---
+
+Highlight (yellow), 1. 4. 2013 23:31, Jan Martinek:
+For the moment, Deem and Brehony's suggestion seems a useful guideline for this difficult period: `Perhaps then, validity is best regarded as something which is to be worked towards rather than fully achieved' (1994: 165)
+
+
+(report generated by GoodReader)
