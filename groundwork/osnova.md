@@ -1,10 +1,12 @@
 # Osnova
 
 - Úvod / motivace / volba tématu / zaznamenání / návod k přenosu
+- Background deliberativní demokracie + experimenty
 - Metoda participant observation
     - Reflexe výhod a omezení vlastního pozorování v pozici insidera
-- Background deliberativní demokracie + experimenty
-- Popis okolností vzniku komise
+- Scéna: FSS, stipendijní fond, programy
+    - Popis okolností vzniku komise
+        - Vymezení se vůči předchozímu stavu
 - Popis principů a jejich zdůvodnění
     - Principy
         - Transparentnost
