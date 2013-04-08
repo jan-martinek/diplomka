@@ -1,0 +1,216 @@
+@book{smith,
+ author = {Smith, Graham},
+ title = {Democratic Innovations: Designing Institutions for Citizen Participation - Theories of Institutional Design},
+ year = {2009},
+ isbn = {0521514770, 9780521514774},
+ edition = {1st},
+ publisher = {Cambridge University Press},
+ address = {New York, NY, USA},
+} 
+
+Annotation summary:
+
+--- Page 2 ---
+
+Highlight (yellow), 4. 4. 2013 0:28, Jan Martinek:
+Organised groups and their representatives play a significant role in democratic polities, but we are interested here in whether institutions can be designed to directly engage what have been termed ‘lay' or ‘non-partisan' citizens, as opposed to experts and parti-san campaigners. This difference is not watertight.
+
+
+--- Page 5 ---
+
+Highlight (yellow), 4. 4. 2013 0:28, Jan Martinek:
+participation as the most effective defence against arbitrary power; the individual as the best judge of their own interests; the generation of better-informed decisions; or increased legitimacy and trustworthiness of political decisions
+
+Highlight (yellow), 4. 4. 2013 0:28, Jan Martinek:
+Whilst the intrinsic value of participation remains an important con-sideration, contemporary theorists tend to focus more attention on instru-mental arguments for increased citizen participation
+
+Highlight (yellow), 4. 4. 2013 0:28, Jan Martinek:
+the legitimate exercise of political authority requires justification to those people who are bound by it, and decision-making by deliberation among free and equal citizens is the most defensible justification anyone has to offer for provisionally settling controversial issues' (Gutmann 1996a: 344).
+
+
+--- Page 6 ---
+
+Highlight (yellow), 4. 4. 2013 0:28, Jan Martinek:
+Chapter 1 argues that the unfortunate disengagement between political science and democratic theory means that there is relatively little guidance on how to engage in theoretically informed analysis of innova-tive democratic practices.
+
+Highlight (yellow), 4. 4. 2013 0:28, Jan Martinek:
+innovations are evaluated according to the extent to which they realise goods  of democratic institutions
+
+Highlight (yellow), 4. 4. 2013 0:28, Jan Martinek:
+inclusiveness, popular control, considered judgement, trans-parency, efficiency and transferability
+
+
+--- Page 7 ---
+
+Underline (red), 4. 4. 2013 0:28, Jan Martinek:
+online deliberative polling
+
+Underline (red), 4. 4. 2013 0:28, Jan Martinek:
+Chapter 3 takes as its subject mini-publics : forums that are  constituted by (near-) randomly selected citizens.
+
+
+--- Page 9 ---
+
+Highlight (yellow), 4. 4. 2013 0:28, Jan Martinek:
+the disciplinary divorce within the academic study of politics, between normative theory and empirical political analysis, which has encouraged the separation of institutional accounts of democracy from any analysis of democracy's underlying principles, as if they belong to quite different worlds' (Beetham 1999: 29)
+
+Highlight (yellow), 4. 4. 2013 0:28, Jan Martinek:
+This is unfortunate, partly because speculation about what ought to be is likely to be more useful when informed by relevant knowledge of what is feasible, and partly because explanatory theory too easily becomes banal and method-driven when isolated from the pressing normative concerns that have fuelled worldwide interest in democracy in recent decades. ( Shapiro 2003: 2) 
+
+
+--- Page 10 ---
+
+Highlight (yellow), 4. 4. 2013 0:28, Jan Martinek:
+no practical design can realistically hope to meet all the rigorous demands of any particular theoretical model.
+
+
+--- Page 11 ---
+
+Underline (red), 4. 4. 2013 0:28, Jan Martinek:
+For delibera-tive democrats the process of formation of preferences is crucial.
+
+Highlight (yellow), 4. 4. 2013 0:28, Jan Martinek:
+not surprisingly, when it comes to ques-tions of institutional design, deliberative democrats are interested in the extent to which deliberation can be further embedded within the political process
+
+Highlight (yellow), 4. 4. 2013 0:28, Jan Martinek:
+Using the example of direct and delib-erative democracy, he argues that instead of viewing them as competing and often antagonistic models, we should recognise that their ideals and practices can be mutually supportive.
+
+
+--- Page 12 ---
+
+Highlight (yellow), 4. 4. 2013 10:35, Jan Martinek:
+In assessing democratic innovations we will consider the extent to which they realise four explicitly democratic goods, namely inclusiveness, popular control, considered judgement and transparency
+
+
+--- Page 13 ---
+
+Highlight (yellow), 4. 4. 2013 10:35, Jan Martinek:
+The four democratic goods in our analytical framework will be complemented by two additional institutional goods: efficiency and transferability. Efficiency  demands that we attend to the costs that participation can place on both citizens and public authori-ties. Transferability  provides an occasion to evaluate whether designs can operate in different political contexts, understood in relation to scale, political system or type of issue.
+
+
+--- Page 14 ---
+
+Highlight (yellow), 4. 4. 2013 10:35, Jan Martinek:
+If it is a realistic proposition that democratic innovations should be more widely institutionalised, then it is essential that we are able to show, contra the sceptics and critics, that these designs actually promote rather than undermine the realisation of the goods we associate with democratic institutions. 
+
+
+--- Page 22 ---
+
+Highlight (yellow), 5. 4. 2013 22:56, Jan Martinek:
+We must also consider the extent to which equality of voice is realised through the rules and procedures that govern the generation of outputs from institutions. We use the term ‘output' rather than decision, because institutions will vary in the extent to which they can affect the final political decision (see the discussion of popular control below). For some designs, their outputs are the final decision – they have direct policy, legis-lative or constitutional effect.
+
+
+--- Page 24 ---
+
+Highlight (yellow), 5. 4. 2013 22:56, Jan Martinek:
+Considered judgement does not simply require citizens to learn more ‘facts' about the issue under consideration, although such technical knowl-edge is crucial. It also requires them to appreciate the views of other citizens with quite different social perspectives and experiences.  Hannah Arendt offers one of the most compelling accounts of considered judgement, which she terms ‘enlarged mentality'. This requires a capacity to imaginatively place ourselves in the position of others, distancing ourselves from private circumstances that limit and inhibit the exercise of judgement (Arendt 1982: 42–3).
+
+
+--- Page 25 ---
+
+Highlight (yellow), 5. 4. 2013 22:56, Jan Martinek:
+Democratic institutions cannot be designed to ensure that citizens achieve such considered judgement, but there are different ways of pro-viding information and exposing citizens to the views and perspectives of other citizens; to nurture and support the development of enlarged men-tality.
+
+Highlight (yellow), 5. 4. 2013 22:56, Jan Martinek:
+It appears to be a largely novel task to think about insti-tutional arrangements and procedures which could generate a selective pressure in favour of this type of reflective and open preference-learning, as opposed to fixed preferences that are entirely derivative from situational determinants, rigid beliefs or self-deception' (Offe and Preuss 1991: 168).
+
+Highlight (yellow), 5. 4. 2013 22:56, Jan Martinek:
+First, in relation to the citizens who participate in the process, transparency requires that participants have a clear understanding about the conditions under which they are participating – for example, how has the issue under consideration been selected, who is organising the proc-ess, how will the outputs of the process affect political decisions? 
+
+Highlight (yellow), 5. 4. 2013 22:56, Jan Martinek:
+If institutions that engage citizens are to have a significant effect on pub-lic decisions, then the process needs to be open to scrutiny not only to the participants, but also to the wider public (unless of course the innova-tion engages all citizens).
+
+
+--- Page 26 ---
+
+Highlight (yellow), 5. 4. 2013 22:56, Jan Martinek:
+Administrative costs and the burden placed on citizens can thus be a feasibility constraint on democratic inno-vations.
+
+
+--- Page 27 ---
+
+Highlight (yellow), 5. 4. 2013 22:56, Jan Martinek:
+Finally, we also need to consider whether particular designs are limited to dealing with certain types of issues
+
+Highlight (yellow), 5. 4. 2013 22:56, Jan Martinek:
+The combination of the goods of inclusiveness, popular control, consid-ered judgement, transparency, efficiency and transferability offers a pow-erful analytical framework for the evaluation of democratic innovations that aim to increase and deepen citizen participation in the political deci-sion-making process.
+
+
+--- Page 88 ---
+
+Highlight (yellow), 6. 4. 2013 0:30, Jan Martinek:
+First, they are given space to craft recommendations or reflect on their own individual judgements  (depending on the design) free from the pres-sures that normally shape their opinions – the media, family, friends and colleagues – and carefully insulated from established political interests.  Second, the design of mini-publics recasts the typical relations of power between citizens and experts. Selected experts (who are often representa-tives of interest groups) are given an opportunity to present evidence and to answer participants' questions, but this is the only impact they have on citizens' judgements and decisions
+
+
+--- Page 89 ---
+
+Highlight (yellow), 6. 4. 2013 0:30, Jan Martinek:
+of the charge and witnesses; the mode of facilitation; and the impact of the outputs of mini-publics on political decision-making.
+
+
+--- Page 155 ---
+
+Underline (red), 6. 4. 2013 0:30, Jan Martinek:
+
+
+online deliberative polling In Chapter 3, we introduced 
+
+
+--- Page 156 ---
+
+Highlight (yellow), 6. 4. 2013 0:30, Jan Martinek:
+Having completed a pre-deliberation survey, participants are assigned to small groups which deliberate for between one and two hours per week over a period of around a month. Participants are then surveyed again.
+
+
+--- Page 158 ---
+
+Highlight (yellow), 6. 4. 2013 0:30, Jan Martinek:
+The organisers of ODPs suggest that there are a number of efficiency savings to be had by taking the innovation online. First, costs are reduced, although they remain expensive affairs. 
+
+
+--- Page 180 ---
+
+Highlight (yellow), 6. 4. 2013 0:30, Jan Martinek:
+Compared to its highly expensive offline variant, online deliberative polling  is one example where there are potential cost savings, since participants (citizens, moderators and experts) do not have to be brought to a single geographical location, with the associated travel and subsistence costs.
+
+
+--- Page 193 ---
+
+Highlight (yellow), 6. 4. 2013 0:30, Jan Martinek:
+enhancing citizen participation in political decision-making is feasible and can realise significant goods that we associate with democratic insti-tutions
+
+Highlight (yellow), 6. 4. 2013 0:30, Jan Martinek:
+no design is perfect: it is difficult to imagine any innovation or combination of innovations that can fully realise all six goods that form the basis of our analytical framework, not least because there are different ways that goods can be realised.
+
+
+--- Page 195 ---
+
+Highlight (yellow), 6. 4. 2013 0:30, Jan Martinek:
+An institutional theory of democracy is thus an alternative approach to a deductive form of analysis that we earlier argued tends to dominate the literature, where institutions are evaluated according to a predetermined theory of democracy.
+
+
+--- Page 196 ---
+
+Highlight (yellow), 6. 4. 2013 0:30, Jan Martinek:
+A number of influential theorists of deliberative democracy – for example, Jürgen Habermas and John Dryzek – have recognised the poten-tial tension between democratic deliberation and decision-making: their theories explicitly separate these two democratic moments.
+
+
+--- Page 198 ---
+
+Highlight (yellow), 6. 4. 2013 0:30, Jan Martinek:
+Institutions are not simply structures through which democratic goods are realised (although this remains important for instrumental theories of participation), but are also the 
+
+
+--- Page 199 ---
+
+Highlight (yellow), 6. 4. 2013 0:30, Jan Martinek:
+medium through which democratic agency is expressed. Institutional design is integral to the form that democratic agency can take. 
+
+Highlight (yellow), 6. 4. 2013 0:30, Jan Martinek:
+Institutions within which a compelling combination of these goods are realised are likely to create conditions that foster and cultivate the moral and political education, reflexivity and empowerment that are fundamental to participatory theories of democracy (Warren 1996).
+
+Highlight (yellow), 6. 4. 2013 0:30, Jan Martinek:
+Blaug's distinction suggests that any form of institutionalisation is disempowering in a democratic sense; but our analysis provides evidence to suggest that democratic innovations can at times be constitutive of the realisation of the kind of democratic agency that he wishes to celebrate.
+
+
+(report generated by GoodReader)
