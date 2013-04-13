@@ -1,0 +1,20 @@
+Fotky z deliberace
+
+https://www.facebook.com/photo.php?fbid=418827731504600&set=a.418826051504768.96711.408131845907522&type=3&theater
+
+
+@book{nietzsche,
+  title={Radostn{\'a} v{\v{e}}da},
+  author={Nietzsche, F.},
+  isbn={9788071100515},
+  series={Pra{\v{z}}sk{\'a} imaginace},
+  url={http://books.google.cz/books?id=aKSOAAAACAAJ},
+  year={1991},
+  publisher={Pra{\v{z}}sk{\'a} imaginace}
+}
+
+"Postačí chápat vědu jako co možná nejvěrnější polidštění věcí; popisujíce věci a jejich posloupnost, učíme se stále přesněji popisovat sebe samy. Příčina a následek: taková rozdvojenost pravděpodobně nikde neexistuje, — doopravdy máme před sebou kontinuum, z něhož vydělujeme pár částí; tak jako pohyb vnímáme vždy jen jako oddělené body, tedy vlastně nevidíme, nýbrž vysuzujeme."
+\cite[s. 117]{nietzsche}
+
+"Tak se nám však nevede jen v hudbě: všechny věci, které teď milujeme, jsme se právě takto naučili milovat. Nakonec jsme vždy za svou dobrou vůli, za svou trpělivost, slušenost, mírnost vůči cizímu odměněni — tím, že ono cizí pozvolna odhazuje své závoje a představuje se nám jako nová nevýslovná krása: - toje jeho *dík* za naši pohostinnost. I ten, kdo miluje sám sebe, se to naučil tímto způsobem: není jiné cesty. I lásce se člověk musí naučit. 
+\cite[s. 192]{nietzsche}

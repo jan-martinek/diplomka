@@ -1,0 +1,2 @@
+> Postačí chápat vědu jako co možná nejvěrnější polidštění věcí; popisujíce věci a jejich posloupnost, učíme se stále přesněji popisovat sebe samy. Příčina a následek: taková rozdvojenost pravděpodobně nikde neexistuje, — doopravdy máme před sebou kontinuum, z něhož vydělujeme pár částí; tak jako pohyb vnímáme vždy jen jako oddělené body, tedy vlastně nevidíme, nýbrž vysuzujeme.
+\cite[s. 117]{nietzsche}
