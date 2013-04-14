@@ -16,6 +16,7 @@ do
 	echo "$filenameWithExt copied..."
 done
 
+# pandoc md -> latex
 for file in ./src/*.md
 do
 	filenameWithExt=$(basename "$file")
@@ -24,8 +25,20 @@ do
 	echo "Markdown file $filename.md has been converted to TeX..."
 done
 
+# czech quotes - pandoc/latex workaround
+for file in ./out/[0-9]*.tex
+do
+	filenameWithExt=$(basename "$file")
+	sed "s/\`\`/\\\enquote{/" $file > out/$filenameWithExt.tmp
+	sed "s/''/}/" out/$filenameWithExt.tmp > out/$filenameWithExt.tmp2
+	rm out/$filenameWithExt.tmp
+	mv out/$filenameWithExt.tmp2 $file
+	echo "Czech quotes on $filenameWithExt applied."
+done
+
 cd out
 
+# do the latex work
 pdflatex thesis.tex # creates .aux file which includes keywords of any citations
 bibtex thesis # uses the .aux file to extract cited publications from the database in the .bib file, formats them according to the indicated style, and puts the results into in a .bbl file
 pdflatex thesis.tex # inserts appropriate reference indicators at each point of citation, according to the indicated bibliography style

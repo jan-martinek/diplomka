@@ -6,6 +6,18 @@
 \usepackage{graphicx}
 \usepackage{natbib}
 
+\usepackage{csquotes}
+\DeclareQuoteStyle{czech}
+  {\quotedblbase}
+  {\textquotedblleft}
+  {\textquoteleft}
+  {\textquoteright}
+
+\renewcommand{\uv}[1]{
+  \enquote{#1}
+}
+
+
 \thesistitle{Koncepce a implementace grantové komise na principech deliberace} % enter thesis title
 \thesissubtitle{diplomová práce}
 \thesisstudent{Jan Martinek}    % name of the author

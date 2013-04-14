@@ -20,18 +20,18 @@ Autorovým záměrem není vytvoření policy analýzy zaměřené na vyhodnocen
     
     Důležitým aspektem vědecké práce se ukazuje být též význam samotného výsledku práce --- tohoto textu. Další z podkapitol tedy přibližuje roli tohoto v dosahování poznání, který ukazuje jako *work in progress*, jako součást diskuse, artefakt vedoucí k hlubšímu pochopení obecnějších jevů, který sám o sobě není konečnou kodifikací vědění.
 
-    Patřičný prostor je věnován reflexi vlastní pozice autora, který byl součástí procesu vzniku instituce a působí tedy jak v roli zkoumajícího subjektu, tak zkoumaného objektu. Tato pozice jednak znamená možnost zanesení práce subjektivní percepcí situace autorem, ale zároveň umožňuje využití znalosti situačního prostředí a slovníku k rozeznání detailů interakce, které by jinak zůstaly skryty.
+    Patřičný prostor je věnován reflexi vlastní pozice autora, který byl součástí procesu vzniku instituce a působí tedy jak v roli zkoumajícího subjektu, tak zkoumaného objektu. Tato pozice jednak znamená možnost zanesení práce subjektivní percepcí situace autorem, ale zároveň umožňuje využití znalosti situačního prostředí a slovníku k rozeznání detailů interakce, které by jinak zůstaly skryty. Autor si zároveň uvědomuje své zatížení konkrétním akademickým prostředím, které je v dané kapitole explicitně rekapitulováno.
 
 4. Kapitola *Design stipendijní komise* se věnuje konstrukci pravidel fungování instituce a jejich vztažení vůči *a)* normativním východiskům deliberativní teorie, *b)* parametrům institucionálního designu a *c)* kontextu vzniku instituce. Zároveň se věnuje klíčovým bodům diskusí, které byly identifikovány jak samotnými aktéry diskusí, tak ex post facto autorem textu.
 
-5. Z hlediska porozumění situaci nejdůležitější kapitola *Pro a proti: praxe komise* popisuje východiska jednání aktérů při diskusích o ustavované stipendijní komisi a jejich hodnocení různých aspektů jejího fungování. Tato kapitola staví hermeneutické porozumění aktérům na textové základně diskusí vedených on-line (především prostřednictvím e-mailu a různých funkcionalit sociální sítě Facebook) v průběhu ustavování instituce a též na několika rozhovorech vedených při zpracování této studie s klíčovými aktéry situace.
+5. Z hlediska porozumění situaci nejdůležitější kapitola *Pro a proti: praxe komise* popisuje východiska jednání aktérů při diskusích o ustavované stipendijní komisi a jejich hodnocení různých aspektů jejího fungování. Tato kapitola staví hermeneutické porozumění aktérům na textové základně diskusí vedených on-line v průběhu ustavování instituce (především prostřednictvím e-mailu a různých funkcionalit sociální sítě Facebook) a též na několika rozhovorech vedených při zpracování této studie s klíčovými aktéry situace.
 
 6. Kapitola *Předpoklady a výsledky* se věnuje hodnocení působení instituce z hlediska parametrů definovaných tvůrci komise, z hlediska tří úrovní působení deliberativně-demokratického experimentu definovaných autorem v předchozí práci a z hlediska "šesti dober" demokratických institucí definovaných Grahamem Smithem v jeho knize věnované institucionálnímu designu demokratických institucí (\citeyear{smith}). Využito je zároveň poznatků získaných v předchozích kapitolách a měřitelných výsledků fungování komise.
 
 7. Cílem práce je hluboké zprostředkování, sdílení externě nedosažitelného poznání a přiblížení přemýšlení aktérů při utváření demokratické instituce. Cíl práce je tedy naplněn samotným textem a jeho hodnocení spočívá ve výčtu slabých stránek a omezení výsledné práce. Vedle toho se v poslední kapitole autor věnuje reflexi pozice aktéra, který se nachází v zároveň v rolích navrhovatele institucionálního uspořádání, vykonavatele dohledu nad implementací a fungováním instituce a též subjektu podřízenému pravidlům fungování dané instituce. Taková role není v demokratických institucích neobvyklá a odpovědnost nakládání se svěřenou pravomocí je klíčovým prvkem fungování --- je třeba s tímto pojmem operovat jak při konstrukci, tak při vykonávání svěřené role.
 
+Klíčové 
 
-
-
-
+- věda měnící skutečnost
+- věda vyjadřující se ke stavu skutečnosti
 
