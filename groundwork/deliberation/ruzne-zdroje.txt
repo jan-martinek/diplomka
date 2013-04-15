@@ -3,6 +3,13 @@ Fotky z deliberace
 https://www.facebook.com/photo.php?fbid=418827731504600&set=a.418826051504768.96711.408131845907522&type=3&theater
 
 
+@book{voegelin,    
+
+}
+
+Bylo samozřejmě nemožné zabývat se problémem státu (a politiky všeobecně) a pominout vše kromě logiky právních norem. (s. 31)
+
+
 @book{nietzsche,
   title={Radostn{\'a} v{\v{e}}da},
   author={Nietzsche, F.},
