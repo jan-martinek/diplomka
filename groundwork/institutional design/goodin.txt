@@ -7,7 +7,6 @@
     year={1998},
     publisher={Cambridge University Press}
 }
-
 @inbook{iatd,
     author = {Goodin, R. E.},
     chapter = {Institutions and Their Design},
@@ -47,6 +46,8 @@ The Myth of the Intentional Designer (still less the Myth of the Inentional Desi
 
 [policy] Design is the creation of an actionable form to promote valued outcomes in a particular context. (31, cituje Bobrow and Dryzek, 1987)
 
+"(Policy) design is the creation of an actionable form to promote valued outcomes in a particular context. It is the emphasis on clarified values and context sensibility." (Bobrow and Dryzek, 1987)
+
 Odkazy na engineering a jiné obory... vazba anekdotická.
 
 ****
@@ -76,7 +77,7 @@ To Foucault, individuals are alrgely the crations of the discourses which they e
 
 ****
 
-Processes of political innovation are necessarily limited by both the state-related constraints just described and the prevailing constellation of discourses. Thus institutional reshaping is always going to be an uphill struggle. It is likely to prove fruitful to the extent that (a) these constraints are recognized and identified, and (b) contributions to the conversation are imaginative in terms of location or creating islands of freedom in seas of structural necessity and discursive hegemony.
+Processes of political innovation are necessarily limited by both the state-related constraints just described and the prevailing constellation of discourses. Thus institutional reshaping is always going to be an uphill struggle. It is likely to prove fruitful to the extent that (a) these constraints are recognized and identified, and (b) contributions to the conversation are imaginative in terms of location or creating islands of freedom in seas of structural necessity and discursive hegemony. (122)
 
 
 
