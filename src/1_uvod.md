@@ -1,6 +1,6 @@
 \newpage
 
-> *"Nakonec jsme vždy za svou dobrou vůli, za svou trpělivost, slušnost, mírnost vůči cizímu odměněni — tím, že ono cizí pozvolna odhazuje své závoje a představuje se nám jako nová nevýslovná krása: — to je jeho* dík *za naši pohostinnost. I ten, kdo miluje sám sebe, se to naučil tímto způsobem: není jiné cesty. I lásce se člověk musí naučit." * 
+> *"Nakonec jsme vždy za svou dobrou vůli, za svou trpělivost, slušnost, mírnost vůči cizímu odměněni — tím, že ono cizí pozvolna odhazuje své závoje a představuje se nám jako nová nevýslovná krása: — to je jeho* dík *za naši pohostinnost. I ten, kdo miluje sám sebe, se to naučil tímto způsobem: není jiné cesty. I lásce se člověk musí naučit."* 
 > 
 > \cite[s. 192]{nietzsche}
 
@@ -16,7 +16,7 @@ Autor se v minulosti^[Mimo jiné ve své bakalářské práci "Deliberativní de
 
 1. V úvodu je vedle cíle též analyticky vymezen obsah celého textu.
 
-2. V první obsahové kapitole *Demokratická teorie* autor popisuje východiska teorie deliberativní demokracie a krátce se věnuje tzv. deliberativním experimentům, tj. vytvářením institucí různého rozměru s přesně danou funkcí, které nějakým způsobem uplatňují ve své praxi principy deliberace --- dosahování rozhodnutí pomocí veřejné diskuse. 
+2. V první obsahové kapitole *Demokratická východiska* autor popisuje východiska teorie deliberativní demokracie a krátce se věnuje tzv. deliberativním experimentům, tj. vytvářením institucí různého rozměru s přesně danou funkcí, které nějakým způsobem uplatňují ve své praxi principy deliberace --- dosahování rozhodnutí pomocí veřejné diskuse. 
 
     Vedle je tato kapitola věnována teorii institucionálního designu, která se přímo věnuje procesům, které vedou k ustavení instituce a definování parametrů, dle nichž je možné hodnotit jejich praktické fungování.
 

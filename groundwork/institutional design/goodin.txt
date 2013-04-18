@@ -1,0 +1,87 @@
+@book{goodin,
+    title={The Theory of Institutional Design},
+    author={Goodin, R.E.},
+    isbn={9780521636438},
+    lccn={95011380},
+    series={Theories of Institutional Design},
+    year={1998},
+    publisher={Cambridge University Press}
+}
+
+@inbook{iatd,
+    author = {Goodin, R. E.},
+    chapter = {Institutions and Their Design},
+    pages={1--43},
+    crossref = {goodin}
+}
+
+Institutional devices, such as committee structures in legislatures, or bicameral legislatures, or judicial norms or constitutional constraints on the majoritarian decision-making can sometimes ensure a "structure-induced equilibrium" in a situation where none would otherwise exist. (12)
+
+***
+
+Forms and functions of Social Institutions – citace k definici instituce
+
+That definitional diversity deries, however, almost entirely form the inclination to opt for a discipline-based, theory-impregnated internalist-style definition of the term [institution]. (...) Let us instead adopt an "external" account of what institutions are and what they do. This is not a story that those engaged in the practice will necessary recognize as their own: it will not describe their motives or goals or perceptions. Rathaer, it is a story told from the outside, by an observer not internal to the practice, about the effects of institutions. It is a story about "what the do," not about "why they do it".  (21)
+
+***
+
+Politická instituce
+"[T]he sphere of politics," which "deals with the control of the use of force within a society and the maintenance of internal and external peace of the boundaries of the society, as well as control of the mobilization of resources for the implementation of various goals and the articualtion and setting up of certain goals for the collectivity". (22, cituje Eistenstadt 1968)
+
+****
+
+"Institutionalism" has been characterized as "the process by which organizations and the procedures acquire value and stability." (22, cituje Huntington 1968)
+
+****
+
+Models of Social Change: Accident, Evolution and Intention
+
+"[W]hat intentional agents intentionally do (or, more typically, fail to do) is important even in modelling social and institutional change as essentially accidental." (25)
+
+****
+
+The Myth of the Intentional Designer (still less the Myth of the Inentional Design) is greatly to be avoided in theories of institutional design. Typically, there is no single design or designer. There are just lots of localized attempts at partial design cutting across one another and any sensible scheme for institutional design has to take account of that fact. Thus, even within the realm of our intentional interventions, what we should be aiming at is not the design of institutions directly. Rather, we should be aiming at designing schemes for designing institutions – schemes which will pay due regard to the multiplicity of designers and to the inevitably cross-cutting nature of their intentional interventions in the design process. (28)
+
+
+****
+
+[policy] Design is the creation of an actionable form to promote valued outcomes in a particular context. (31, cituje Bobrow and Dryzek, 1987)
+
+Odkazy na engineering a jiné obory... vazba anekdotická.
+
+****
+
+In the case of a policy, a well-designed policy is one of which fits well with the other policies, and the larger political/economic/social systems in which it is set. In the case of a mechanism, a well-designed mechanism is one that works well alonside other features of the social environment in which it is set, including other mechanisms in play here. Insofar as the machanism works by manipulating incenives to individials, a well-designed mechanism is one whose internal requiremens are "compatible" with other incentives that individuals face, rather than offering people incentives for undercuting the goal (...) which we we trying to achieve by using the mechanism in the first place. (34)
+
+****
+
+Desirable principles… (40–43)
+
+
+
+
+
+
+
+
+@inbook{iatd,
+    author = {Dryzek, J. S.},
+    chapter = {The Informal Logic of Institutional Design},
+    pages={103--125},
+    crossref = {goodin}
+}
+
+To Foucault, individuals are alrgely the crations of the discourses which they engage, and so generally incapable of rational choices across discourses. A Foucauldian commitment to the general impenetrability and hegemony of discourse implies scronful disminsal of the idea of instituional design, on the grounds that any such project would either perpetuate old kinds of repression, or at best institute new ones. Foucault himself softened the severity of these commitments toward the end of his life. Here, I will depart from  Foucauldian position to suggest that while discourses do indeed exist, they are rarely hegemonic, that more than one discourse is normally available in any particular setting, that they are only partially incommensurable, that they are open to informed scrutiny and reconstruction at the margins, and that rational choices across them can indeed be made. (103)
+
+
+****
+
+Processes of political innovation are necessarily limited by both the state-related constraints just described and the prevailing constellation of discourses. Thus institutional reshaping is always going to be an uphill struggle. It is likely to prove fruitful to the extent that (a) these constraints are recognized and identified, and (b) contributions to the conversation are imaginative in terms of location or creating islands of freedom in seas of structural necessity and discursive hegemony.
+
+
+
+
+
+
+
+
