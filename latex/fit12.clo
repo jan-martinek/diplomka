@@ -4,7 +4,7 @@
 \ProvidesFile{fit12.clo}[2008/12/15 fithesis2 (size option)]
 
 % redefines \normalsize command to change font size
-\renewcommand{\normalsize}{\fontsize\@xiipt{14.5}\selectfont%
+\renewcommand{\normalsize}{\fontsize\@xiipt{15.5}\selectfont% %14.5 is normal; 18 = 1,5
 \abovedisplayskip 12\p@ plus3\p@ minus7\p@
 \belowdisplayskip \abovedisplayskip
 \abovedisplayshortskip  \z@ plus3\p@
@@ -63,7 +63,7 @@
 \topskip 10pt
 \footskip 30pt
 
-\textheight = 37\baselineskip
+\textheight = 37\baselineskip %37 is normal; 32 is final
 \advance\textheight by \topskip
 \textwidth 5.0truein
 \columnsep 10pt

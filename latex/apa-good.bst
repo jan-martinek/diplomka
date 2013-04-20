@@ -7,7 +7,7 @@
 %% merlin.mbs  (with options: `ay,nat,nm-rev,jnrlst,keyxyr,dt-beg,yr-par,note-yr,vol-it,volp-com,num-xser,bkpg-par,add-pub,edparxc,bkedcap,pp,ed,abr,ednx,xedn,amper,and-com,and-com-ed,url,url-nl')
 %% ----------------------------------------
 %% *** An attempts at an APA style in Natbib ***
-%% 
+%%
 %% Copyright 1994-2000 Patrick W Daly
  % ===============================================================
  % IMPORTANT NOTICE:
