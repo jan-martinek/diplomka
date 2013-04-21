@@ -1,0 +1,41 @@
+@book{patocka,
+  title={{\'U}vod do fenomenologick{\'e} filosofie},
+  author={Pato{\v{c}}ka, J.},
+  isbn={9788072980642},
+  series={Edice Oik{\'u}men{\'e}},
+  year={2003},
+  publisher={OIKOYMENH}
+}
+
+Na smyslové zkušenosti, která, pokud je originární, dává vždy individuální případ, se buduje hypoteticky obecné poznání individuálního a reálního, poznání obecných zákonitostí. Poznání, které je hypotetické, pokud je obecné, a pokud se verifikuje, tak vždy na individuálních případech. (6)
+
+Jazyk není možn jinak než tím faktem, že jsme s to mínit totéž, ať máme před sebou věc v její konkrétní podobě a přítomnosti, či nikoli. (7)
+
+Příklad rozdílu mezi pochopeným a pouze významově artikulovaným důkazem ukazuje, že je zde markantní zkušenostní rozdíl mezi oním *jasně vidět* a pouhým *hledat*. (9)
+
+Když tedy abstrahujeme, když bereme tento tón pouze jako případ species tónu a^1, máme již před sebou docela jiný předmět, protože není individuální. (9)
+
+Filosofie není doménou hloubky, nýbrž doménou jasnosti, která se chce plně předložit našemu pohledu. Není to doména geniality, ale přísná věda. (13)
+
+[F]enomenologie z podstatných důvodů -- protože věc to žádá -- musí klást výroky nejen o tom, co se beprostředně prožívá v reflexi, nýbrž musí mluvit také o tom, co není bezprostředně v reflexi přítomno, protože s tím, co je přítomno, souvisí podstatně mnoho nepřítomného. (19-20)
+
+V reflexi na prožívání nelze izolovat přítomný okamžit -- bezprostředně -- od toho, co je v něm dědictvím minulosti. (20)
+
+Snad fenomenologovi nepřísluší, aby konstatoval nějaké faktické prožitky, aby se zabýval reální situací a daností prožitků, jež chce analyzovat, aby zajišťoval tuto danost. Prožitky té a té reální osoby -- pokud nedělá fenomenologii té osoby -- ho nesmí zajímat. Přesto, že od toho abstrahuje, že ho to nezajímá, přesto může analyzovat akt pochybnosti, vzpomínky jako takové, najde v reflexi jeho podstatnou strukturu, nejen jeho přítomnost, ale podstatnou souvislost s ostatním duševním životem, do něhož je akt vždy zapuštěn. (20)
+
+Odhalení skrytých předpokladů, jejich kritika, eventuálně relativizace, omezení, likvidace -- to je nekonečný proces. (23)
+
+[Franz Brentano] rozeznává tři základní druhy vztahu k předmětu: představování, souzení a hodnocení (láska a nenávist). Souzení je teze, kladná či záporná, uznání, že něco existuje nebo neexistuje. Soud tedy předpokládá něco, čemu existenci či neexistenci přisuzuje. Soud se musí budovat na představě. Hodnocení se buduje na obojím. (30)
+
+
+
+
+
+
+
+
+
+
+
+
+
