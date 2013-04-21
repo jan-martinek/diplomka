@@ -2,13 +2,13 @@
 
 # Deliberativní demokracie – hodnotová východiska^[Tato kapitola částečně vychází z autorovy bakalářské práce na téma "Deliberativní demokracie v praxi", v níž se autor zabýval konstrukcí hodnotících parametrů, které by umožnily vedle sebe postavit demokratické experimenty sdílející důraz na deliberativní praxi, ale rozcházející se v užitých metodách, rozměrech a zamýšlených dopadech.]
 
-Demokracie je forma vlády, která umožňuje všem těm, kterým je vládnuto, participovat na vládě sobě samým. Praxe zastupitelské volební demokracie obvyklá v naprosté většině demokraticky řízených států vždy vzbuzovala otázky vyplývající z povahy legitimity rozhodování zástupců – zpochybňován byl proces volby, samotný fakt zastupování, vztah mezi vládnoucím orgánem a převážně územně vymezeným agregátem občanů, způsoby dosahování rozhodování a z toho vyplývající problémy vztahů mezi většinou a menšinou a podobně. 
+Demokracie je forma vlády, která umožňuje všem těm, kterým je vládnuto, participovat na vládě sobě samým. Praxe zastupitelské volební demokracie obvyklá v naprosté většině demokraticky řízených států vždy vzbuzovala otázky vyplývající z povahy legitimity rozhodování zástupců --- zpochybňován byl proces volby, samotný fakt zastupování, vztah mezi vládnoucím orgánem a převážně územně vymezeným agregátem občanů, způsoby dosahování rozhodování a z toho vyplývající problémy vztahů mezi většinou a menšinou a podobně. 
 
-Kritika se týkala jak procedurálního ukotvení vládnutí (volby, hlasování, přístup k informacím) tak podléhajících principů: především ve střetu lockeovské obhajoby zastupitelské vlády, která získává autoritu díky fikci společenské smlouvy, a rousseauovského důrazu na absolutní nutnost participace každého jedince na tvorbě "obecné vůle". V nabízených a realizovaných praktických alternativách byla bohatší první kategorie kritiky, už díky představitelnosti alternativ (např. i díky již existujícím rozdílům mezi historicky utvořenými způsoby volby v různých státech); vliv emancipační kritika vládnutí z pozice kritiky samotného zastupitelského principu nelze považovat za méně významný, ale z hlediska návrhu konkrétních institucí minimálně za méně plodný --- samotný Rousseau je autorem výroku, že "demokraticky by si mohl vládnout jen národ bohů. Vláda tak dokonalá se nehodí pro lidi." (\citealp[274]{rousseau}, \citealp[citováno dle][334]{cabadakubat}).
+Kritika se týkala jak procedurálního ukotvení vládnutí (volby, hlasování, přístup k informacím) tak podléhajících principů: především ve střetu lockeovské obhajoby zastupitelské vlády, která získává autoritu díky fikci společenské smlouvy, a rousseauovského důrazu na absolutní nutnost participace každého jedince na tvorbě "obecné vůle". V nabízených a realizovaných praktických alternativách byla bohatší první kategorie kritiky, už díky představitelnosti alternativ (např. i díky již existujícím rozdílům mezi historicky utvořenými způsoby volby v různých státech); vliv emancipační kritiky vládnutí z pozice zpochybnění samotného zastupitelského principu nelze považovat za méně významný, ale z hlediska návrhu konkrétních institucí minimálně za méně plodný --- primárně se soustředila na možnosti aplikace přímé participace na vládnutí (realizované např. ve švýcarském politickém systému), která naráží na mnohá omezení stupňující se s velikostí dané obce. Samotný Rousseau je autorem výroku, že "demokraticky by si mohl vládnout jen národ bohů. Vláda tak dokonalá se nehodí pro lidi." (\citealp[274]{rousseau}, \citealp[citováno dle][334]{cabadakubat}).
 
 Předpokladem uvažování o obecně moderních demokratických institucích je diskuse otázky položené Johnem Rawlsem: "How is it possible that there may exist over time a stable and just society of free and equal citizens profoundly divided by reasonable religious, philosophical, and moral doctrines?" \cite[xxv]{politicalLiberalism} Filosofové odpovídají dvojím způsobem: procedurálně-liberálním konceptem etické neutrality státu a komunitaristicky vymezeným sdíleným hodnotové jádrem -- coby společensko-historicky danými předpoklady možnosti soužití. Na otázku je však možné odpovědět též formou zkoumání praxe, která soužití umožňuje, s cílem nacházení "způsobu, jak u občanů (…) probudit zájem o věci veřejné a pěstovat ctnosti, které přispívají k *fungování demokratických institucí*." \citep[102]{cisarDemokracie}
 
-V 90. letech 20. století tak prožila teorie demokracie "deliberativní obrat" – teoretické diskuse se přesunuly od správných procedur a tvorby reprezentace k redefinici konkrétního obsahu politiky, tím se stalo "společné hovoření" o problémech, tedy k procesu deliberace \citep[2]{goodin2008}.
+V 90. letech 20. století tak prožila teorie demokracie "deliberativní obrat" – teoretické diskuse se přesunuly od správných procedur a tvorby reprezentace k redefinici konkrétního obsahu politiky, tím se stalo "společné hovoření" o problémech, tedy k procesu deliberace \citep[2]{goodin2008}. Dlouhodobá existence stabilní a spravedlivé vlády je do značné míry závislá na vnímané legitimitě politické autority a, jak píše Amy Gutmann "decision-making by deliberation among free and equal citizens is the most defensible justification anyone has to offer for provisionally settling controversial issues" (\citealp{amy}, \citealp[citováno dle][5]{smith}).
 
 Teorie deliberativní demokracie, ač vychází z několika zásadních zdrojů (především z teorie veřejné sféry a ideální řečové situace Jürgena Habermase \citep[1]{elster}), není monolitickou ani konzistentní teorií, ale spíše širokou diskusí týkající se problematiky vhodné komunikace v politických záležitostech. Sdílenou myšlenkou ale zůstává, že v jádru demokracie nejde o agregování preferencí (např. prostřednictvím voleb), ale o jejich transformaci v diskusi \citep[1]{elster}. 
 
@@ -54,39 +54,48 @@ Transformace způsobu argumentace reprezentantů předpokládá ocenění této 
 
 Důraz je kladen na vysokou míru konsensuálního rozhodování o výsledném řešení za pochopení pozic ostatních účastníků diskuse. Problémy, které tyto orgány řeší, jsou stejně různorodé jako procedury, kterými pracují, a povaha výsledků, které produkují. Vytváření těchto orgánů bývá iniciováno jak teoretiky deliberace, jako v případě tzv. *Deliberative Polls*, pořádaných v USA Jamesem Fishkinem, tak místními orgány politické obce jako v případě *participativního rozpočtování* v městských čtvrtích v Jižní Americe \citep[27,20]{bakalarka}.
 
-Z hlediska institucionálního návrhu je podstatné, že deliberativní experimenty bývají navrhovány nejen tak, aby deliberativní praxe byla možná (možná je téměř kdekoli), ale autoři návrhů se snaží přímo do procesu fungování vložit prostory a incentivy k tomu, aby tato praxe byla skutečně realizována. Normativní demokratická teorie je tak zcela explicitně přetvářena v motivovaně utvářené instituce.
+Z hlediska institucionálního návrhu je podstatné, že deliberativní experimenty bývají navrhovány nejen tak, aby deliberativní praxe byla možná (možná je téměř kdekoli), ale autoři návrhů se snaží přímo do procesu fungování vložit prostory a incentivy k tomu, aby tato praxe byla skutečně realizována. Normativní demokratická teorie je tak zcela explicitně přetvářena v motivovaně utvářené instituce. Ricardo Blaug například vymezuje spor mezi "úřadující (incumbent) demokracií" a "kritickou demokracií" – první se snaží zlepšit a zároveň ovládat participatorní vstupy skrze směrování, zjednodušování a racionalizaci institucionalizovaných zprostředkovatelských kanálů ("institutionalized conduits"), druhá – kritická – vzniká na okraji a vzniká kvůli sporu o povahu vládnutí "úřadující", elitní vlády ("governance").
+
+Organised groups and their representatives play a significant role in democratic polities, but we are interested here in whether institutions can be designed to directly engage what have been termed ‘lay' or ‘non-partisan' citizens, as opposed to experts and parti-san campaigners. This difference is not watertight.
 
 # Institucionální design – logika praxe
 
 - definice instituce
-That definitional diversity derives, however, almost entirely form the inclination to opt for a discipline-based, theory-impregnated internalist-style definition of the term [institution]. (...) Let us instead adopt an "external" account of what institutions are and what they do. This is not a story that those engaged in the practice will necessary recognize as their own: it will not describe their motives or goals or perceptions. Rathaer, it is a story told from the outside, by an observer not internal to the practice, about the effects of institutions. It is a story about "what the do," not about "why they do it".  (21)
+That definitional diversity derives, however, almost entirely form the inclination to opt for a discipline-based, theory-impregnated internalist-style definition of the term [institution]. (...) Let us instead adopt an "external" account of what institutions are and what they do. This is not a story that those engaged in the practice will necessary recognize as their own: it will not describe their motives or goals or perceptions. Rathaer, it is a story told from the outside, by an observer not internal to the practice, about the effects of institutions. It is a story about "what the do," not about "why they do it".  (goodin, 21)
 
-"Institutionalism" has been characterized as "the process by which organizations and the procedures acquire value and stability." (22, cituje Huntington 1968)
+"Institutionalism" has been characterized as "the process by which organizations and the procedures acquire value and stability. (goodin, 22, cituje Huntington 1968)
 
 - definice designu
 
-[policy] Design is the creation of an actionable form to promote valued outcomes in a particular context. (31, cituje Bobrow and Dryzek, 1987)
+[policy] Design is the creation of an actionable form to promote valued outcomes in a particular context. (goodin, 31, cituje Bobrow and Dryzek, 1987)
 
 "(Policy) design is the creation of an actionable form to promote valued outcomes in a particular context. It is the emphasis on clarified values and context sensibility." (Bobrow and Dryzek, 1987)
 
 Odkazy na engineering a jiné obory... vazba anekdotická.
 
+no design is perfect: it is difficult to imagine any innovation or combination of innovations that can fully realise all six goods that form the basis of our analytical framework, not least because there are different ways that goods can be realised. (smith, 193)
+
 
 - představuje design nikoli jako pouhé intencionální vytváření pravidel interakce, ale jako sociální proces, který vede k utváření ustálených forem sociálního jednání
 
-The Myth of the Intentional Designer (still less the Myth of the Inentional Design) is greatly to be avoided in theories of institutional design. Typically, there is no single design or designer. There are just lots of localized attempts at partial design cutting across one another and any sensible scheme for institutional design has to take account of that fact. Thus, even within the realm of our intentional interventions, what we should be aiming at is not the design of institutions directly. Rather, we should be aiming at designing schemes for designing institutions – schemes which will pay due regard to the multiplicity of designers and to the inevitably cross-cutting nature of their intentional interventions in the design process. (28)
+The Myth of the Intentional Designer (still less the Myth of the Inentional Design) is greatly to be avoided in theories of institutional design. Typically, there is no single design or designer. There are just lots of localized attempts at partial design cutting across one another and any sensible scheme for institutional design has to take account of that fact. Thus, even within the realm of our intentional interventions, what we should be aiming at is not the design of institutions directly. Rather, we should be aiming at designing schemes for designing institutions – schemes which will pay due regard to the multiplicity of designers and to the inevitably cross-cutting nature of their intentional interventions in the design process. (goodin, 28)
 
 Models of Social Change: Accident, Evolution and Intention
 
-"[W]hat intentional agents intentionally do (or, more typically, fail to do) is important even in modelling social and institutional change as essentially accidental." (25)
+"[W]hat intentional agents intentionally do (or, more typically, fail to do) is important even in modelling social and institutional change as essentially accidental." (goodin, 25)
 
 - konkrétním procesům, které vedou k ustavení instituce
     - vytvoření příležitosti
     - návrh pravidel a jednání o nich
+    - vyhodnocení feasibility
+    - Administrative costs and the burden placed on citizens can thus be a feasibility constraint on democratic inno-vations. (smith, 26)
     - vznikání procedur
     - zpětnovazební ustavování
 
 - definování parametrů, dle nichž je možné hodnotit jejich praktické fungování
+
+We must also consider the extent to which equality of voice is realised through the rules and procedures that govern the generation of outputs from institutions. We use the term ‘output' rather than decision, because institutions will vary in the extent to which they can affect the final political decision (see the discussion of popular control below). For some designs, their outputs are the final decision – they have direct policy, legis-lative or constitutional effect. (smith, 22)
+
 
 
 # Vzájemné provázání
@@ -97,19 +106,47 @@ Obě teoretické oblasti jsou v práci úzce provázány. Demokratická teorie p
 
 unfortunate disengagement between political science and democratic theory means that there is relatively little guidance on how to engage in theoretically informed analysis of innova-tive democratic practices \citep[6]{smith}
 
+
+
+the disciplinary divorce within the academic study of politics, between normative theory and empirical political analysis, which has encouraged the separation of institutional accounts of democracy from any analysis of democracy's underlying principles, as if they belong to quite different worlds' (Beetham 1999: 29) smith, 9
+
+Highlight (yellow), 4. 4. 2013 0:28, Jan Martinek:
+This is unfortunate, partly because speculation about what ought to be is likely to be more useful when informed by relevant knowledge of what is feasible, and partly because explanatory theory too easily becomes banal and method-driven when isolated from the pressing normative concerns that have fuelled worldwide interest in democracy in recent decades. ( Shapiro 2003: 2) smith, 9
+
+
+
 Politická instituce
-"[T]he sphere of politics," which "deals with the control of the use of force within a society and the maintenance of internal and external peace of the boundaries of the society, as well as control of the mobilization of resources for the implementation of various goals and the articualtion and setting up of certain goals for the collectivity". (22, cituje Eistenstadt 1968)
+"[T]he sphere of politics," which "deals with the control of the use of force within a society and the maintenance of internal and external peace of the boundaries of the society, as well as control of the mobilization of resources for the implementation of various goals and the articualtion and setting up of certain goals for the collectivity". (goodin, 22, cituje Eistenstadt 1968)
 
 
 
 # Parametry demokratické instituce 
 
    - žádoucí principy
-   - 6 dober
+   
 
-In the case of a policy, a well-designed policy is one of which fits well with the other policies, and the larger political/economic/social systems in which it is set. In the case of a mechanism, a well-designed mechanism is one that works well alonside other features of the social environment in which it is set, including other mechanisms in play here. Insofar as the machanism works by manipulating incenives to individials, a well-designed mechanism is one whose internal requiremens are "compatible" with other incentives that individuals face, rather than offering people incentives for undercuting the goal (...) which we we trying to achieve by using the mechanism in the first place. (34)
+In the case of a policy, a well-designed policy is one of which fits well with the other policies, and the larger political/economic/social systems in which it is set. In the case of a mechanism, a well-designed mechanism is one that works well alonside other features of the social environment in which it is set, including other mechanisms in play here. Insofar as the machanism works by manipulating incenives to individials, a well-designed mechanism is one whose internal requiremens are "compatible" with other incentives that individuals face, rather than offering people incentives for undercuting the goal (...) which we we trying to achieve by using the mechanism in the first place. (goodin, 34)
+
+
+innovations are evaluated according to the extent to which they realise goods  of democratic institutions (smith, 6)
+
+no practical design can realistically hope to meet all the rigorous demands of any particular theoretical model. (smith, 10)
+
+Using the example of direct and delib-erative democracy, he argues that instead of viewing them as competing and often antagonistic models, we should recognise that their ideals and practices can be mutually supportive. (smith, 10)
 
    ****
 
    Desirable principles… (40–43)
 
+
+   - 6 dober
+   - inclusiveness, popular control, considered judgement (podobné jako cohenovský argument, smith 24 cituje arendtovou), transparency, efficiency and transferability
+
+   Highlight (yellow), 4. 4. 2013 10:35, Jan Martinek:
+   In assessing democratic innovations we will consider the extent to which they realise four explicitly democratic goods, namely inclusiveness, popular control, considered judgement and transparency (smith, 12)
+
+
+   --- Page 13 ---
+
+   Highlight (yellow), 4. 4. 2013 10:35, Jan Martinek:
+   The four democratic goods in our analytical framework will be complemented by two additional institutional goods: efficiency and transferability. Efficiency  demands that we attend to the costs that participation can place on both citizens and public authori-ties. Transferability  provides an occasion to evaluate whether designs can operate in different political contexts, understood in relation to scale, political system or type of issue. (smith, 13)
