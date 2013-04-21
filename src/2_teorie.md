@@ -48,14 +48,45 @@ Dryzek se jednak odvolává na Foucaultovo pozdější zjemnění kategorie disk
 
 # Deliberativní experiment
 
-krátce se věnuje tzv. deliberativním experimentům, tj. vytvářením institucí různého rozměru s úzce vymezenou funkcí, které nějakým způsobem uplatňují ve své praxi principy deliberace --- dosahování rozhodnutí prostřednictvím veřejné diskuse. 
+Dosažení podmínek, v nichž může existovat deliberativní praxe, je z  hlediska vytvoření pravidel, kterými se fungování instituce může řídit, zdánlivě nenáročné -- tato praxe může existovat coby základní vrstva politického uspořádání založeného na reprezentaci (deliberativní principy mohou být uplatňovány v běžné diskusi zvolených reprezentantů), ale velmi netriviální v rovině utvoření funkční veřejné sféry --- prostředí uschopňujícího k rozumné argumentaci a vytvářejícího pro ni prostor. Pro mnoho aktérů politického uspořádání (etablované reprezentanty, zájmové skupiny, voliče atd.) je coby snadnější, výhodnější a často i jako jediná možná varianta vnímáno udržování statu quo ve způsobu vedení komunikace (především konfliktní a marketingové). 
 
-- co je deliberativní experiment
-- jaké parametry má demokratická instituce
+Transformace způsobu argumentace reprezentantů předpokládá ocenění této změny celou veřejností -- je však nepravděpodobné, že by k této změně došlo nějakým skokovým způsobem. Z tohoto důvodu jsou nejčastější formou snah o uvádění deliberativních praktik do praxe nikoli deliberativní revoluce, ale různorodé demokratické experimenty, soustřeďující se na řešení či vyřešení specifického problému, dosahem omezeného na užší populaci a nějakým způsobem inkorporující ve svých procedurách deliberaci ve formě diskuse cílené na vzájemné poznání argumentů, preferencí a hodnot účastníků. 
+
+Důraz je kladen na vysokou míru konsensuálního rozhodování o výsledném řešení za pochopení pozic ostatních účastníků diskuse. Problémy, které tyto orgány řeší, jsou stejně různorodé jako procedury, kterými pracují, a povaha výsledků, které produkují. Vytváření těchto orgánů bývá iniciováno jak teoretiky deliberace, jako v případě tzv. *Deliberative Polls*, pořádaných v USA Jamesem Fishkinem, tak místními orgány politické obce jako v případě *participativního rozpočtování* v městských čtvrtích v Jižní Americe \citep[27,20]{bakalarka}.
+
+Z hlediska institucionálního návrhu je podstatné, že deliberativní experimenty bývají navrhovány nejen tak, aby deliberativní praxe byla možná (možná je téměř kdekoli), ale autoři návrhů se snaží přímo do procesu fungování vložit prostory a incentivy k tomu, aby tato praxe byla skutečně realizována. Normativní demokratická teorie je tak zcela explicitně přetvářena v motivovaně utvářené instituce.
 
 # Institucionální design – logika praxe
 
-Vedle je tato kapitola věnována teorii institucionálního designu, která jednak definuje termíny *instituce* a *design* jak budou užívány ve zbytku této práce a zároveň představuje design nikoli jako pouhé intencionální vytváření pravidel interakce, ale jako sociální proces, který vede k utváření ustálených forem sociálního jednání. Kapitola je následně věnována konkrétním procesům, které vedou k ustavení instituce i definování parametrů, dle nichž je možné hodnotit jejich praktické fungování.
+- definice instituce
+That definitional diversity derives, however, almost entirely form the inclination to opt for a discipline-based, theory-impregnated internalist-style definition of the term [institution]. (...) Let us instead adopt an "external" account of what institutions are and what they do. This is not a story that those engaged in the practice will necessary recognize as their own: it will not describe their motives or goals or perceptions. Rathaer, it is a story told from the outside, by an observer not internal to the practice, about the effects of institutions. It is a story about "what the do," not about "why they do it".  (21)
+
+"Institutionalism" has been characterized as "the process by which organizations and the procedures acquire value and stability." (22, cituje Huntington 1968)
+
+- definice designu
+
+[policy] Design is the creation of an actionable form to promote valued outcomes in a particular context. (31, cituje Bobrow and Dryzek, 1987)
+
+"(Policy) design is the creation of an actionable form to promote valued outcomes in a particular context. It is the emphasis on clarified values and context sensibility." (Bobrow and Dryzek, 1987)
+
+Odkazy na engineering a jiné obory... vazba anekdotická.
+
+
+- představuje design nikoli jako pouhé intencionální vytváření pravidel interakce, ale jako sociální proces, který vede k utváření ustálených forem sociálního jednání
+
+The Myth of the Intentional Designer (still less the Myth of the Inentional Design) is greatly to be avoided in theories of institutional design. Typically, there is no single design or designer. There are just lots of localized attempts at partial design cutting across one another and any sensible scheme for institutional design has to take account of that fact. Thus, even within the realm of our intentional interventions, what we should be aiming at is not the design of institutions directly. Rather, we should be aiming at designing schemes for designing institutions – schemes which will pay due regard to the multiplicity of designers and to the inevitably cross-cutting nature of their intentional interventions in the design process. (28)
+
+Models of Social Change: Accident, Evolution and Intention
+
+"[W]hat intentional agents intentionally do (or, more typically, fail to do) is important even in modelling social and institutional change as essentially accidental." (25)
+
+- konkrétním procesům, které vedou k ustavení instituce
+    - vytvoření příležitosti
+    - návrh pravidel a jednání o nich
+    - vznikání procedur
+    - zpětnovazební ustavování
+
+- definování parametrů, dle nichž je možné hodnotit jejich praktické fungování
 
 
 # Vzájemné provázání
@@ -65,3 +96,20 @@ Obě teoretické oblasti jsou v práci úzce provázány. Demokratická teorie p
 - problém demokratické teorie a praxe (inst. design)
 
 unfortunate disengagement between political science and democratic theory means that there is relatively little guidance on how to engage in theoretically informed analysis of innova-tive democratic practices \citep[6]{smith}
+
+Politická instituce
+"[T]he sphere of politics," which "deals with the control of the use of force within a society and the maintenance of internal and external peace of the boundaries of the society, as well as control of the mobilization of resources for the implementation of various goals and the articualtion and setting up of certain goals for the collectivity". (22, cituje Eistenstadt 1968)
+
+
+
+# Parametry demokratické instituce 
+
+   - žádoucí principy
+   - 6 dober
+
+In the case of a policy, a well-designed policy is one of which fits well with the other policies, and the larger political/economic/social systems in which it is set. In the case of a mechanism, a well-designed mechanism is one that works well alonside other features of the social environment in which it is set, including other mechanisms in play here. Insofar as the machanism works by manipulating incenives to individials, a well-designed mechanism is one whose internal requiremens are "compatible" with other incentives that individuals face, rather than offering people incentives for undercuting the goal (...) which we we trying to achieve by using the mechanism in the first place. (34)
+
+   ****
+
+   Desirable principles… (40–43)
+
