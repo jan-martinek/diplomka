@@ -29,12 +29,13 @@ done
 for file in ./out/[0-9]*.tex
 do
 	filenameWithExt=$(basename "$file")
-	sed "s/\`\`/\\\enquote{/" $file > out/$filenameWithExt.tmp
-	sed "s/''/}/" out/$filenameWithExt.tmp > out/$filenameWithExt.tmp2
+	sed "s/\`\`/\\\enquote{/g" $file > out/$filenameWithExt.tmp
+	sed "s/''/}/g" out/$filenameWithExt.tmp > out/$filenameWithExt.tmp2
 	rm out/$filenameWithExt.tmp
 	mv out/$filenameWithExt.tmp2 $file
 	echo "Czech quotes on $filenameWithExt applied."
 done
+
 
 cd out
 
