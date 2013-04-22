@@ -1,8 +1,6 @@
 \chapter{Demokratická teorie a institucionální design}
 
-# Deliberativní demokracie – hodnotová východiska[^1]
-
-[^1]: Tato kapitola částečně vychází z autorovy bakalářské práce na téma "Deliberativní demokracie v praxi", v níž se autor zabýval konstrukcí hodnotících parametrů, které by umožnily vedle sebe postavit demokratické experimenty sdílející důraz na deliberativní praxi, ale rozcházející se v užitých metodách, rozměrech a zamýšlených dopadech.
+# Deliberativní demokracie – hodnotová východiska^[Tato kapitola částečně vychází z autorovy bakalářské práce na téma "Deliberativní demokracie v praxi", v níž se autor zabýval konstrukcí hodnotících parametrů, které by umožnily vedle sebe postavit demokratické experimenty sdílející důraz na deliberativní praxi, ale rozcházející se v užitých metodách, rozměrech a zamýšlených dopadech.]
 
 Demokracie je forma vlády, která umožňuje všem těm, kterým je vládnuto, participovat na vládě sobě samým. Praxe zastupitelské volební demokracie obvyklá v naprosté většině demokraticky řízených států vždy vzbuzovala otázky vyplývající z povahy legitimity rozhodování zástupců --- zpochybňován byl proces volby, samotný fakt zastupování, vztah mezi vládnoucím orgánem a převážně územně vymezeným agregátem občanů, způsoby dosahování rozhodování a z toho vyplývající problémy vztahů mezi většinou a menšinou a podobně. 
 
@@ -56,11 +54,11 @@ Transformace způsobu argumentace reprezentantů předpokládá ocenění této 
 
 Důraz je kladen na vysokou míru konsensuálního rozhodování o výsledném řešení za pochopení pozic ostatních účastníků diskuse. Problémy, které tyto orgány řeší, jsou stejně různorodé jako procedury, kterými pracují, a povaha výsledků, které produkují. Vytváření těchto orgánů bývá iniciováno jak teoretiky deliberace, jako v případě tzv. *Deliberative Polls*, pořádaných v USA Jamesem Fishkinem, tak místními orgány politické obce jako v případě *participativního rozpočtování* v městských čtvrtích v Jižní Americe \citep[27,20]{bakalarka}.
 
-## Blaugovo
+## Blaugova polární opozice
 
 Ricardo Blaug v tomto kontextu vymezuje spor mezi *úřadující ("incumbent")* a *kritickou demokracií*. Úřadující demokracie se snaží zlepšit *a zároveň ovládat* participatorní vstupy skrze směrování ("channeling"), zjednodušování a racionalizaci institucionalizovaných zprostředkovatelských kanálů politické vůle ("institutionalized conduits"); zatímco *kritická demokracie* vzniká na okraji a staví se do sporu o povahu vládnutí úřadujícího, elitního způsobu vládnutí ("incumbent elite governance"). 
 
-Blaugovo rozdělení je ve více definičních rozměrech problematické, jak bude podrobněji ještě níže podrobněji rozebráno; v krátkosti je z hlediska institucionálního návrhu deliberativních experimentů podstatný nikoli pouhý záměr umožnění konání deliberativní praxe (ta je *možná* v instituci definované téměř libovolnými pravidly) a získání potřebného výstupu, ale explicitní *vkládání příležitostí a incentivů* ke skutečné realizaci této praxe. Nejde tedy o pouhé směřování zprostředkované politické vůle, ale o vytváření prostoru pro vznik deliberace -- iniciátoři těchto experimentů se explicitně vzdávají části ovládání procesu: výsledek neplyne z co nejpřesnějšího "přečtení" politické vůle veřejnosti, ale z utváření jejího obsahu v rámci institucionální praxe. Normativní demokratická teorie je tak zcela explicitně přetvářena v motivovaně utvářené instituce. 
+Blaugovo rozdělení je ve více definičních rozměrech problematické, jak bude podrobněji ještě níže podrobněji rozebráno; v krátkosti je z hlediska institucionálního návrhu deliberativních experimentů zajímavé právě překročení jím definované dichotomie: podstatný je zde nikoli pouhý záměr umožnění konání deliberativní praxe (ta je *možná* v instituci definované téměř libovolnými pravidly) a získání potřebného výstupu, ale explicitní *vkládání příležitostí a incentivů* ke skutečné realizaci této praxe. Nejde tedy o pouhé směřování zprostředkované politické vůle, ale o vytváření prostoru pro vznik deliberace -- iniciátoři těchto experimentů se explicitně vzdávají části ovládání procesu: výsledek neplyne z co nejpřesnějšího "přečtení" politické vůle veřejnosti, ale z utváření jejího obsahu v rámci institucionální praxe. Normativní demokratická teorie je tak zcela explicitně přetvářena v motivovaně utvářené instituce. 
 
 Organised groups and their representatives play a significant role in democratic polities, but we are interested here in whether institutions can be designed to directly engage what have been termed ‘lay' or ‘non-partisan' citizens, as opposed to experts and parti-san campaigners. This difference is not watertight.
 
@@ -70,32 +68,38 @@ Dříve než přistoupíme k tomu, co je myšleno termínem návrh institucí, j
 
 ## Definice *instituce*
 
-Goodin cituje Huntingtonovu charakterizaci *institucionalizace* coby "procesu prostřednictvím jehož organizace a procedury získávají hodnotu a stabilitu" \citep[22]{goodin}. Tímto širokým pojetím je schopný usmířit pojetí nového institucionalismu, který se zaměřuje na zkoumání institucí v různých odvětvích sociálních a humanitních věd; oproti klasickému institucionalismu, který zkoumá empirickými případovými studiemi konkrétní jednotlivé "úřady" --- ať už jde o vlády, administrativní, soudní či jiné *organizace*, definuje nový institucionalismus předmět svého zájmu obecněji coby zkoumání ustálených způsobů jednání. Jednotlivé vědní disciplíny definují instituci pomocí odlišných termínů, Goodin však tvrdí, že "that definitional diversity derives, however, almost entirely from the inclination to opt for a discipline-based, theory-impregnated internalist-style definition of the term [institution]." (ibid.: 21)
+Goodin cituje Huntingtonovu charakterizaci *institucionalizace* coby "procesu prostřednictvím jehož organizace a procedury získávají hodnotu a stabilitu" \citep[22]{goodin}. Tímto širokým pojetím je schopný usmířit pojetí nového institucionalismu, který se zaměřuje na zkoumání institucí v různých odvětvích sociálních a humanitních věd; oproti klasickému institucionalismu, který zkoumá empirickými případovými studiemi konkrétní jednotlivé "úřady" --- ať už jde o vlády, administrativní, soudní či jiné *organizace*, definuje nový institucionalismus předmět svého zájmu obecněji coby zkoumání ustálených způsobů jednání. Jednotlivé vědní disciplíny definují instituci pomocí odlišných termínů, Goodin však tvrdí, že "that definitional diversity derives, however, almost entirely from the inclination to opt for a discipline-based, theory-impregnated internalist-style definition of the term [institution]" (ibid.: 21).
 
-Goodin tvrdí, že tento přístup k institucím je motivován především zkoumáním cílů, tedy důvodů, proč daná instituce existuje. Pro účely svého textu však zaujímá pozici externího pozorovatele, pro kterého je důležitější deskripce toho "co je konáno", spíše než "proč je to konáno." Instituce je tedy popisována ve svých praktikách spíše než svým účelem. Tento obrat k praxi samozřejmě musí zůstat doplněn normativním hlediskem, nicméně osamostatnění zkoumání institucionální praxe jednak umožňuje překračovat mezioborové hranice definice instituce a zároveň je klíčové pro možnost deskripce designu instituce.
+Goodin tvrdí, že tento přístup k institucím je motivován především zkoumáním cílů, tedy důvodů, proč daná instituce existuje. Pro účely svého textu však zaujímá pozici externího pozorovatele, pro kterého je důležitější deskripce toho "co je konáno", spíše než \enquote{proč je to konáno}. Instituce je tedy popisována ve svých praktikách spíše než svým účelem. Tento obrat k praxi samozřejmě musí zůstat doplněn normativním hlediskem, nicméně osamostatnění zkoumání institucionální praxe jednak umožňuje překračovat mezioborové hranice definice instituce a zároveň je klíčové pro možnost deskripce designu instituce.
 
 ## Definice *designu*
 
-"Design je vytvoření uskutečnitelné ("actionable") formy k podpoření hodnotých výstupů v konkrétním kontextu." cituje Goodin dvojici Bobrowa a Dryzeka (\citealp{bobrow}, \citeyear[citováno dle][31]{goodin}), kteří v původním kontextu píšou o analýze policy prostřednictvím jejího návrhu.
+"Design je vytváření uskutečnitelné (‚actionable‘) formy podporující hodnotné výstupy v konkrétním kontextu." cituje Goodin dvojici Bobrowa a Dryzeka (\citealp{bobrow}, \citeyear[citováno dle][31]{goodin}), kteří v původním kontextu píšou o *analýze policy* prostřednictvím jejího návrhu.
+
+Design instituce sám o sobě nemůže zajistit hodnotné výstupy. Jednak není možné navhrnout výstupy (podobně jako nesmí být účelem volebního systému konkrétní volba) a zároveň není žádný design dokonalý, aby bylo možné zaručit, že v něm není obsažen problém jdoucí proti motivaci aktérů, kteří instituci navrhovali.
+
+Termín designu je často vnímán v jeho průmyslovém kontextu --- coby vytváření definitivního nákresu, na jehož základě je sestavován (ná)stroj plnící konkrétní funkci. Tato paralela je v případě institucionální designu velmi nepřesná.[^1] Jednak je problematické vnímání designu jako pouze cílevědomě prováděné činnosti (Goodin to nazývá "mýtem cílevědomého designéra") a zejména je nutné překonat představu o tom, že existuje jediný designér (člověk či skupina osob), který je schopen navrhnout a podle daného návrhu realizovat institucionální praxi. Bylo by možné zkoumat designérův "nákres", ale pokud se chceme zabývat nejen psanými pravidly, ale skutečnou institucionální praxí, je nutné vnímat institucionální design jako sociální proces, který vede k utváření ustálených forem sociálního jednání. Takového procesu se pak účastní i všichni, kteří participují na praxi instituce ve velkém množství konkrétních záměrných i nezáměrných pokusů o částečné změny fungování instituce \citep[28]{goodin}.
+
+[^1]: Zároveň je však zjednodušené i samotné vnímání průmyslového designu jako tvorba definitivního nákresu --- proces tvorby tohoto nákresu je iterativním nacházením nejlepšího možného řešení v rámci dostupných zdrojů a technik, metodou informovaného pokusu a omylu. Výsledný návrh využitý k produkci je pak dále upravován v reakci na skutečnou využitelnost produkovaného výrobku.
+
+    John R. Goodin dále zmiňuje, že v literatuře týkající se institucionálního designu bývají často načrtávány paralely s různými typy designu --- ať už jde o průmyslový design, XXXXXXXX, územní plánování nebo jiná odvětví. Podle Goodina však autoři zůstávají u anekdotických přirovnání bez skutečné snahy o přenášení uplatnitelných zkušeností mezi danými obory. \citep[???]{goodin}
+
+Goodin vymezuje tři typy sociální změny: *náhodnou* (vzniklou bez vysvětlitelné příčiny), *evoluční* (vzniklou přizpůsobením praxe kontextuální omezením a příležitostem) a *záměrnou* (vzniklou s normativní motivací) a tvrdí, že "to, co cílevědomí aktéři cílevědomě činí (anebo, typičtěji, v čem selhávají), je při modelování sociální změny stejně důležité jako to, co je zcela náhodné." \citep[25]{goodin}
+
+Následně dochází k tomu, že i v rámci zkoumání, které je motivováno posouváním teorií záměrně utvářených změn designu (jejichž porozumění pak může konkrétním aktérům pomáhat v prosazování vlastní hodnotové agendy), bychom se neměli soustředit na *pouhé* navrhování institucí, ale na popis schémat toho, jak instituce navrhovat --- schémat "beroucích ohled na multiplicitu designérů a jejich nevyhnutelně protikladná působení" (ibid.: 28). Jedinečná jednopřípadová studie by měla vytvářet porozumění při utváření konkrétní instituce; přestože cílem této práce není formulace obecných závěrů či konkrétních schémat, porozumění konkrétnímu případu by nás k takovému cíli mělo přibližovat.
 
 
 
 
 
-- představuje design nikoli jako pouhé intencionální vytváření pravidel interakce, ale jako sociální proces, který vede k utváření ustálených forem sociálního jednání
-
-The Myth of the Intentional Designer (still less the Myth of the Inentional Design) is greatly to be avoided in theories of institutional design. Typically, there is no single design or designer. There are just lots of localized attempts at partial design cutting across one another and any sensible scheme for institutional design has to take account of that fact. Thus, even within the realm of our intentional interventions, what we should be aiming at is not the design of institutions directly. Rather, we should be aiming at designing schemes for designing institutions – schemes which will pay due regard to the multiplicity of designers and to the inevitably cross-cutting nature of their intentional interventions in the design process. (goodin, 28)
-
-Models of Social Change: Accident, Evolution and Intention
-
-"[W]hat intentional agents intentionally do (or, more typically, fail to do) is important even in modelling social and institutional change as essentially accidental." (goodin, 25)
 
 
 
-Odkazy na engineering a jiné obory... vazba anekdotická.
 
-no design is perfect: it is difficult to imagine any innovation or combination of innovations that can fully realise all six goods that form the basis of our analytical framework, not least because there are different ways that goods can be realised. (smith, 193)
 
+
+
+it is difficult to imagine any innovation or combination of innovations that can fully realise all six goods that form the basis of our analytical framework, not least because there are different ways that goods can be realised. (smith, 193)
 
 
 - konkrétním procesům, které vedou k ustavení instituce
@@ -148,19 +152,19 @@ no practical design can realistically hope to meet all the rigorous demands of a
 
 Using the example of direct and delib-erative democracy, he argues that instead of viewing them as competing and often antagonistic models, we should recognise that their ideals and practices can be mutually supportive. (smith, 10)
 
-   ****
+****
 
-   Desirable principles… (40–43)
-
-
-   - 6 dober
-   - inclusiveness, popular control, considered judgement (podobné jako cohenovský argument, smith 24 cituje arendtovou), transparency, efficiency and transferability
-
-   Highlight (yellow), 4. 4. 2013 10:35, Jan Martinek:
-   In assessing democratic innovations we will consider the extent to which they realise four explicitly democratic goods, namely inclusiveness, popular control, considered judgement and transparency (smith, 12)
+Desirable principles… (40–43)
 
 
-   --- Page 13 ---
+- 6 dober
+- inclusiveness, popular control, considered judgement (podobné jako cohenovský argument, smith 24 cituje arendtovou), transparency, efficiency and transferability
 
-   Highlight (yellow), 4. 4. 2013 10:35, Jan Martinek:
-   The four democratic goods in our analytical framework will be complemented by two additional institutional goods: efficiency and transferability. Efficiency  demands that we attend to the costs that participation can place on both citizens and public authori-ties. Transferability  provides an occasion to evaluate whether designs can operate in different political contexts, understood in relation to scale, political system or type of issue. (smith, 13)
+Highlight (yellow), 4. 4. 2013 10:35, Jan Martinek:
+In assessing democratic innovations we will consider the extent to which they realise four explicitly democratic goods, namely inclusiveness, popular control, considered judgement and transparency (smith, 12)
+
+
+--- Page 13 ---
+
+Highlight (yellow), 4. 4. 2013 10:35, Jan Martinek:
+The four democratic goods in our analytical framework will be complemented by two additional institutional goods: efficiency and transferability. Efficiency  demands that we attend to the costs that participation can place on both citizens and public authori-ties. Transferability  provides an occasion to evaluate whether designs can operate in different political contexts, understood in relation to scale, political system or type of issue. (smith, 13)

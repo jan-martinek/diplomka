@@ -10,7 +10,7 @@ Cílem této práce je formou případové studie přiblížit vznik instituce, 
 
 Autorovým záměrem není vytvoření policy analýzy zaměřené na vyhodnocení úspěšnosti zavádění konkrétní politiky a popis způsobů, kterými byly překonávány implementační problémy. Cílem je dosažení a zprostředkování co nejširšího porozumění detailům situace, které může být využitelné při snaze o hlubší pochopení jiného případu, při kompilaci a hodnocení většího množství případů či při praktickém (a normativním) hodnocení popisovaného případu.
 
-Autor se v minulosti^[Mimo jiné ve své bakalářské práci "Deliberativní demokracie v praxi" \cite{bakalarka}.] věnoval tzv. *deliberativním experimentům* --- za právě takový experiment^[Termín *experiment* je zde užit ve významu praxe, která předtím nebyla vyzkoušena; nikoli ve významu procedury ověřování výzkumníkovy hypotézy.] je možné zkoumanou instituci považovat.
+Autor se v minulosti^[Mimo jiné ve své bakalářské práci "Deliberativní demokracie v praxi" \cite{bakalarka}.] věnoval zkoumání tzv. *deliberativních experimentů* --- za právě takový experiment^[Termín *experiment* je zde užit ve významu praxe, která předtím nebyla vyzkoušena; nikoli ve významu procedury ověřování výzkumníkovy hypotézy.] je možné zkoumanou instituci považovat.
 
 # Struktura práce
 
