@@ -54,6 +54,16 @@ Transformace způsobu argumentace reprezentantů předpokládá ocenění této 
 
 Důraz je kladen na vysokou míru konsensuálního rozhodování o výsledném řešení za pochopení pozic ostatních účastníků diskuse. Problémy, které tyto orgány řeší, jsou stejně různorodé jako procedury, kterými pracují, a povaha výsledků, které produkují. Vytváření těchto orgánů bývá iniciováno jak teoretiky deliberace, jako v případě tzv. *Deliberative Polls*, pořádaných v USA Jamesem Fishkinem, tak místními orgány politické obce jako v případě *participativního rozpočtování* v městských čtvrtích v Jižní Americe \citep[27, 20]{bakalarka}.
 
+Prvkem, který překračuje hranici mezi demokratickou teorií a institucionálním designem, je povaha (či přímo "váha") výstupu, který je institucí vytvářen. V dřívější práci autor tohoto textu vytvořil zjednodušenou kategorizaci možných výstupů (na základě :
+    
+1)  *Rozhodnutí přímo vytváří politiku:* Schválení určité politiky deliberativním orgánem je považováno za oficiální akt vytvářející politickou vůli.
+
+2)  *Rozhodnutí je podmíněno schválením:* Schválení může probíhat coby přijetí zákona, rozhodnutí zastupitelského orgánu města či potvrzením v referendu.
+
+3)  *Rozhodnutí má váhu doporučení:* Přesné znění závěrů deliberace není pro tvorbu výsledné politiky závazné.
+
+4)  *Rozhodnutí není zásadním prvkem experimentu:* Cílem je ovlivnění veřejné diskuse, zvýšení participace a informovanosti občanů, případně zjištění informovaného názoru veřejnosti na určitou problematiku (tzv. market testing).
+
 ## Blaugova polární opozice
 
 Ricardo Blaug v tomto kontextu vymezuje spor mezi *úřadující ("incumbent")* a *kritickou demokracií*. Úřadující demokracie se snaží zlepšit *a zároveň ovládat* participatorní vstupy skrze směrování ("channeling"), zjednodušování a racionalizaci institucionalizovaných zprostředkovatelských kanálů politické vůle ("institutionalized conduits"); zatímco *kritická demokracie* vzniká na okraji a staví se do sporu o povahu vládnutí úřadujícího, elitního způsobu vládnutí ("incumbent elite governance") \cite[199]{smith}. 
@@ -84,13 +94,19 @@ Termín designu je často vnímán v jeho průmyslovém kontextu --- coby vytvá
 
     John R. Goodin dále zmiňuje, že v literatuře týkající se institucionálního designu bývají často načrtávány paralely s různými typy designu --- ať už jde o průmyslový design, estetiku, architekturu, urbánní plánování nebo jiná odvětví. Podle Goodina však autoři zůstávají u anekdotických přirovnání a lehkovážných analogií bez skutečné snahy o přenášení uplatnitelných zkušeností mezi danými obory. \citep[31]{goodin}
 
-Goodin vymezuje tři typy sociální změny: *náhodnou* (vzniklou bez vysvětlitelné příčiny), *evoluční* (vzniklou přizpůsobením praxe kontextuální omezením a příležitostem) a *záměrnou* (vzniklou s normativní motivací) a tvrdí, že "to, co cílevědomí aktéři cílevědomě činí (anebo, typičtěji, v čem selhávají), je při modelování sociální změny stejně důležité jako to, co je zcela náhodné." \citep[25]{goodin}
+## Změna a institucionální design
 
-Následně dochází k tomu, že i v rámci zkoumání, které je motivováno posouváním teorií záměrně utvářených změn designu (jejichž porozumění pak může konkrétním aktérům pomáhat v prosazování vlastní hodnotové agendy), bychom se neměli soustředit na *pouhé* navrhování institucí, ale na popis schémat toho, jak instituce navrhovat --- schémat "beroucích ohled na multiplicitu designérů a jejich nevyhnutelně protikladná působení" (ibid.: 28). Jedinečná jednopřípadová studie by měla vytvářet porozumění při utváření konkrétní instituce; přestože cílem této práce není formulace obecných závěrů či konkrétních schémat, porozumění konkrétnímu případu by nás k takovému cíli mělo přibližovat.
+Dále Goodin vymezuje tři typy sociální změny: *evoluční* (vzniklou přizpůsobením praxe kontextuální omezením a příležitostem), *záměrnou* (vzniklou s normativní motivací) a *náhodnou* (ta může být vysvětlitelná a její přičiny nalezitelné, ale je definovaná nahodilým vznikem: bez vědomé snahy aktérů upravit praxi, aby byla probíhala lépe v daném kontextu, a bez normativní motivace) a tvrdí, že "to, co cílevědomí aktéři cílevědomě činí (anebo, typičtěji, v čem selhávají), je při modelování sociální změny stejně důležité jako to, co je zcela náhodné." \citep[25]{goodin}
 
+Následně dochází k tomu, že i v rámci zkoumání záměrně utvářených změn designu --- kteréžto porozumění pak může konkrétním aktérům pomáhat v prosazování vlastní hodnotové agendy --- bychom se neměli soustředit na *pouhé* navrhování institucí, ale na popis schémat toho, jak instituce navrhovat: schémat "beroucích ohled na multiplicitu designérů a jejich nevyhnutelně protikladná působení" (ibid.: 28). Jedinečná jednopřípadová studie by měla vytvářet porozumění při utváření konkrétní instituce; přestože cílem této práce není formulace obecných závěrů či konkrétních schémat, porozumění konkrétnímu případu by nás k takovému cíli mělo přibližovat.
 
+## Proces vzniku designu
 
+Design instituce tedy dle výše uvedeného není možné "vymyslet". Vymýšleny jsou *dílčí* záměry, které jednak vcházejí do diskusí a vyjednávání zúčastněných aktérů (především *záměrné změny*) a zároveň jsou pozměňovány při praktickém provádění navrhovaných úkonů, které jednotliví aktéři mohou vnímat jako nevhodné (zejména *evoluční změny*), případně mohou vznikat *nahodilé změny* plynoucí z nedorozumění, zapomínání a dalších důvodů.
 
+Při vytváření jednotlivých dílčích záměrů aktéři zvažují jednak svůj normativní cíl a zároveň jsou omezeni uskutečnitelností konkrétních procesů (například z hlediska časové náročnosti, množství osob potřebných k legitimnímu výkonu funkce instituce, příležitosti v širším institucionálním kontextu)[^1]. "Administrative costs and the burden placed on citizens can be a feasibility constraint on democratic innovations" \cite[26]{smith}. Celý proces je pak sledem zpětnovazebních výkyvů, kterými je postupně stabilizována a do jisté míry a fáze konkrétním identifikovatelným dominantním aktérem utvářena výsledná podoba instituce. 
+
+[^1]:Zde by bylo možné načrtnout paralelu k terminologickému aparátu, který využívá teorie mobilizace zdrojů. Sociální hnutí musí získat zdroje a mobilizovat k akci, jejímž cílem je prosazení konkrétních cílů. Aktéři participující na navrhování instituce musejí počítat s nutností vytvoření stabilní podpory pro fungování instituce, tedy předpokládat alokaci zdrojů, které umožní její dlouhodobé fungování, aby bylo možné dosahovat výše zmiňovaných "hodnotných výstupů v konkrétním kontextu" \citep{bobrow}. Přestože jde o velmi rozdílné kontexty, uvažování aktérů, jimž jde o naplnění politického cíle (např. odstranění diskriminace) je v důsledku podobné jako uvažování těch, kteří chtějí realizovat určitý cíl (např. spravedlivé rozhodování v konkrétní *issue*) prostřednictvím institucionálního designu. Tato paralela zároveň umocňuje pochopení přítomnosti multiplicity aktérů, kteří se tvorby institucionálního designu účastní.
 
 
 
@@ -101,67 +117,36 @@ Následně dochází k tomu, že i v rámci zkoumání, které je motivováno po
 
 it is difficult to imagine any innovation or combination of innovations that can fully realise all six goods that form the basis of our analytical framework, not least because there are different ways that goods can be realised. (smith, 193)
 
-
-- konkrétním procesům, které vedou k ustavení instituce
-    - vytvoření příležitosti
-    - návrh pravidel a jednání o nich
-    - vyhodnocení feasibility
-    - Administrative costs and the burden placed on citizens can thus be a feasibility constraint on democratic inno-vations. (smith, 26)
-    - vznikání procedur
-    - zpětnovazební ustavování
-
 - definování parametrů, dle nichž je možné hodnotit jejich praktické fungování
 
-We must also consider the extent to which equality of voice is realised through the rules and procedures that govern the generation of outputs from institutions. We use the term ‘output' rather than decision, because institutions will vary in the extent to which they can affect the final political decision (see the discussion of popular control below). For some designs, their outputs are the final decision – they have direct policy, legis-lative or constitutional effect. (smith, 22)
 
 
 
 # Vzájemné provázání
 
-Obě teoretické oblasti jsou v práci úzce provázány. Demokratická teorie poskytuje východiska institucionálnímu designu, institucionální design umožňuje načrtnout obrysy konkrétní praxe demokratického rozhodování a její vznik. 
+Obě teoretické oblasti jsou v práci úzce provázány. Demokratická teorie poskytuje východiska institucionálnímu designu, institucionální design umožňuje načrtnout obrysy konkrétní praxe demokratického rozhodování a její vznik. Naplnění záměrů, které plynou z demokratické teorie, je omezené a zároveň umožněné pochopením překážek a příležitostí z reálného kontextu konkrétní vznikající instituce.
 
-- problém demokratické teorie a praxe (inst. design)
+David Beetham upozorňuje na mezery ve zkoumání politiky v současné politické vědě --- tvrdí, že dlouhodobě existuje oddělení disciplín studia politiky, normativní teorie a empirického zkoumání politiky,[^1] které způsobilo naprosté odloučení zkoumání institucionálních aspektů demokracie a principů na nichž je založena, "jakoby tyto oblasti náležely do zcela jiných světů". \citep[9]{smith} Kvůli tomu existuje jen málo doporučení ohledně toho, jak provádět teoreticky informovanou analýzu inovativních demokratických praktik (ibid.: 6).Tento nedostatek vnímá negativně například Ian Shapiro: jednak předpokládá, že spekulace o tom, co by být mělo, bude nejspíše lepší s dostatkem informací o tom, co je možné; zároveň tvrdí, že vysvětlení dosahovaná politickou vědou (např. ve formě potvrzených a vyvrácených hypotéz) se snadno stávají banálními, pokud jsou formulačně vyvázána z normativních východisek, a vypovídají více o zvolené metodě než o zkoumaném objektu \cite[2]{shapiro}.
 
-unfortunate disengagement between political science and democratic theory means that there is relatively little guidance on how to engage in theoretically informed analysis of innova-tive democratic practices \citep[6]{smith}
+[^1]:Toto oddělení je možné ilustrovat i v našem kontextu obecně přijímaným rozdělením předmětu politické vědy v tzv. trojdimenzionálním pojetí politiky na *policy*, *politics* a *polity*. První rozměr se soustředí na zkoumání konkrétních politik, druhá zkoumá obecný kontext (nejblíže novému institucionalismu) a třetí normativně hodnotí existující či požadovaný politický řád. Více viz např. \citep{modernianalyza}. 
 
-
-
-the disciplinary divorce within the academic study of politics, between normative theory and empirical political analysis, which has encouraged the separation of institutional accounts of democracy from any analysis of democracy's underlying principles, as if they belong to quite different worlds' (Beetham 1999: 29) smith, 9
-
-Highlight (yellow), 4. 4. 2013 0:28, Jan Martinek:
-This is unfortunate, partly because speculation about what ought to be is likely to be more useful when informed by relevant knowledge of what is feasible, and partly because explanatory theory too easily becomes banal and method-driven when isolated from the pressing normative concerns that have fuelled worldwide interest in democracy in recent decades. ( Shapiro 2003: 2) smith, 9
-
-
-
-Politická instituce
-"[T]he sphere of politics," which "deals with the control of the use of force within a society and the maintenance of internal and external peace of the boundaries of the society, as well as control of the mobilization of resources for the implementation of various goals and the articualtion and setting up of certain goals for the collectivity". (goodin, 22, cituje Eistenstadt 1968)
-
-
+Politickou instituci pak definuje Goodin citací Shmuela N. Eisenstadta podle jeho dělení hlavní institucionálních sfér: "The political sphere deals with the control of the use of force within a society and the maintenance of internal and external peace of the boundaries of the society, as well as control of the mobilization of resources for the implementation of various goals and the articualtion and setting up of certain goals for the collectivity". \citep[410]{encyclopedia} Pro účely dalšího zkoumání v tomto textu je podstatný i zdánlivě v kontextu akademické instituce nesouvisející první element, tedy ovládání vnitřního a vnějšího udržování míru --- mír je v tomto kontextu jistě nadsazený termín, ale stav udržování rovnováhy, vzájemného respektu a neproblémových vztahů mezi různými součástmi instituce je relevantní. Druhý element, tedy mobilizace zdrojů za účelem realizace různých cílů a jejich artikulace je již zcela zjevně relevantní i pro instituci jako je stipendijní komise oceňující studenty.
 
 # Parametry demokratické instituce 
 
-   - žádoucí principy
-   
+Dobře navržený ("well-designed") institucionální mechanismus naplňuje svůj cíl v kontextu jiných vlastností sociálního prostředí, včetně dalších mechanismů. Každá jednotlivá součást mechanismu by měla odpovídat celkovému záměru, s nímž byl koncipován \citep[34]{goodin}. Existuje více různých sad parametrů, kterými je možné hodnotit, zda je instituce dobře navržená. Zde se podržíme dvou takových heuristických[^1] soupisů pravidel vycházejících z demokratických principů a designu institucí --- žádoucích principů popsaných Robertem E. Goodinem (\citep[40--46]{goodin}) a šesti demokratických *dober* specifikovaných Grahamem Smithem (\citep[20--27]{smith}).
 
-In the case of a policy, a well-designed policy is one of which fits well with the other policies, and the larger political/economic/social systems in which it is set. In the case of a mechanism, a well-designed mechanism is one that works well alonside other features of the social environment in which it is set, including other mechanisms in play here. Insofar as the machanism works by manipulating incenives to individials, a well-designed mechanism is one whose internal requiremens are "compatible" with other incentives that individuals face, rather than offering people incentives for undercuting the goal (...) which we we trying to achieve by using the mechanism in the first place. (goodin, 34)
+[^1]:Heuristika je zde užívána ve významu sady pravidel, která mohou pomoci vyřešit problém, ale nezaručuje jeho řešení; zjednodušeně je možné heuristiky popsat jako nezbytně nutné, ale ne dostačující předpoklady, ačkoli jsou definovány spíše mírněji, tj. za určitých okolností nemusí být jejich naplnění zásadně problematické.
 
-
-innovations are evaluated according to the extent to which they realise goods  of democratic institutions (smith, 6)
-
-no practical design can realistically hope to meet all the rigorous demands of any particular theoretical model. (smith, 10)
-
-Using the example of direct and delib-erative democracy, he argues that instead of viewing them as competing and often antagonistic models, we should recognise that their ideals and practices can be mutually supportive. (smith, 10)
+Žádný design není dokonalý a při jeho evaluaci vždy narazíme jednak na porušení jednotlivých principů či dober, zároveň na nedostatky v tom, jak daný mechanismus plní svou funkci: Smith trvdí, že "žádný skutečný design nemůže realisticky doufat v naplnění všech přísných nároků jakéhokoli konkrétního teoretického modelu" \cite[10]{smith}.
 
 ****
 
-Desirable principles… (40–43)
+Desirable principles… (40–43) revisability, robustness, sensitivity to motivational complexity, publicity, desire to variability
 
 
 - 6 dober
-- inclusiveness, popular control, considered judgement (podobné jako cohenovský argument, smith 24 cituje arendtovou), transparency, efficiency and transferability
-
-Highlight (yellow), 4. 4. 2013 10:35, Jan Martinek:
-In assessing democratic innovations we will consider the extent to which they realise four explicitly democratic goods, namely inclusiveness, popular control, considered judgement and transparency (smith, 12)
+- inclusiveness (Using the example of direct and delib-erative democracy, he argues that instead of viewing them as competing and often antagonistic models, we should recognise that their ideals and practices can be mutually supportive. (smith, 10)), popular control, considered judgement (podobné jako cohenovský argument, smith 24 cituje arendtovou), transparency, efficiency and transferability
 
 
 --- Page 13 ---
