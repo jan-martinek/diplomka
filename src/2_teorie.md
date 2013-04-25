@@ -68,7 +68,7 @@ Prvkem, který překračuje hranici mezi demokratickou teorií a institucionáln
 
 Ricardo Blaug v tomto kontextu vymezuje spor mezi *úřadující ("incumbent")* a *kritickou demokracií*. Úřadující demokracie se snaží zlepšit *a zároveň ovládat* participatorní vstupy skrze směrování ("channeling"), zjednodušování a racionalizaci institucionalizovaných zprostředkovatelských kanálů politické vůle ("institutionalized conduits"); zatímco *kritická demokracie* vzniká na okraji a staví se do sporu o povahu vládnutí úřadujícího, elitního způsobu vládnutí ("incumbent elite governance") \cite[199]{smith}. 
 
-Blaugovo rozdělení je ve více definičních rozměrech problematické, jak bude podrobněji ještě níže podrobněji rozebráno; v krátkosti je z hlediska institucionálního návrhu deliberativních experimentů zajímavé právě překročení jím definované dichotomie: podstatný je zde nikoli pouhý záměr umožnění konání deliberativní praxe (ta je *možná* v instituci definované téměř libovolnými pravidly) a získání potřebného výstupu, ale explicitní *vkládání příležitostí a incentivů* ke skutečné realizaci této praxe. Nejde tedy o pouhé směřování zprostředkované politické vůle, ale o vytváření prostoru pro vznik deliberace -- iniciátoři těchto experimentů se explicitně vzdávají části ovládání procesu: výsledek neplyne z co nejpřesnějšího "přečtení" politické vůle veřejnosti, ale z utváření jejího obsahu v rámci institucionální praxe. Normativní demokratická teorie je tak zcela explicitně přetvářena v motivovaně utvářené instituce. 
+Blaugovo rozdělení je ve více definičních rozměrech problematické, jak bude podrobněji ještě níže podrobněji rozebráno; v krátkosti je z hlediska institucionálního návrhu deliberativních experimentů zajímavé právě překročení jím definované dichotomie: podstatný je zde nikoli pouhý záměr umožnění konání deliberativní praxe (ta je *možná* v instituci definované téměř libovolnými pravidly) a získání potřebného výstupu, ale záměrné *vkládání příležitostí a incentivů* ke skutečné realizaci této praxe. Nejde tedy o pouhé směřování zprostředkované politické vůle, ale o vytváření prostoru pro vznik deliberace -- iniciátoři těchto experimentů se explicitně vzdávají části ovládání procesu: výsledek neplyne z co nejpřesnějšího "přečtení" politické vůle veřejnosti, ale z utváření jejího obsahu v rámci institucionální praxe. Normativní demokratická teorie je tak zcela úmyslně přetvářena v motivovaně utvářené instituce. 
 
 Organised groups and their representatives play a significant role in democratic polities, but we are interested here in whether institutions can be designed to directly engage what have been termed ‘lay' or ‘non-partisan' citizens, as opposed to experts and parti-san campaigners. This difference is not watertight.
 
@@ -76,7 +76,7 @@ Organised groups and their representatives play a significant role in democratic
 
 Dříve než přistoupíme k tomu, co je myšleno termínem návrh institucí, je rozumné definice obou jednotlivých slov --- termínů *návrh* (zaměnitelně též *design*) a *instituce*. Využijeme zde definicí užívaných Robertem E. Goodinem v knize *The Theory of Institutional Design* (\citeyear{goodin}), která zahájila sérii nakladatelství Cambridge Press týkající se institucionálního designu^[Přehled vydaných publikací je dostupný na internetové adrese: http://bit.ly/15B0BN3 (zkráceno autorem)].
 
-## Definice *instituce*^[TODO: Vydefinovat ještě používání termínu mechanismus!]
+## Definice *instituce*^[TODO: Vydefinovat ještě používání termínů *mechanismus* a *demokratická inovace*!]
 
 Goodin cituje Huntingtonovu charakterizaci *institucionalizace* coby "procesu prostřednictvím jehož organizace a procedury získávají hodnotu a stabilitu" \citep[22]{goodin}. Tímto širokým pojetím je schopný usmířit pojetí nového institucionalismu, který se zaměřuje na zkoumání institucí v různých odvětvích sociálních a humanitních věd; oproti klasickému institucionalismu, který zkoumá empirickými případovými studiemi konkrétní jednotlivé "úřady" --- ať už jde o vlády, administrativní, soudní či jiné *organizace*, definuje nový institucionalismus předmět svého zájmu obecněji coby zkoumání ustálených způsobů jednání. Jednotlivé vědní disciplíny definují instituci pomocí odlišných termínů, Goodin však tvrdí, že "that definitional diversity derives, however, almost entirely from the inclination to opt for a discipline-based, theory-impregnated internalist-style definition of the term [institution]" (ibid.: 21).
 
@@ -160,14 +160,30 @@ Institucionální design v tomto záměrném vytváření *obtíží* ("institut
  
 ## 6 dober demokratických institucí podle Grahama Smithe
 
+Graham Smith konstruuje několik konkrétnějších heuristik, které jsou artikulovány méně rozporně než Goodinovy žádoucí principy. Například Smithem definovaná *inkluzivita* diskutuje několik různých způsobů jak instituci otevřít veřejnosti, zatímco Goodinova obecnější *otevřenost* je spíše principem, jehož naplňování samo o sobě nemusí znamenat dobré či špatné fungování instituce (je dvojsečným instrumentem), nicméně je při zkoumání jejího designu vhodnou pomůckou. Smith své heuristiky chápe jako základní komponenty, které by společně měly utvářet očekávání od demokratických institucí a inovací, které však mohou být realizované nejrůznějšími způsoby a nejrůznějšími kombinacemi realizací daných dober. \cite[19]{smith}
 
-democratic goods
-- inclusiveness (Using the example of direct and delib-erative democracy, he argues that instead of viewing them as competing and often antagonistic models, we should recognise that their ideals and practices can be mutually supportive. (smith, 10))
-- popular control
-- considered judgement (podobné jako cohenovský argument, smith 24 cituje arendtovou)
-- transparency
+Smith dělí seznam dober na dobra demokratická (inkluzivita, veřejná kontrola, uvážené rozhodování a transparentnost) a dobra institucí (efektivita a přenositelnost). Dobra demokratická jsou hlouběji ukotvená v demokratické teorii, zatímco dobra institucí podobně jako výše popisované principy sestavené Goodinem sledují především logiku designu instituce. Oba typy dober ale nutně reflektují obojí teoretická východiska.
 
-institutional goods
-- efficiency Efficiency  demands that we attend to the costs that participation can place on both citizens and public authori-ties. (smith, 13)
-- transferability - Transferability  provides an occasion to evaluate whether designs can operate in different political contexts, understood in relation to scale, political system or type of issue. (smith, 13)
+### Demokratická dobra
+
+*Inkluzivita* Nerovná participace na rozhodování je častým problémem v nejrůznějších oblastech politického života, klíčové tedy je, zda je možné tento problém vůbec řešit. Nejjednodušším řešením by se mohla zdát být možnost participace kohokoli; nicméně ta se ukazuje jako problematická, protože kvůli stabilitě chování různých společenských skupin by i přes formální změnu pravidel mohly být zachovány stávající nerovnosti.[^1] Při navrhování je tak nutné myslet na to, jak umožnit a podpořit jednak přítomnost všech zainteresovaných na rozhodování a zároveň i to, že jejich názor skutečně získá rovnocenný prostor. \citep[22]{smith}
+
+[^1]:Smith tak ale nezrazuje od užívání principů otevřenosti participace pro všechny občany. Přímé a deliberativní teorie demokracie nevnímá jako vzájemně antagonistické, ale spíše jako vzájemně se podporující teoretické modely. \citep[10]{smith}
+
+*Veřejná kontrola* ("public control") je míra v níž má veřejnost podíl na jednotlivých částech procesu rozhodování. I přes vytvoření příležitostí k rovné participaci všech občanů na řešení určitého problému, nemusí být na tuto činnost brán ohled a konečné rozhodnutí vykonávané politickou elitou může být vůči názoru veřejnosti protichůdné. I přes inkluzivitu na fungování instituce je pak veřejná kontrola nízká. Smith definuje zjednodušenou koncepci několika fází rozhodovacího procesu: definice problému, analýza možností řešení, výběr konkrétního řešení a implementace. Veřejnou kontrolou je tedy myšlena míra možnosti podílení na všech těchto částech procesu.
+
+*Uvážené rozhodování* ("considered judgment") nevyžaduje od aktérů (občanů)pouze získání kompetencí k technickému posouzení daného problému, ale především vyžaduje schopnost oceňovat názory jiných občanů s docela odlišnými perspektivami a zkušenostmi. Jde tedy o požadavek podobný užívání *veřejného rozumu* Joshuy Cohena (viz kapitolu *2.1.2 Pojetí rozumného argumentu*). Smith se zde odvolává k obdobnému konceptu "rozšířené mentality" Hannah Arendtové,^[Arendtová vychází z Kantovy koncepce rozšířeného myšlení, které umožňuje zaujetí univerzálního hlediska \citep{kant}.] tj. schopnosti zaujmout pozice jiných aktérů a překročit limity vlastní sociální perspektivy.
+
+*Transparentnost*
+
+### Dobra institucí
+
+*Efektivita* 
+
+Efficiency  demands that we attend to the costs that participation can place on both citizens and public authori-ties. (smith, 13)
+
+*Přenositelnost* 
+
+- Transferability  provides an occasion to evaluate whether designs can operate in different political contexts, understood in relation to scale, political system or type of issue. (smith, 13)
+
 
