@@ -30,7 +30,7 @@ Highlight (yellow), 1. 4. 2013 15:00, Jan Martinek:
 The qualitative researcher's perspective is perhaps a paradoxical one: it is to be acutely tuned-in to the experiences and meaning systems of others—to indwell—and at the same time to be aware of how one's own biases and preconceptions may be influencing what one is trying to understand. (Maykut & Morehouse, 1994, p. 123) 
 
 Highlight (yellow), 1. 4. 2013 15:00, Jan Martinek:
-Adler and Adler (1987) identified three “membership roles” of qualitative researchers engaged in observational methods: (a) peripheral member researchers, who do not participate in the core activities of group members; (b) active member researchers, who become involved with the central activities of the group without fully committing themselves to the members' values and goals; and (c) complete member researchers, who are already members of the group or who become fully affiliated during the course of the research.
+Adler and Adler (1987) identified three “membership roles” of qualitative researchers engaged in observational methods: (a) peripheral member researchers, who do not participate in the core activities of group members; (b) active member researchers, who become involved with the central activities of the group without fully committing themselves to the members' values and goals; and (c) complete member researchers, who are already members of the group or who become fully affiliated during the course of the research. \citep[55]{corbinbuckle}
 
 
 --- Page 5 ---

@@ -32,16 +32,16 @@ A self-ethnography is a study and a text in which the researcher-author describe
 In our understanding of insider research, the research task is more formal, thought out, and planned than is the situation outlined by Alvesson, in which the research task is almost incidental.
 
 Highlight (yellow), 1. 4. 2013 21:01, Jan Martinek:
-Insider researchers are native to the setting and so have insights from the lived experience. Rather than this being considered a benefit, insiders are perceived to be prone to charges of being too close, and thereby, not attaining the distance and objectivity deemed to be necessary for valid research.
+Insider researchers are native to the setting and so have insights from the lived experience. Rather than this being considered a benefit, insiders are perceived to be prone to charges of being too close, and thereby, not attaining the distance and objectivity deemed to be necessary for valid research. \citep[61]{brannic}
 
 Highlight (yellow), 1. 4. 2013 21:01, Jan Martinek:
-Bourdieu's notion of social praxeology, in which reflexivity and relational thinking are central, supports our focus on this neglected area (Everett, 2002)
+Bourdieu's notion of social praxeology, in which reflexivity and relational thinking are central, supports our focus on this neglected area (Everett, 2002) \citep[61]{brannic}
 
 
 --- Page 63 ---
 
 Highlight (yellow), 1. 4. 2013 21:01, Jan Martinek:
-An objectivist view of epistemology accepts the possibility of a theory-neutral language; in other words, it is possible to access the external world objectively. A subjectivist view denies the possibility of theory-neutral language. An objectivist view of ontology assumes that social and natural reality have an independent existence before human cognition, whereas a subjectivist ontology assumes that what is taken as reality is an output of human cognitive process (Johnson & Duberley, 2000).
+An objectivist view of epistemology accepts the possibility of a theory-neutral language; in other words, it is possible to access the external world objectively. A subjectivist view denies the possibility of theory-neutral language. An objectivist view of ontology assumes that social and natural reality have an independent existence before human cognition, whereas a subjectivist ontology assumes that what is taken as reality is an output of human cognitive process (Johnson & Duberley, 2000). \citep[63]{brannic}
 
 
 --- Page 65 ---
@@ -49,16 +49,16 @@ An objectivist view of epistemology accepts the possibility of a theory-neutral 
 Highlight (yellow), 1. 4. 2013 21:01, Jan Martinek:
 Hermeneutic Tradition
 
-The hermeneutic tradition understands social reality by interpreting the meanings held by the social actors or members of the social group. This involves entering into the culture, understanding shared values, speaking the culture's language, and so on. The researcher is an engaged participant whose critical and analytic observation of the culture is integral to the research activity
+The hermeneutic tradition understands social reality by interpreting the meanings held by the social actors or members of the social group. This involves entering into the culture, understanding shared values, speaking the culture's language, and so on. The researcher is an engaged participant whose critical and analytic observation of the culture is integral to the research activity \citep[65]{brannic}
 
 Highlight (yellow), 1. 4. 2013 21:01, Jan Martinek:
-Theory (sometimes referred to as a symbolic system) is simply a way of abbreviating, of centering, of organizing, and of trying to make sense of experience rather than something to be constructed, deconstructed, tested, confirmed, disconfirmed, honored, or otherwise used to direct a study (Putnam et al., 1993). Thick description and narrative representation yield better insights than does research driven by theory and political implications.
+Theory (sometimes referred to as a symbolic system) is simply a way of abbreviating, of centering, of organizing, and of trying to make sense of experience rather than something to be constructed, deconstructed, tested, confirmed, disconfirmed, honored, or otherwise used to direct a study (Putnam et al., 1993). Thick description and narrative representation yield better insights than does research driven by theory and political implications. \citep[65]{brannic}
 
 Highlight (yellow), 1. 4. 2013 21:01, Jan Martinek:
-Researchers are merely the interpreters between the community they describe and the audience to which they report their findings
+Researchers are merely the interpreters between the community they describe and the audience to which they report their findings \citep[65]{brannic}
 
 Highlight (yellow), 1. 4. 2013 21:01, Jan Martinek:
-Advocates of this approach will talk about such criteria as credibility, transfer-ability, dependability, and confirmability rather than reliability and validity (Stablein, 1996).
+Advocates of this approach will talk about such criteria as credibility, transfer-ability, dependability, and confirmability rather than reliability and validity (Stablein, 1996). \citep[65]{brannic}
 
 
 --- Page 66 ---
@@ -67,7 +67,7 @@ Highlight (yellow), 1. 4. 2013 21:01, Jan Martinek:
 Young was a complete member of his organization
 
 Highlight (yellow), 1. 4. 2013 21:01, Jan Martinek:
-As its intended outcomes are both an action and a theory outcome, action research does not recognize the distinction between academic and practitioner knowledge. According to principles of action research, the traditional split between research and action is, in many respects, a false distinction, and it typically is based on extreme views of what academic researchers are and what practitioners are.
+As its intended outcomes are both an action and a theory outcome, action research does not recognize the distinction between academic and practitioner knowledge. According to principles of action research, the traditional split between research and action is, in many respects, a false distinction, and it typically is based on extreme views of what academic researchers are and what practitioners are. \citep[66]{brannic}
 
 
 --- Page 67 ---
@@ -132,7 +132,7 @@ Undertaking a research project in one's own organization is political and might 
 Highlight (yellow), 1. 4. 2013 21:01, Jan Martinek:
 We close with the words of Merton (1972, p. 44):
 
-Insiders and outsiders in the domain of knowledge, unite. You have nothing to lose but your claims. You have a world of understanding to win
+Insiders and outsiders in the domain of knowledge, unite. You have nothing to lose but your claims. You have a world of understanding to win.
 
 
 (report generated by GoodReader)
