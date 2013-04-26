@@ -1,1 +1,3 @@
 \chapter{Reflexe}
+
+Snad fenomenologovi nepřísluší, aby konstatoval nějaké faktické prožitky, aby se zabýval reální situací a daností prožitků, jež chce analyzovat, aby zajišťoval tuto danost. Prožitky té a té reální osoby -- pokud nedělá fenomenologii té osoby -- ho nesmí zajímat. Přesto, že od toho abstrahuje, že ho to nezajímá, přesto může analyzovat akt pochybnosti, vzpomínky jako takové, najde v reflexi jeho podstatnou strukturu, nejen jeho přítomnost, ale podstatnou souvislost s ostatním duševním životem, do něhož je akt vždy zapuštěn. (patočka, 20)

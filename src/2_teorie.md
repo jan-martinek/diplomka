@@ -182,4 +182,4 @@ Demokratické inovace musí brát ohled nejen na benefity, ale též na náklady
 
 Druhým parametrem je *přenositelnost*, tedy možnost přenášet konkrétní mechanismy mezi různými úrovněmi vládnutí, institucionálními kontexty a typy problémů, které jsou řešeny (volba prezidenta je jiný problém než rozdělování dávek sociálně znevýhodněným). Při nedostatečném pochopení, nezáměrném vynechání klíčových prvků mechanismu či jeho implementaci v nevhodném prostředí mohou vznikat zásadní problémy, proto je nutné vždy jakýkoli transfer pečlivě prozkoumat --- podstatná je zde výše zmíněná transparentnost fungování instituce, která umožňuje pochopit fungování a též aktivní informování o daném mechanismu, díky kterému je možné čerpat informace. \citep[13,27]{smith}
 
-TODO: Na základě kapitoly 5 posoudit, jestli jsou v práci některé hodnoty zpracovány souběžně (veřejná praxe a publicita )
+TODO: Na základě kapitoly 5 posoudit, jestli jsou v práci některé hodnoty zpracovány souběžně (veřejná praxe a publicita asi budou)
