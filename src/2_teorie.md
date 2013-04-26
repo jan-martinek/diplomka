@@ -160,7 +160,7 @@ Institucionální design v tomto záměrném vytváření *obtíží* ("institut
  
 ## 6 dober demokratických institucí podle Grahama Smithe
 
-Graham Smith konstruuje několik konkrétnějších heuristik, které jsou artikulovány méně rozporně než Goodinovy žádoucí principy. Například Smithem definovaná *inkluzivita* diskutuje několik různých způsobů jak instituci otevřít veřejnosti, zatímco Goodinova obecnější *otevřenost* je spíše principem, jehož naplňování samo o sobě nemusí znamenat dobré či špatné fungování instituce (je dvojsečným instrumentem), nicméně je při zkoumání jejího designu vhodnou pomůckou. Smith své heuristiky chápe jako základní komponenty, které by společně měly utvářet očekávání od demokratických institucí a inovací, které však mohou být realizované nejrůznějšími způsoby a nejrůznějšími kombinacemi realizací daných dober. \cite[19]{smith}
+Graham Smith konstruuje několik konkrétnějších heuristik, které jsou artikulovány méně rozporně než Goodinovy žádoucí principy. Například Smithem definovaná *inkluzivita* diskutuje několik různých způsobů jak instituci otevřít veřejnosti, zatímco Goodinova obecnější *veřejnost praxe* je spíše principem, jehož naplňování samo o sobě nemusí znamenat dobré či špatné fungování instituce (je dvojsečným instrumentem), nicméně je při zkoumání jejího designu vhodnou pomůckou. Smith své heuristiky chápe jako základní komponenty, které by společně měly utvářet očekávání od demokratických institucí a inovací, které však mohou být realizované nejrůznějšími způsoby a nejrůznějšími kombinacemi realizací daných dober. \cite[19]{smith}
 
 Smith dělí seznam dober na dobra demokratická (inkluzivita, veřejná kontrola, uvážené rozhodování a transparentnost) a dobra institucí (efektivita a přenositelnost). Dobra demokratická jsou hlouběji ukotvená v demokratické teorii, zatímco dobra institucí podobně jako výše popisované principy sestavené Goodinem sledují především logiku designu instituce. Oba typy dober ale nutně reflektují obojí teoretická východiska.
 
@@ -174,16 +174,12 @@ Smith dělí seznam dober na dobra demokratická (inkluzivita, veřejná kontrol
 
 *Uvážené rozhodování* ("considered judgment") nevyžaduje od aktérů (občanů)pouze získání kompetencí k technickému posouzení daného problému, ale především vyžaduje schopnost oceňovat názory jiných občanů s docela odlišnými perspektivami a zkušenostmi. Jde tedy o požadavek podobný užívání *veřejného rozumu* Joshuy Cohena (viz kapitolu *2.1.2 Pojetí rozumného argumentu*). Smith se zde odvolává k obdobnému konceptu "rozšířené mentality" Hannah Arendtové,^[Arendtová vychází z Kantovy koncepce rozšířeného myšlení, které umožňuje zaujetí univerzálního hlediska \citep{kant}.] tj. schopnosti zaujmout pozice jiných aktérů a překročit limity vlastní sociální perspektivy.
 
-*Transparentnost*
+*Transparentnost*, neboli možnost podrobného prozkoumání činnosti instituce veřejností je klíčová pro utváření důvěry v instituci a jistoty, že politický proces probíhá dobře. Transparentnost je jednak vnitřní, která "od participujících občanů [vyžaduje] pochopení podmínek, za nichž na instituci participují --- například, jak byl diskutovaný problém vybrán, kdo je facilitátorem organizace správného fungování mechanismu a jak jeho výstupy ovlivní rozhodování v politické obci" \citep[25]{smith} a též vnější, která je nutná, kdykoli má mít výstup zásadní vliv na veřejná rozhodnutí. Transparentnost může být realizována v různém rozsahu --- od pasivní publikace výstupů až po aktivní propagaci v médiích či dokonce formou inzerce.
 
 ### Dobra institucí
 
-*Efektivita* 
+Demokratické inovace musí brát ohled nejen na benefity, ale též na náklady praxe. Náročné participativní procesy mohou být tak významnou administrativní zátěží, že dobrá praxe nebude realizovatelná, případně může poškodit důvěru v politické instituce v dané obci. *Efektivita* je tedy prvním z institucionálních dober \citep[26]{smith}. Není však však předem možné stanovit úroveň akceptovatelné zátěže, vždy je nutné přihlížet ke konkrétním kontextu. Efektivita pak může být i zásadním měřítkem při rozhodováním mezi různými variantami institucionální inovace.
 
-Efficiency  demands that we attend to the costs that participation can place on both citizens and public authori-ties. (smith, 13)
+Druhým parametrem je *přenositelnost*, tedy možnost přenášet konkrétní mechanismy mezi různými úrovněmi vládnutí, institucionálními kontexty a typy problémů, které jsou řešeny (volba prezidenta je jiný problém než rozdělování dávek sociálně znevýhodněným). Při nedostatečném pochopení, nezáměrném vynechání klíčových prvků mechanismu či jeho implementaci v nevhodném prostředí mohou vznikat zásadní problémy, proto je nutné vždy jakýkoli transfer pečlivě prozkoumat --- podstatná je zde výše zmíněná transparentnost fungování instituce, která umožňuje pochopit fungování a též aktivní informování o daném mechanismu, díky kterému je možné čerpat informace. \citep[13,27]{smith}
 
-*Přenositelnost* 
-
-- Transferability  provides an occasion to evaluate whether designs can operate in different political contexts, understood in relation to scale, political system or type of issue. (smith, 13)
-
-
+TODO: Na základě kapitoly 5 posoudit, jestli jsou v práci některé hodnoty zpracovány souběžně (veřejná praxe a publicita )
