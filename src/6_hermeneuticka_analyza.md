@@ -1,1 +1,1 @@
-\chapter{Institucionální kontext}
+\chapter{Pro a proti: praxe komise}

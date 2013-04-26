@@ -1,4 +1,4 @@
-\chapter{Pro a proti: praxe komise}
+\chapter{Design stipendijní komise}
 
 blaug - mezi kritickou a incumbent demokracií – vznik na okraji instituce (studenti) ale z centra a optimalizací procesu (senát) – "many innovations are designed with such empowement in mind" (smith, p. 3)
 
