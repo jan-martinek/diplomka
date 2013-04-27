@@ -7,16 +7,13 @@ Autor přistupuje k politologii jako k vědě definované předmětem zájmu, je
 
 Východiska politické vědy nacházíme u autorů, kteří pracovali z hlediska dnešní specializovanosti vědy multidisciplinárně --- a to nejen kvůli tomu, že sociální vědy teprve vznikaly, ale zároveň i pro hluboké souvislosti mezi jednotlivými poznatky. Pokud je tedy níže zmiňována historie antropologie, sociologie či jiné obory, je možné vnímat daný kontext též coby kontext vzniku politické vědy.
 
-Klademe-li si otázku po vzniku instituce, tak -- jak již napověděla předchozí kapitola -- není možné hovořit o určitém okamžiku, v němž instituce "začala existovat", ale musíme sledovat celé ustavování institucionálního mechanismu. Není možné sledovat "jediného mýtického designéra", ale je potřebné vnímat vznik jednotlivých praktik a jejich proměny. Existenci instituce je tak možné s nadsázkou považovat za dlouhý proces vznikání.
+Klademe-li si otázku po vzniku instituce, tak -- jak již napověděla předchozí kapitola -- není možné hovořit o určitém okamžiku, v němž instituce "začala existovat", ale musíme sledovat celé ustavování institucionálního mechanismu. Není možné sledovat "jediného mýtického designéra", ale je potřebné vnímat vznik jednotlivých praktik za jejich adopce aktérů a jejich proměny. Existenci instituce je tak možné s nadsázkou považovat za dlouhý proces vznikání. U institucí můžeme popisovat fáze vzniku -- tvorba prvních návrhů, období nestability a období stabilního a víceméně neměnného fungování její praxe, případně i další změny plynoucí z reflexe dlouhodobého fungování. Takové hodnocení však vždy bude spíše individuální, bude přikládat význam různým parametrům fungování a především bude vyhodnotitelné spíše s časovým odstupem. 
 
-U institucí můžeme popisovat fáze vzniku -- tvorba prvních návrhů, období nestability a období stabilního a víceméně neměnného fungování její praxe. Takové hodnocení však vždy bude spíše individuální, bude přikládat význam různým parametrům fungování a především bude vyhodnotitelné spíše s časovým odstupem.
+Zde však již předbíháme, mnohé z argumentů *proč* budou nastíněny níže v podkapitole týkající se etnografické metodologie. 
 
-Zde však již předbíháme, mnohé z argumentů *proč* budou nastíněny níže v podkapitole týkající se etnografické metodologie. Významnou součástí této kapitoly je též vymezení pozice autora a zdůvodění výběru zkoumaného tématu.
-
+Významnou součástí této kapitoly je také zdůvodnění výběru zkoumaného tématu a vymezení pozice autora, který se procesu vzniku instituce účastnil coby facilitátor celého procesu, včetně přehledu diskuse, která se zabývá pozicí "pozorujícího participanta", a reflexe jeho ukotvení v akademickém diskursu.
 
 # Etnografie a hermeneutika
-
-
 
 Etnografie je metodologií používanou primárně v antropologii a etnologii (synonyma, která jsou užívaná v anglosaském světě a ve Francii) sloužící k analýze sociálních skupin a společností. V politologii se zaměřuje především na studium "organizační kultury", což je téma blízké sociologii organizací a přístupům studujícím politické instituce a elity. Původním jejím cílem bylo popisovat etnické skupiny odlišné kulturou a způsobem života od toho, který je charakteristický pro industriální společnosti; později se těžištěm užití etnografie stalo porozumění a interpretace sociálního chování \citep[149]{drulak}. 
 
@@ -24,23 +21,36 @@ Chicagská sociologická škola poté využila těchto již etablovaných metod 
 
 Pro politickou vědu je typické sledování specifických okolností a struktur, které se vážou na rozhodování většího množství aktérů (ve formě vládnutí či sebe-vládnutí), implicitně tedy odkazuje na *problém aktér--struktura*. "Diskuse této otázky vyústily ve dva pohledy na instituce --- jednak je možné je chápat jako sociální formy nezávislé na aktérech, tedy jako soubory norem, které jsou aktérům bez jejich vlivu vnucovány. Druhou možností je nahlížet na instituce skrze vztahy, které s nimi aktéři mají. Z tohoto pohledu pak aktéři instituce vlastně permanentně vytvářejí." (ibid.)
 
-Toto, stejně jako výše uvedené McNabbovo, dělení není neproblematické: nepostihuje zpětnovazební procesy, kdy nejen struktury ovlivňují aktéry, ale zároveň i aktéři ovlivňují struktury. Výrazně se tak prosadil třetí proud, který bere v úvahu aktéry i strukturu souběžně.
+Toto dělení, stejně jako v podstatě podobné výše uvedené McNabbovo oddělení sociologie a antropologie, není neproblematické: nepostihuje zpětnovazební procesy, kdy nejen struktury ovlivňují aktéry, ale zároveň i aktéři ovlivňují struktury. Výrazně se tak prosadil třetí proud, který bere v úvahu aktéry i strukturu souběžně.
 
+## Etnografie a její fenomenologická východiska
 
+Etnografie je kvalitativní metodologií výzkumu, která sbírá data prostřednictvím pozorování a zúčastněného pozorování, kompilacemi biografií, rozhovorů, analýzy dokumentů a dotazníkových šetření (především malého rozsahu s otevřeně definovaným vstupem). Součástí vytváření podkladových dat je i výzkumníkem prováděný interpretativní proces. Důraz je kladen na minimální zkreslení získaných dat přítomností výzkumníka, kterému se však není možné vyhnout, jednak z hlediska samotné změny jednání ostatních aktérů a jednak kvůli způsobu, kterým je užíván jazyk v samotné vědecké aktivitě -- klíčovou součástí je pak výzkumníkova reflexivita, která pomáhá odhalovat způsoby, kterými by toto zatížení mohlo vznikat a tím umožňovat, aby daný výzkum byl vnímán jako důvěryhodný a interně kritizovatelný (měřítkům, kterými můžeme poměřovat důvěryhodnost, se budeme věnovat níže). Výstupem etnografické práce je zhuštěný popis, který zprostředkovává porozumění. Etnografie se snaží porozumět co nejlépe významům, které jsou užívány pozorovanými aktéry, a toto porozumění zprostředkovat cílovému publiku -- výzkumníci se tak stávají "překladateli" mezi dvěma komunitami \citep[65]{brannick}). 
 
+Etnografická metodologie porozumění navázala na filosofii fenomenologie a s ní do značné míry svázaný rozvoj moderní hermeneutické metody[^1] a rozvíjela se pod vlivem fenomenologické sociologie. Cílem fenomenologie je objektivní poznání smyslu věcí, přičemž snahou je "uzávorkovat" vše, co je zkresleno nekonzistencí vnímání. Fenomenologická sociologie ustavená Alfredem Schützem pak sleduje obdobný cíl -- pochopení skutečného významu jednání subjektu; její podstatu stručně vystihuje Hendl:
 
-Hermeneutic Tradition --- The hermeneutic tradition understands social reality by interpreting the meanings held by the social actors or members of the social group. This involves entering into the culture, understanding shared values, speaking the culture's language, and so on. The researcher is an engaged participant whose critical and analytic observation of the culture is integral to the research activity \citep[65]{brannick}
+[^1]:Přesný vztah fenomenologie a hermeneutiky je u různých autorů různý -- Husserl považoval fenomenologii za součást tradice objektivní hermeneutiky, Heidegger kladl hermeneutiku za hlavní fenomenologickou metodu; celá diskuse je vedena s podstatně přesněji definovanými termíny a není ji potřebné zde reprodukovat. Více k tématu viz \citet{hendl} a odkazované zdroje, \citet{patocka}.
 
+> "Fenomenologická sociologie chápe společnost jako jev, jenž je vytvářen a znovu neustále obnovován a rekonstruován v duchovní interakci jedinců, kteří sociálním faktům dávají význam a smysl. Jejím základním předpokladem je, že lidé jsou pojímáni jako smysluplně a prostřednictvím ostatních lidí jednající bytosti, které se již rodí do předstrukturovaného kulturního a sociálního světa, avšak svými interpretačními postupy ho sami rekonstruují a dále rozvíjejí."^[Zde můžeme vidět i paralely s teorií institucionálního designu, který jednak počítá s institucionálním okolím a aktivním podílem aktérů na ustavování procesů sociálního jednání.] \citep[77]{hendl}
 
-Princip hermeneutického kruhu se původně uplatňuje při interpretaci náboženských a právních textů (Gadamer 1972; Hendl 2004). Vychází z toho, že jednotlivostem (např. částem textu) nemůžeme porozumět bez porozumění celku a naopak celek nemůžeme pochopit, pokud nechápeme jednotlivosti. V praxi to znamená, že k jednotlivosti přicházíme s určitým předporozuměním. které se opírá o naše představy o celku. Toto předporozumění nám umožňuje prvotně pochopit onu jednotlivost, což se následně promítá do našeho lepšího porozumění celku. Na základě tohoto lepšího porozumění celku se můžeme vrátit k oné jednotlivosti a pochopit ji tentokrát o něco lépe, což opět přispívá k lepšímu porozumění celku a tak dále. Hermeneutický kruh představuje model prohlubujícího se poznání, a je tedy alternativou ke zevšeobecňujícímu kauzálnímu způsobu poznání.
+Schütz formuloval dva postuláty, kterými se musí fenomenologická sociologie řídit: postulát subjektivní interpretace, vyžadující vztahování k významům, které má jednání pro subjekt, a postulát adekvátnosti, vyžadující konzistenci sociálněvědních konstrukcí s každodenním myšlením a jednáním. "Subjektivní perspektiva aktéra se stává rozhodujícím vztažným bodem analýzy." (ibid.)
 
-Z hlediska metodologického můžeme chápat hermeneutický pohyb mezi jednotlivostí a celkem jako pohyb mezi daty a našimi teoretickými koncepty, které tato data interpretují. Teoretické koncepty a postupy nás předběžně připravují na data (empirickou realitu), která chceme zkoumat. Ve světle těchto dat však často musíme naše koncepty a postupy revidovat, čímž získáváme opět kvalitnější vhled do dat, která sama nejsou statická, nýbrž jsou v důsledku našeho teoretického chápání rozšiřována či zužována. To nám opět umožňuje přehodnotit naši konceptuální výbavu. Je zřejmé, že se jedná o poměrně náročný postup s otevřeným koncem, který ukazuje provizorní charakter našeho porozumění světu. (drulák, 20)
+Etnografie je rozrůzněná, nelze přesně stanovit, co jí je, a co už jí není. Její hlavní proud explicitně nepracuje s popsanými principy -- výzkumníci se řadí k fenomenologii především intuitivně, užitím metod sběru dat a výkonem reflexivity. Katz a Csordas v textu *Phenomenological ethnography in sociology and anthropology* (\citeyear{katz}) popisují situaci následovně: 
 
-The postmodern author seeks to dissolve that disjuncture between the observer and the observed. The trope of "participant observation", which captures the ambivalence of distance and familiarity, is replaced by one of "dialogue", showing "the cooperative and collaborative nature of the ethnographic situation" (Tyler, 1986, p. 126). (atkinson, 256)
+> "Fenomenologie zaznamenala v průběhu 20. století v USA spíše vágní přítomnost na okrajích antropologie. Málokdy byla explicitní inspirací etnografické práce, vzácně byla brána jako metodologická pozice, vůči které je možné se vymezit. Irving Hallowell používal termín *fenomenologický* "aby použil lepší výraz". Clifford Geerz užíval (...) Schützovu metodu při zpracování materiálů z Bali, ale fenomenologie nikdy nebyla základním kamenem jeho práce. V rámci krize etnografie v 80. a 90. letech se objevila fenomenologie pod vlivem autorů jako Merleau-Ponty, Foucault a Bourdieu. Další práce pod vlajkou fenomenologie se zakládají na širokém a rozmanitém konsenzu ohledně obsahu tohoto termínu." \citep[277]{katz} 
 
-An objectivist view of epistemology accepts the possibility of a theory-neutral language; in other words, it is possible to access the external world objectively. A subjectivist view denies the possibility of theory-neutral language. An objectivist view of ontology assumes that social and natural reality have an independent existence before human cognition, whereas a subjectivist ontology assumes that what is taken as reality is an output of human cognitive process (Johnson & Duberley, 2000). \citep[63]{brannick}
+Autoři, který sdílí cíle fenomenologie, podle Katze a Csordase ne vždy explicitně užívají fenomenologickou metodu (redukci na objektivní smysl věci a uzávorkování kontextu), neodkazují na práci filosofů ani nerozvíjejí danou teoretickou základnu. Téměř každý autor užívající termín "zkušenost" (a její subjektivní význam) identifikuje svá východiska jako fenomenologická. Adjektiva "zkušenostní" a "fenomenologický" jsou synonymní. Nicméně fenomenologie dnes slouží jako pozice, z níž je možné etnografii hodnotit, a autoři předpokládají, že etnografie a fenomenologie se budou dále sbližovat.
 
-Researchers are merely the interpreters between the community they describe and the audience to which they report their findings \citep[65]{brannick}
+## Hermeneutika
+
+Hermeneutika je proces, kterým je dosahováno porozumění v rámci etnografické metody. Tzv. princip hermeneutického kruhu vychází z toho, že jednotlivostem ani celku nemůžeme porozumět bez znalosti obojího, musíme tedy opakovaně alternovat mezi obojím. Rytmus hermeneutického kruhu popisuje Drulák (\citeyear{drulak}: 20): "K jednotlivosti přicházíme s určitým předporozuměním. které se opírá o naše představy o celku. Toto předporozumění nám umožňuje prvotně pochopit onu jednotlivost, což se následně promítá do našeho lepšího porozumění celku. Na základě tohoto lepšího porozumění celku se můžeme vrátit k oné jednotlivosti a pochopit ji tentokrát o něco lépe, což opět přispívá k lepšímu porozumění celku a tak dále." 
+
+Takto se můžeme pohybovat mezi daty (jednotlivosti) a teorií (celek), částmi textu a získanou interpretativní představou a podobně. Původní užití hermeneutiky bylo ve zkoumání náboženských textů, jejím cílem bylo vysvětlit přítomné nejasnosti pouze na základě vnitřní logiky textu. Nynější užití se vztahuje ke světu, který není uzavřeným textem -- je tedy zřejmé, že "se jedná o poměrně náročný postup s otevřeným koncem, který ukazuje provizorní charakter našeho porozumění světu" \citep[20]{drulak}.
+
+# Kritéria hodnocení etnografické práce
+
+V klasickém pozitivismu bylo možné díky objektivistické epistemologii předpokládat možnost, že závěry vědecké práce nemusí záviset na teorii a bylo by tedy možné objektivně popsat skutečnost.^[Atkinson a Hammersley upozorňují, že ve skutečnosti nešlo pouze o střed dvou stran sporu -- pozitivismu a interpretativismu. Pro podrobnější popis vizte \citealp[249--250]{atkinson}.] Subjektivistická pozice tuto možnost nedává -- ontologie, na níž je založen popis skutečnosti je totiž vždy výstupem procesu lidského myšlení \citep[63]{brannick}.
+
 
 Advocates of this approach will talk about such criteria as credibility, transfer-ability, dependability, and confirmability rather than reliability and validity (Stablein, 1996). \citep[65]{brannick}
 
@@ -48,14 +58,32 @@ If truth and reality exist only as the product of individual consciousness, what
 
 Guba et al. (quoted in Cohen et al. 2000: 106) argue for the need to replace positivist notions of validity in qualitative research with the notion of "authenticity". Denzin and Lincoln (2000: 21) suggest that positivist terms should be replaced by notions of "credibility, transferability, dependability and confirmability". \citep[5]{rooney}
 
+
+
 --- Napriklad i vyber a formulace otazek v kvanti vyzkumu s vyzkumnikem mimo je zasadne ovlivnena pochopenim jazyka a konstrukci kriterii a pojmu vyzkumnikem.
+
+In other words, the choice of the object of investigation and the extent or depth to which this investigation attempts to penetrate into the infinite causal web, are determined by the evaluative ideas which dominate the investigator and his age. In the method of investigation, the guiding "point of view" is of great importance for the construction of the conceptual scheme which will be used in the investigation. In the mode of their use, however, the investigator is obviously bound by the norms of our thought just as much here as elsewhere. For scientific truth is precisely what is valid for all who seek the truth. \cite[84]{weber}
+
+
+We are now at the end of this discussion, the only purpose of which was to trace the course of the hair-line which separates science from faith and to make explicit the meaning of the quest for social and economic knowledge. The objective validity of all empirical knowledge rests exclusively upon the ordering of the given reality according to categories which are subjective in a specific sense, namely, in that they present the presuppositions of our knowledge and are based on the presupposition of the value of those truths which empiri- cal knowledge alone is able to give us. The means available to our science offer nothing to those persons to whom this truth is of no value. It should be remembered that the belief in the value of scientific truth is the product of certain cultures and is not a product of man's original nature. Those for whom scientific truth is of no value will seek in vain for some other truth to take the place of science in just those respects in which it is unique, namely, in the provision of concepts and judgments which are neither empirical reality nor reproductions of it but which facilitate its analytical order- ing in a valid manner. In the empirical social sciences, as we have seen, the possibility of meaningful knowledge of what is essential for us in the infinite richness of events is bound up with the unremitting application of viewpoints of a specifically particularized character, which, in the last analysis, arc oriented on the basis of evaluative ideas. These evaluative ideas are for their part empirically discover- able and analyzable as elements of meaningful human conduct, but their validity can 7iot be deduced from empirical data as such. The "objectivity" of the social sciences depends rather on the fact that the empirical data are always related to those evaluative ideas which alone make them worth knowing and the significance of the empiri- cal data is derived from these evaluative ideas. But these data can never become the foundation for the empirically impossible proof of the validity of the evaluative ideas. \cite[110--111]{weber}
+
+
+
 
 Promoters of anti-positivism and anti-positivist qualitative research claim that arguments against insider research are applicable to all research. For example, one can never guarantee the honesty and openness of subjects, and our research is always coloured by our subjectivities. Complete objectivity is thus impossible. The task is to minimise the impact of biases on the research process, to carry out research in consciousness of its socially situated character and to make the researcher's position vis-à-vis the research process transparent (Hammersley 2000). By making the research process transparent and honest, it is argued that readers can construct their own perspectives which "are equally as valid as our own" (Cohen et al. 2000: 106). \citep[7]{rooney}
 
 For the moment, Deem and Brehony's suggestion seems a useful guideline for this difficult period: `Perhaps then, validity is best regarded as something which is to be worked towards rather than fully achieved' (1994: 165) \citep[16]{rooney}
 
 
+
+
+
 # chybná distinkce mezi insider/outsider
+
+Hermeneutic Tradition --- The hermeneutic tradition understands social reality by interpreting the meanings held by the social actors or members of the social group. This involves entering into the culture, understanding shared values, speaking the culture's language, and so on. The researcher is an engaged participant whose critical and analytic observation of the culture is integral to the research activity \citep[65]{brannick}
+
+
+The postmodern author seeks to dissolve that disjuncture between the observer and the observed. The trope of "participant observation", which captures the ambivalence of distance and familiarity, is replaced by one of "dialogue", showing "the cooperative and collaborative nature of the ethnographic situation" (Tyler, 1986, p. 126). (atkinson, 256)
 
 Merton (1972) identifies two opposing positions, one labelled the Outsider doctrine and the other labelled the Insider doctrine. The Outsider doctrine follows Simmel (1950) in asserting that only the neutral outsider can achieve an objective account of human interaction, because only he or she possesses the appropriate degree of distance and detachment from the subjects of the research. It is the stranger who is able "to survey conditions with less prejudice" (Simmel, 1950, p. 405), who can "stand back and abstract material from the research experience" (Burgess, 1984, p. 23), whilst it is the insider, overly-influenced by the customs of his or her group, who remains ignorant, parochially mistaking error for truth (Merton, 1972, p. 30).  By contrast, the Insider doctrine asserts the exact opposite, namely, that the outsider: has a structurally imposed incapacity to comprehend alien groups, statuses, cultures and societies … [because he or she] … has neither been socialized in the group nor has engaged in the run of experience that makes up its life, and therefore cannot have the direct, intuitive sensitivity that alone makes empathic understanding possible  \citep[8]{mercer}
 
@@ -89,13 +117,17 @@ There are multiple kinds of relationships that might enter into qualitative rese
 
 This comprises the influences of the educational institution requiring an academic underpinning to your work based research project. Figure 1.1 illustrates the influences and contexts impacting on work based projects.
 
-      / Me 
-     / Colleagues 
-    / Partners and networks 
-   / Organization/professional field 
-  / Stakeholders  and  investors 
- / Others  we  have  impact  on 
-/ S o c i e t y,  e c o n o m y  a n d  c u l t u r e
+\begin{center}..
+
+Me \linebreak
+Colleagues \linebreak
+Partners and networks \linebreak
+Organization/professional field \linebreak
+Stakeholders  and  investors \linebreak
+Others  we  have  impact  on \linebreak
+S o c i e t y,  e c o n o m y  a n d  c u l t u r e
+
+\end{center}
 
 Figure 1.1 The influences and contexts impacting on work based project \cite[22]{costley}
 
@@ -119,11 +151,13 @@ Příklad rozdílu mezi pochopeným a pouze významově artikulovaným důkazem 
 
 Filosofie není doménou hloubky, nýbrž doménou jasnosti, která se chce plně předložit našemu pohledu. Není to doména geniality, ale přísná věda. (13)
 
-- - - work base research
+# work based research
 
 When reading about research in general, it is important to remember that the scale of a work based project is likely to be relatively small. The nature of your project is likely to be something quite specific that is making an improvement, suggesting something new and creative or perhaps evaluating a particular practice. 
 (...)
 In work based research, we cannot assume that one work situation will be the same as another, but we can make what Bassey (1999: 12) has called ‘fuzzy generalizations'. These are generalizations that arise from the particular research project and may have some general application in a similar context. \citep[23]{costley}
+
+# Zdroje informací (fb, mail, rozhovory), identifikace aktérů
 
 
 # Reflexe vlastní pozice autora,
