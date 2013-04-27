@@ -1,3 +1,11 @@
+"Jednou z tradičních kritických poznámek pak zůstává, že etnometodologové nemohou dělat výzkum v klasickém smyslu slova, neboť jsou vlastně zcela součástí fenoménu, který zkoumají.
+
+Pro politology je však tento epistemologický rozpor spíše umělý. Klíčovou tendencí zůstává snaha najít střední cestu mezi oběma stranami sporu, která by umožnila, aby pozorovatel mohl být skutečným vnějším pozorovatelem, ale zároveň by reflektovala fakt, že je nevyhnutelnou součástí pozorovaného objektu." \citep[153]{drulak}
+
+
+
+
+
 Princip hermeneutického kruhu se původně uplatňuje při interpretaci náboženských a právních textů (Gadamer 1972; Hendl 2004). Vychází z toho, že jednotlivostem (např. částem textu) nemůžeme porozumět bez porozumění celku a naopak celek nemůžeme pochopit, pokud nechápeme jednotlivosti. V praxi to znamená, že k jednotlivosti přicházíme s určitým předporozuměním. které se opírá o naše představy o celku. Toto předporozumění nám umožňuje prvotně pochopit onu jednotlivost, což se následně promítá do našeho lepšího porozumění celku. Na základě tohoto lepšího porozumění celku se můžeme vrátit k oné jednotlivosti a pochopit ji tentokrát o něco lépe, což opět přispívá k lepšímu porozumění celku a tak dále. Hermeneutický kruh představuje model prohlubujícího se poznání, a je tedy alternativou ke zevšeobecňujícímu kauzálnímu způsobu poznání.
 
 Z hlediska metodologického můžeme chápat hermeneutický pohyb mezi jednotlivostí a celkem jako pohyb mezi daty a našimi teoretickými koncepty, které tato data interpretují. Teoretické koncepty a postupy nás předběžně připravují na data (empirickou realitu), která chceme zkoumat. Ve světle těchto dat však často musíme naše koncepty a postupy revidovat, čímž získáváme opět kvalitnější vhled do dat, která sama nejsou statická, nýbrž jsou v důsledku našeho teoretického chápání rozšiřována či zužována. To nám opět umožňuje přehodnotit naši konceptuální výbavu. Je zřejmé, že se jedná o poměrně náročný postup s otevřeným koncem, který ukazuje provizorní charakter našeho porozumění světu. (20)
