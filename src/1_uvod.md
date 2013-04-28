@@ -1,8 +1,9 @@
 \newpage
 
-> *"Nakonec jsme vždy za svou dobrou vůli, za svou trpělivost, slušnost, mírnost vůči cizímu odměněni — tím, že ono cizí pozvolna odhazuje své závoje a představuje se nám jako nová nevýslovná krása: — to je jeho* dík *za naši pohostinnost. I ten, kdo miluje sám sebe, se to naučil tímto způsobem: není jiné cesty. I lásce se člověk musí naučit."* 
-> 
-> \cite[192]{nietzsche}
+> \emph{"Nakonec jsme vždy za svou dobrou vůli, za svou trpělivost, slušnost, mírnost vůči cizímu odměněni — tím, že ono cizí pozvolna odhazuje své závoje a představuje se nám jako nová nevýslovná krása: — to je jeho} dík \emph{za naši pohostinnost. I ten, kdo miluje sám sebe, se to naučil tímto způsobem: není jiné cesty. I lásce se člověk musí naučit."}\newline \cite[192]{nietzsche}
+
+> \emph{"Je n’ai fait celle-ci plus longue que parce que je n’ai pas eu le loisir de la faire plus courte."}\newline Blaise Pascal
+
 
 \chapter{Úvodem}
 
