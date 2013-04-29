@@ -25,7 +25,7 @@ Toto dělení, stejně jako v podstatě podobné výše uvedené McNabbovo oddě
 
 ## Etnografie a její fenomenologická východiska
 
-Etnografie je kvalitativní metodologií výzkumu, která sbírá data prostřednictvím pozorování a zúčastněného pozorování, kompilacemi biografií (konkrétních osob i institucí), rozhovorů, analýzy dokumentů a dotazníkových šetření (především malého rozsahu s otevřeně definovaným vstupem). Součástí vytváření podkladových dat je i výzkumníkem prováděný interpretativní proces. Důraz je kladen na minimální zkreslení získaných dat přítomností výzkumníka, kterému se však není možné vyhnout, jednak z hlediska samotné změny jednání ostatních aktérů a jednak kvůli způsobu, kterým je užíván jazyk v samotné vědecké aktivitě -- klíčovou součástí je pak výzkumníkova reflexivita, která pomáhá odhalovat způsoby, kterými by toto zatížení mohlo vznikat a tím umožňovat, aby daný výzkum byl vnímán jako důvěryhodný a interně kritizovatelný (měřítkům, kterými můžeme poměřovat důvěryhodnost, se budeme věnovat níže v samostatné kapitole *3.1.3 Kritéria hodnocení etnografické práce*). Výstupem etnografické práce je zhuštěný popis, který zprostředkovává porozumění. Etnografie se snaží porozumět co nejlépe významům, které jsou užívány pozorovanými aktéry, a toto porozumění zprostředkovat cílovému publiku -- výzkumníci se tak stávají "překladateli" mezi dvěma komunitami \citep[65]{brannick}). 
+Etnografie je kvalitativní metodologií výzkumu, která sbírá data prostřednictvím pozorování a zúčastněného pozorování, kompilacemi biografií (konkrétních osob i institucí), rozhovorů, analýzy dokumentů a dotazníkových šetření (především malého rozsahu s otevřeně definovaným vstupem). Součástí vytváření podkladových dat je i výzkumníkem prováděný interpretativní proces. Důraz je kladen na minimální zkreslení získaných dat přítomností výzkumníka, kterému se však není možné vyhnout, jednak z hlediska samotné změny jednání ostatních aktérů a jednak kvůli způsobu, kterým je užíván jazyk v samotné vědecké aktivitě -- klíčovou součástí je pak výzkumníkova reflexivita, která pomáhá odhalovat způsoby, kterými by toto zatížení mohlo vznikat a tím umožňovat, aby daný výzkum byl vnímán jako důvěryhodný a interně kritizovatelný (měřítkům, kterými můžeme poměřovat důvěryhodnost, se budeme věnovat níže v samostatné kapitole *3.1.3 Kritéria hodnocení etnografické práce*). Výstupem etnografické práce je zhuštěný popis, který zprostředkovává porozumění. Etnografie se snaží porozumět co nejlépe významům, které jsou užívány pozorovanými aktéry, a toto porozumění zprostředkovat cílovému publiku -- výzkumníci se tak dle Teresy Brannick a Davida Coghlana stávají "překladateli" mezi dvěma komunitami (\citeyear{brannick}: 65). 
 
 Etnografická metodologie porozumění navázala na filosofii fenomenologie a s ní do značné míry svázaný rozvoj moderní hermeneutické metody[^1] a rozvíjela se pod vlivem fenomenologické sociologie. Cílem fenomenologie je objektivní poznání smyslu věcí, přičemž snahou je "uzávorkovat" vše, co je zkresleno nekonzistencí vnímání. Fenomenologická sociologie ustavená Alfredem Schützem pak sleduje obdobný cíl -- pochopení skutečného významu jednání subjektu; její podstatu stručně vystihuje Hendl:
 
@@ -74,89 +74,85 @@ Kritika této práce založená na popsaných kritériích je obsažena v této 
 
 # Pozicovanost autora coby součásti praxe zkoumané instituce
 
-Dalším problémem, který je zevrubně diskutován v metodologii sociálních věd a zároveň při nekončící obhajobě sociálních věd coby "skutečné vědy", je pozice výzkumníka vůči předmětu výzkumu. Kromě objektivity vnímání byla základním předpokladem objektivistického a pozitivistického přístupu distance zkoumajícího od zkoumaného: efekty způsobené kontaktem vědce byly vnímány jako znehodnocení daného výzkumu a možnost izolovat zkoumaný jev se tak stala zásadním požadavkem validity. V sociálních vědách je obtížné zaujmout distanci -- pozorujícího a pozorovaného může spojovat společný čas a prostor, sdílené sociální prostředí, konkrétní osobní vlastnosti či fakt sdíleného lidství. Ve studiích se pak objevuje tematizace "dvojí identity" zkoumajícího a zkoumaného v případech, kdy se zcela zjevně obě role prolínají v jediné osobě \citep[7]{cisarkoubek}.
+Dalším problémem, který je zevrubně diskutován v metodologii sociálních věd a zároveň při nekončící obhajobě sociálních věd coby "skutečné vědy", je pozice výzkumníka vůči předmětu výzkumu. Kromě objektivity vnímání byla základním předpokladem objektivistického a pozitivistického přístupu distance zkoumajícího od zkoumaného: efekty způsobené kontaktem vědce byly vnímány jako znehodnocení daného výzkumu a možnost izolovat zkoumaný jev se tak stala zásadním požadavkem validity (či v kontextu čtyř Shentonem stanovených kritérií, spolehlivosti). V sociálních vědách je obtížné zaujmout distanci -- pozorujícího a pozorovaného může spojovat společný čas a prostor, sdílené sociální prostředí, konkrétní osobní vlastnosti či fakt sdíleného lidství. Ve studiích se pak objevuje tematizace "dvojí identity" zkoumajícího a zkoumaného v případech, kdy se zcela zjevně obě role prolínají v jediné osobě \citep[7]{cisarkoubek}.
 
-## Chybná dichotomie mezi vnitřním a vnějším pozorovatelem
+## Chybná dichotomie mezi pozorovatelem zevnitř a zvnějšku 
 
-Robert K. Merton podle Justine Mercer (\citeyear{mercer}) identifikuje dvě protilehlé pozice - doktrínu vnějšího pozorovatele, outsidera ("Outsider doctrine") a doktrínu vnitřního pozorovatele, insidera ("Insider doctrine"). První následuje Simmela v tvrzení, že jedině externí neutrální výzkumník může objektivně nahlédnout lidskou interakci -- díky svému odstupu a nezaujatosti subjekty výzkumu. Doktrína vnitřního pozorovatele naopak říká, že takový výzkumník nemůže být schopen pochopit cizí skupiny, role, kultury a společnosti, protože nesdílí socializaci a nezapojil se do života dané skupiny, a tedy se není schopen empaticky vcítit a porozumět. Zatímco outsider je zde člověkem bez minulosti, insider není schopen uniknout své minulosti -- výzkum tedy není možné provádět ani z jedné z pozic \citep[15]{mercer}. Obě doktríny tedy Merton považuje za klamné a takto vystavěnou dichotomii odmítá --- jednotlivé pozice jsou karikatury a výzkumníci blíží se oběma definicím se potýkají s obdobnými problémy, které se týkají vlastní pozice, subjektu výzkumníka a znalostí získaných v minulosti v konkrétních sociálních lokacích (ibid. 8--9, \citealp[474]{chavez}).
+Robert K. Merton podle Justine Mercer (\citeyear{mercer}) identifikuje dvě protilehlé pozice - doktrínu pozorovatele zvnějšku, outsidera ("Outsider doctrine") a doktrínu pozorovatele zevnitř, insidera ("Insider doctrine"). První následuje Simmela v tvrzení, že jedině externí neutrální výzkumník může objektivně nahlédnout lidskou interakci -- díky svému odstupu a nezaujatosti subjekty výzkumu. Doktrína pozorovatele zevnitř naopak říká, že takový výzkumník nemůže být schopen pochopit cizí skupiny, role, kultury a společnosti, protože nesdílí socializaci a nezapojil se do života dané skupiny, a tedy se není schopen empaticky vcítit a porozumět. Zatímco outsider je zde člověkem bez minulosti, insider není schopen uniknout své minulosti -- výzkum tedy není možné provádět ani z jedné z pozic \citep[15]{mercer}. Obě doktríny tedy Merton považuje za klamné a takto vystavěnou dichotomii odmítá --- jednotlivé pozice jsou karikatury a výzkumníci blíží se oběma definicím se potýkají s obdobnými problémy, které se týkají vlastní pozice, subjektu výzkumníka a znalostí získaných v minulosti v konkrétních sociálních lokacích (ibid. 8--9, \citealp[474]{chavez}).
 
-Vrátíme-li se k tradici hermeneutiky, ta nezbytně požaduje vcítění -- "výzkumník musí vstoupit do dané kultury, pochopit sdílené hodnoty a mluvit jazykem dané kultury. Musí se stát zapojeným účastníkem, jehož kritické a analytické pozorování je integrální součástí výzkumné aktivity" \citep[65]{brannick}. Na druhou stranu, vyšší důvěrnost může vnitřního výzkumníka svádět k vnímání situací jako nesporných a přesvědčení, že relevance jeho pozorování je vyšší než ve skutečnosti je \citep[11]{mercer}. Může mu unikat důležitost "běžných"[^1] věcí, "zřejmé" otázky mohou zůstávat nepoloženy, "citlivá" témata mohou zůstávat skryta, sdílené předchozí zkušenosti mohou zůstat nevysvětleny, předsudky nezpochybněny a zdánlivě sdílené normy neartikulovány (ibid., \citealp[70]{brannick}). Mezi výzkumníkem a zkoumanými subjekty může existovat široká paleta vztahů, je proto potřebné "neschovávat se" za vzájemným porozuměním nebo naopak distancování sebe sama \citep[60]{corbinbuckle}. Chavez zpracovala vyčerpávající výčet výhod a nevýhod pozice insidera z hlediska pozicovanosti, přístupu k informacím a následné práce s informacemi, viz obrázek 3.1.
+Vrátíme-li se k tradici hermeneutiky, ta nezbytně požaduje vcítění -- "výzkumník musí vstoupit do dané kultury, pochopit sdílené hodnoty a mluvit jazykem dané kultury. Musí se stát zapojeným účastníkem, jehož kritické a analytické pozorování je integrální součástí výzkumné aktivity" \citep[65]{brannick}. Na druhou stranu, vyšší důvěrnost může *výzkumníka zevnitř* svádět k vnímání situací jako nesporných a přesvědčení, že relevance jeho pozorování je vyšší než ve skutečnosti je \citep[11]{mercer}. Může mu unikat důležitost "běžných"[^1] věcí, "zřejmé" otázky mohou zůstávat nepoloženy, "citlivá" témata mohou zůstávat skryta, sdílené předchozí zkušenosti mohou zůstat nevysvětleny, předsudky nezpochybněny a zdánlivě sdílené normy neartikulovány (ibid., \citealp[70]{brannick}). Sonya Corbin Dwyer a Jennifer Buckle v tomto kontextu poznamenávají (\citeyear{corbinbuckle}: 60), že mezi výzkumníkem a zkoumanými subjekty může existovat široká paleta vztahů, je proto potřebné "neschovávat se" za vzájemným porozuměním nebo naopak za distancováním sebe sama. Chavez zpracovala vyčerpávající výčet výhod a nevýhod pozice insidera z hlediska samotné pozice, přístupu k informacím a následné práce s informacemi, viz obrázek 3.1.
 
 \begin{figure}[htp] \centering{
 \includegraphics[width=\linewidth]{chavez-tabulka.pdf}}
-\caption{Výhody a nevýhody pozice vnitřního výzkumníka podle Christiny Chavez (\citeyear{chavez}: 479)}
+\caption{Výhody a nevýhody pozice výzkumníka-insidera podle Christiny Chavez (\citeyear{chavez}: 479)}
 \end{figure}
 
 [^1]:Více k sociologii "běžného" viz text Wayne Brethuse (1998): A sociology of the unmarked: Redirecting our focus. *Sociological Theory*, 16(1), 34-51.
 
+Existují různá dělení překonávající jednoduchou dichotomii insidera a outsidera. Atkinson a Hammersley nabízejí podrobnější čtyřstupňovou typologii, která mezi pozorovatele a účastníka vkládá ještě pozorovatele, který se účastní a účastníka, který pozoruje \citep[248]{atkinson}. Corbin a Buckle se odvolávají na práci Patricie A. Adler a Petera Adlera,^[Adler A. P. & Adler P. (1987). Membership roles in field research (Vol. 6). SAGE Publications, Incorporated.] kteří rozlišují tři rozdílné role, které mohou pozorovatelé zaujímat: "(a) peripheral member researchers, who do not participate in the core activities of group members; (b) active member researchers, who become involved with the central activities of the group without fully committing themselves to the members' values and goals; and (c) complete member researchers, who are already members of the group or who become fully affiliated during the course of the research" \citep[55]{corbinbuckle}. 
 
+Tyto a podobné typologie napovídají více o komplexitě situace, oba nové typy, které nabízejí Atkinson a Hammersley, mohou pomoci detailněji nastínit problémy, se kterými se setkávají daní výzkumníci (primát pozorování nebo účasti může intenzifikovat či oslabovat důležitost některých problémů nastíněných výše) podobně jako typologie Adlerových, nicméně nepřináší sama o sobě kromě strukturace diskuse nic nového. Proto se ještě vrátíme ke konkrétnímu příkladu výzkumu, který byl veden z pozice blízké  výzkumníku přistupujícímu zevnitř.
 
-Highlight (yellow), 1. 4. 2013 15:00, Jan Martinek:
-Adler and Adler (1987) identified three "membership roles" of qualitative researchers engaged in observational methods: (a) peripheral member researchers, who do not participate in the core activities of group members; (b) active member researchers, who become involved with the central activities of the group without fully committing themselves to the members' values and goals; and (c) complete member researchers, who are already members of the group or who become fully affiliated during the course of the research. \citep[55]{corbinbuckle}
+Takovým typickým příkladem studie z pozice, která není identifikovatelná ani s jedním pólem je text Lauren J. Breen (\citeyear{breen}), která o svém výzkumu říká:
 
+> *"I considered myself to be neither an insider nor outsider in the context of my PhD research. (...) [N]either term adequately captured the role I occupied throughout the research. To illustrate, I will discuss the role I played in my research, including the personal experiences that led me to consider myself to be neither inside nor outside the experience I was studying, and demonstrate how my role ‚in the middle‘ influenced my choice of research topic, the scope of my study, access to informants, the collection and analysis of data, and the maintenance of research rigor."* \citep[166]{breen}
 
-Despite emphasis on the differences between these supposedly diametrically opposed positions, and their underlying epistemologies, I considered myself to be neither an insider nor outsider in the context of my PhD research. I argue that the insider/outsider dichotomy is simplistic, and that neither term adequately captured the role I occupied throughout the research. To illustrate, I will discuss the role I played in my research, including the personal experiences that led me to consider myself to be neither inside nor outside the experience I was studying, and demonstrate how my role ‘in the middle' influenced my choice of research topic, the scope of my study, access to informants, the collection and analysis of data, and the maintenance of research rigor. \citep[166]{breen}
+Východiskem Breen tak zůstává uvědomění si síly kontextu --- sílu toho, co je vynecháváno --- pokud si ji výzkumník neuvědomuje, nemá plně pod kontrolou svou vlastní činnost (parafrázováno dle citace Phyllis Rose v \citealp[55]{corbinbuckle}). Zde se vynořuje fenomenologický základ etnografie. Jan Patočka v *Úvodu do fenomenologie* upozorňuje na obdobný problém: "[F]enomenologie (...) musí klást výroky nejen o tom, co se bezprostředně prožívá v reflexi, nýbrž musí mluvit také o tom, co není bezprostředně v reflexi přítomno, protože s tím, co je přítomno, souvisí podstatně mnoho nepřítomného." \citep[19--20]{patocka} Tím, že výzkumníci prezentují výzkumný proces "otevřeně a upřímně", mohou podle zastánců etnografické metodologie dosáhnout toho, že čtenáři jsou schopní vytvořit svou vlastní perspektivu, která je stejně validní [spolehlivé] jako jejich vlastní \citep[7]{rooney}.
 
+"V současné vědě se tak rozpouští hranice mezi pozorovatelem a pozorovaným. Termín ‚zúčastněné pozorování‘, který zachycuje ambivalenci vzdálenosti a obeznámenosti, je nahrazován ‚dialogem‘, který odkazuje ke kooperativní a kolaborativní podstatě etnografické situace," uzavírají \citet*[256]{atkinson}. Podobně svou studii uzavírají \citet*[73]{brannick} Mertonovou sice poněkud pokulhávající, ale úsměvnou analogií: "Insiders and outsiders in the domain of knowledge, unite. You have nothing to lose but your claims. You have a world of understanding to win."^[Merton, R. (1972: 44). Insiders and outsiders: A chapter in the sociology of knowledge. American Journal of Sociology.]
 
+##  Techniky zlepšování spolehlivosti výzkumu
 
+Mimo samotnou praxi výzkumu existuje několik způsobů, jak dále pomáhat jeho lepší spolehlivosti:
 
-However, although it is important to recognize the variation to be found in the roles adopted by observers, this simple dichotomy is not very useful, not least because it seems to imply that the nonparticipant observer plays no recognized role at all. This can be the case, but it need not be. More subtle is the widely used fourfold typology: complete observer, observer as participant, participant as observer and complete participant. (atkinson, 248)
+- Spolupráce s externím akademickým supervizorem, případně společná práce více výzkumníků na jednom úkolu -- v diskusích je možné nacházet problematická místa. \cite[9]{rooney}
 
-Moreover, it has been argued that in a sense all social research is a form of participant observation because we cannot study the social world without being part of it. (Hammerskey & Atkinson, 1983). From this point of view participant observation is not a particular research technique but a mode of being-in-the-world characteristic of researchers.
+- Validace prostřednictvím respondentů --- kontrola, zda výsledný text odpovídá "subjektivní realitě" účastníků výzkumu. (ibid.)
 
-Both etnography and participant observation have been claimed to represent a uniquely humanistic, intepretive approach, as opposed to supposedly "scientific" and "positivist" positions. (aktinson, 249)
+- Práce více výzkumníků s různými pozicemi v sociálním prostoru relevantním pro zkoumaný fenomén. Příkladem může být studie Ondřeje Císaře a Martina Koubka (\citeyear{cisarkoubek}), z nichž pouze jeden byl aktivním členem zkoumané subkultury, proto mohli "benefitovat z výchozí blízkosi insidera a též nezbytné vzdálenosti výzkumníka" (ibid.: 7).
 
-We close with the words of Merton (1972, p. 44): Insiders and outsiders in the domain of knowledge, unite. You have nothing to lose but your claims. You have a world of understanding to win. \citep[73]{brannick}
+## Akční výzkum a výzkum na pracovišti
 
+Specifickou formou výzkumu v pozici insidera je akční výzkum ("action research", jeho záměrným cílem je vedle poznání též konkrétní akce/jednání \citep[66]{brannick}), jehož implicitním cílem je navrhování změn a výzkum na pracovišti ("work-based research", doslova výzkum založený na práci), v němž se výzkumník přímo podílí na činnosti konkrétní instituce.
 
-# sleodvání -> dialog
+Výzkum na pracovišti většinou zkoumá konkrétní část praxe a jeho cíle se často protínají s cíli akčního výzkumu, ale tento průnik může být nezáměrný -- výzkumníkův záměr může být rozšíření obecného poznání, aplikovatelného na obdobnou praxi v jiném kontextu, ale zároveň může přispět ke změnám praktik, které sám zkoumá. Z tohoto hlediska je podstatné, kdo je zadavatelem výzkumu -- je-li to přímo organizace, která je zkoumána, bývají často cíle výzkumu a nároky a prostředky na výzkum předem určeny s menším či větším ohledem na výzkumníkova východiska; je-li výzkum motivován akademickým zájmem, většinou platí větší vliv výzkumníka na průběh zkoumání. 
 
-The postmodern author seeks to dissolve that disjuncture between the observer and the observed. The trope of "participant observation", which captures the ambivalence of distance and familiarity, is replaced by one of "dialogue", showing "the cooperative and collaborative nature of the ethnographic situation" (Tyler, 1986, p. 126). (atkinson, 256)
+Tento typ výzkumu přináší další distinkci -- mezi výzkumníky a těmi, který vykonávají určitý typ práce ("practitioners"). Obdobně jako v předchozí dichotomii mezi interně a externě ukotveným pozorovatelem, je tato dichotomie shledávána jako polarizace skutečně neexistujícího rozporu, založená na extrémním náhledu na to, kým akademičtí výzkumníci a pracovníky jsou. Obě skupiny je možné propojit jejich pojetím coby "knowledge workers", z nichž jedni na základě sledování teorie obohacují praxi a druzí na základě sledování praxe obohacují teorii \citep[66]{brannick}.[^Zajímavým aspektem výzkumu na pracovišti, jehož explicitním záměrem je změna zkoumané praxe, je jeho podobnost s iterativními metodikami designu, které jsou užívány v praxi designérů produktů a služeb. Srovnej například \citealp{brannic} se Stickdorn, M., & Schneider, J. (2010). This is Design Thinking. Amsterdam: BIS Publishers.]
 
-By making the research process transparent and honest, it is argued that readers can construct their own perspectives which "are equally as valid as our own" (Cohen et al. 2000: 106). \citep[7]{rooney}
-
-
-
-
-
-
-# cesta ven - vzájemná kontrola výstupů, více výzkumníků na jeden úkol
-
-Another useful technique is respondent validation — asking participants to review the reported information to check that it corresponds to their own "subjective reality". Although Fraser mentions this technique, she does not confirm whether she used it. \citep[9]{rooney}
-
-However, we were aware of the possible difficulties of this research strategy lying in the "dual identity" of researcher (Hodkinson, 2005); therefore, we did our best to balance carefully the "insider" and "researcher" elements. As only one of us received "insider status," we were better able to secure and reflect the benefits from both the initial proximity of the insider, and the necessary distance of the researcher. \citep[7]{cisarkoubek}
-
-
-
-
-
-
-
-
-# work based research
-
-When reading about research in general, it is important to remember that the scale of a work based project is likely to be relatively small. The nature of your project is likely to be something quite specific that is making an improvement, suggesting something new and creative or perhaps evaluating a particular practice. 
-(...)
-In work based research, we cannot assume that one work situation will be the same as another, but we can make what Bassey (1999: 12) has called ‘fuzzy generalizations'. These are generalizations that arise from the particular research project and may have some general application in a similar context. \citep[23]{costley}
-
-
-As its intended outcomes are both an action and a theory outcome, action research does not recognize the distinction between academic and practitioner knowledge. According to principles of action research, the traditional split between research and action is, in many respects, a false distinction, and it typically is based on extreme views of what academic researchers are and what practitioners are. \citep[66]{brannick}
-
-This comprises the influences of the educational institution requiring an academic underpinning to your work based research project. Figure 1.1 illustrates the influences and contexts impacting on work based projects.
+Jako v celém etnografickém výzkumu i zde záleží podstatně na situovanosti výzkumníka. Carol Costley, Geoffrey C. Elliott a Paul Gibbs naznačují mnohoúrovňovou situovanost výzkumníka na pracovišti v kontextech, které mají vliv na jeho práci a vnímání, následovně:
 
 \begin{center}..
 
-Me \linebreak
-Colleagues \linebreak
-Partners and networks \linebreak
-Organization/professional field \linebreak
-Stakeholders  and  investors \linebreak
-Others  we  have  impact  on \linebreak
-Society, economy and culture
+Já (výzkumník) \linebreak
+Kolegové \linebreak
+Partneři a sítě \linebreak
+Organizace/profesní oblast \linebreak
+Zainsteresované osoby (stakeholders) a investoři \linebreak
+Další, na než máme vliv \linebreak
+Společnost, ekonomika a kultura
 
 \end{center}
 
-Figure 1.1 The influences and contexts impacting on work based project \cite[22]{costley}
+# Jednání cílem výzkumu
+
+Cílem této práce je jednak vědecké poznání a zároveň přispívání k proměňování zkoumané reality. Atkinson a Hammersley pozorují, že v minulosti byla většina etnografické práce zaměřená na přispívání k disciplinárnímu vědění spíše než za účelem řešení problémů a navíc byla hodnota vytvořeného vědění vnímána jako hodnota o sobě samé \cite[253]{atkinson}. Sociální realita je každým sociálním jednáním, samozřejmě včetně zkoumání sociálního jednání, proměňována --- tento aspekt vědecké práce autor přijímá jako daný a implicitně s ním počítá již při zkoumání. 
+
+Autor považuje vědeckou pozici, která předpokládá takovou distancovanost výzkumníka od zkoumaného fenoménu, která umožňuje vynechání tohoto rozměru, za neuskutečnitelnou a její případnou akceptaci za příznak nedostatečné metodologické průpravy či pokrytectví.[^1] V práci je tak nutně přítomna i normativní rovina toho, co autor považuje za dobré a žádoucí. Za důležitou však autor považuje otevřenou snahu o reflexi vlastních hodnotových východisek, která by měla umožňovat orientaci čtenáře.
+
+[^1]:Zajímavou reflexí jsou zde texty klasických autorů, kteří explicitně zamýšleli své texty tak, aby umožňovaly hlubší porozumění sociální skutečnosti jejich současníkům, nikoli z pouze vágně formulovaného "akademického zájmu". Například Émile Durkheim v The Elementary Forms of the Religious Life (George Allen & Unwin Ltd., 1915): "Then we are not going to study a very archaic religion simply for the pleasure of telling its peculiarities and its singularities. If we have taken it as the subject of our research, it is because it has seemed to us better adapted than any other to lead to an understanding of the religious nature of man, that is to say, to show us an essential and permanent aspect of humanity."]
+
+Another area of disagreement and debate that hase become of great salience in recent years is the question of the relationship between ethnographic research and social and political practice.
+
+
+
+
+## Význam tohoto textu
+
+Tato práce je případovou studií vzniku instituce, které jde především o co nejúplnější porozumění konkrétnímu případu, nikoli o tvorbu zobecnění. Costley, Elliot a Gibbs tvrdí, že při výzkumu na pracovišti, který je vždy soustředěn na konkrétní ohraničený jev, nemůžeme očekávat, že jiné pracovní situace budou stejné a naše zkušenost plně přenositelná. Můžeme si ale dovolit vytvářet "fuzzy" (neostré, rozčepýřené) generalizace, které se *mohou zdát být použitelné* v obdobném kontextu \citep[23]{costley} --- taková tvrzení se v textu objevují, ale mají vždy podobu ústupku jazyku, který sám o sobě vyžaduje pro svou srozumitelnost určitou konvenčnost užívání. Tvorba zobecnění není cílem této případové studie.
+
+Takovou práci je možné nazývat *vnitřní*, případně *jedinečnou jednopřípadovou studií* \citep[33]{drulak}. Slovem jedinečná je míněna právě absence ambice zobecňovat pozorování na větší množství případů (práce s touto ambicí jsou pak nazývány "instrumentální", jsou nástrojem zobecnění, nástrojem vytváření teorie). Smyslem vytváření jedinečné jednopřípadové studie je úsilí o celostní a hluboké porozumění komplexním fenoménu bez ambice o explicitní formování porozumění fenoménům jiným --- to však neznamená, že taková případová studie nemůže takovou pozici zaujmout: "mohou se stát základem pro obecnější způsob uvažování, či dokonce teorii nebo jako ‚lekce‘ pro budoucí reálná rozhodování" (ibid.: 34).
+
+Z hlediska dosahování poznání je tato práce *work in progress* --- má sloužit jako součást diskuse, artefakt potenciálně vedoucí k hlubšímu pochopení jiných či obecněji definovaných jevů, který sám o sobě nevede k utváření obecného teoretického vědění. Zároveň je možné tento text vnímat coby *work in progress* i z hlediska výše zmiňovaných *technik zlepšování spolehlivosti výzkumu* (kapitola 3.3.2) --- jeho čtení respondenty a dalšími aktéry popisovaných praxí, které bohužel není z časových důvodů proveditelné před jeho odevzdáním coby závěrečné diplomové práce, by bylo příležitostí pro jeho další obsahové rozšíření o (záměrně či nezáměrně vynechané) diskurzivní oblasti či přínosné diskuse možných nekonzistencí a neporozumění. Tuto roli do značné míry může naplňovat i kritická diskuse probíhající při obhajobách závěrečné práce, což je situace nezáměrně vzniklá, ale příhodná.
 
 
 
@@ -258,7 +254,7 @@ Undertaking a research project in one's own organization is political and might 
 
 Autor si zároveň uvědomuje své zatížení konkrétním akademickým prostředím, které je v dané kapitole explicitně rekapitulováno. (Bourdieu)
 
-[F]enomenologie z podstatných důvodů -- protože věc to žádá -- musí klást výroky nejen o tom, co se bezprostředně prožívá v reflexi, nýbrž musí mluvit také o tom, co není bezprostředně v reflexi přítomno, protože s tím, co je přítomno, souvisí podstatně mnoho nepřítomného. (19-20)
+
 
 bourdieu 
 
@@ -293,25 +289,10 @@ zkoušení limitů (vývoj od kvanti ke ke kvali ke smíšeným metodologiím) +
 
 
 
-# význam textu
-
-Důležitým aspektem vědecké práce se ukazuje být též význam samotného výsledku práce --- tohoto textu. Další z podkapitol tedy přibližuje roli tohoto textu v dosahování poznání, který ukazuje jako *work in progress* --- jako součást diskuse, artefakt potenciálně vedoucí k hlubšímu pochopení jiných či obecněji definovaných jevů, který sám o sobě nevede k utváření obecného teoretického vědění. 
-
-
-
-Taková práce bývá kategorizována (např. dle Druláka (\citeyear{drulak}): 33) jako tzv. "jedinečná či vnitřní jednopřípadová studie" --- jedinečná právě z důvodu absence ambice zobecňovat pozorování na větší množství případů (takové práce jsou pak nazývány "instrumentální"). ^[Termín *work in progress* je aplikovatelný i přímo na záběr textu --- jeho čtení aktéry, které bohužel není z časových důvodů proveditelné před jeho odevzdáním coby závěrečné diplomové práce, je příležitostí pro jeho další obsahové rozšíření o (záměrně či nezáměrně vynechané) diskurzivní oblasti či přínosné diskuse možných nekonzistencí a neporozumění.]
 
 
 
 
-
-# cílem práce je vědecké poznání a implicitně vnímané přispívání k proměňování zkoumané reality
-
-As its intended outcomes are both an action and a theory outcome, action research does not recognize the distinction between academic and practitioner knowledge. According to principles of action research, the traditional split between research and action is, in many respects, a false distinction, and it typically is based on extreme views of what academic researchers are and what practitioners are. \citep[66]{brannick}
-
-Another area of disagreement and debate that hase become of great salience in recent years is the question of the relationship between ethnographic research and social and political practice. (Už Durkheim chtěl přispět modernímu člověku, ačkoli studovat Elementary forms of Religious life, http://durkheim.uchicago.edu/Summaries/forms.html) In the past, and probably still today, most etnography has been directed toward contributing to disciplinary knowledge rather than toward solving practical problems. Although such work may ultimately contribute knowledge of wide public relevance, this contribution has not usually been very immediate or specific. Furthermore, the knowledge produced has often been presented as valuable for its own sake as much as for any instrumental value it has. (atkinson, 253)
-
-Insider-led, work based projects are approached from the perspective of bringing about contributions to practice that are informed by underpinning knowledge. The purpose of the project is to bring about actual change, either during or at the end of the research project, and constitutes a particular constraint to researchers as they are working within systems where there are limits to research practice and change. \citep[26--27]{costley}
 
 
 
