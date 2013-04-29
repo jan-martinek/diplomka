@@ -27,7 +27,9 @@ Toto dělení, stejně jako v podstatě podobné výše uvedené McNabbovo oddě
 
 Etnografie je kvalitativní metodologií výzkumu, která sbírá data prostřednictvím pozorování a zúčastněného pozorování, kompilacemi biografií (konkrétních osob i institucí), rozhovorů, analýzy dokumentů a dotazníkových šetření (především malého rozsahu s otevřeně definovaným vstupem). Součástí vytváření podkladových dat je i výzkumníkem prováděný interpretativní proces. Důraz je kladen na minimální zkreslení získaných dat přítomností výzkumníka, kterému se však není možné vyhnout, jednak z hlediska samotné změny jednání ostatních aktérů a jednak kvůli způsobu, kterým je užíván jazyk v samotné vědecké aktivitě -- klíčovou součástí je pak výzkumníkova reflexivita, která pomáhá odhalovat způsoby, kterými by toto zatížení mohlo vznikat a tím umožňovat, aby daný výzkum byl vnímán jako důvěryhodný a interně kritizovatelný (měřítkům, kterými můžeme poměřovat důvěryhodnost, se budeme věnovat níže v samostatné kapitole *3.1.3 Kritéria hodnocení etnografické práce*). Výstupem etnografické práce je zhuštěný popis, který zprostředkovává porozumění. Etnografie se snaží porozumět co nejlépe významům, které jsou užívány pozorovanými aktéry, a toto porozumění zprostředkovat cílovému publiku -- výzkumníci se tak dle Teresy Brannick a Davida Coghlana stávají "překladateli" mezi dvěma komunitami (\citeyear{brannick}: 65). 
 
-Etnografická metodologie porozumění navázala na filosofii fenomenologie a s ní do značné míry svázaný rozvoj moderní hermeneutické metody[^1] a rozvíjela se pod vlivem fenomenologické sociologie. Cílem fenomenologie je objektivní poznání smyslu věcí, přičemž snahou je "uzávorkovat" vše, co je zkresleno nekonzistencí vnímání. Fenomenologická sociologie ustavená Alfredem Schützem pak sleduje obdobný cíl -- pochopení skutečného významu jednání subjektu; její podstatu stručně vystihuje Hendl:
+Etnografická metodologie porozumění navázala na filosofii fenomenologie a s ní do značné míry svázaný rozvoj moderní hermeneutické metody[^1] a rozvíjela se pod vlivem fenomenologické sociologie. Cílem fenomenologie je objektivní poznání smyslu věcí, přičemž snahou je "uzávorkovat" vše, co je zkresleno nekonzistencí vnímání. "[Fenomenologická] filosofie není," říká Patočka (\cite[13]{patocka}) "doménou hloubky, nýbrž doménou jasnosti, která se chce plně předložit našemu pohledu." Patočka dále přibližuje fenomenologické hledání podstaty věcí názorným příkladem: matematickému důkazu můžeme formálně rozumět --- chápat jeho syntaxi a jednotlivé výroky, ale přesto nemusíme chápat, jak byl zkonstruován. "[J]e zde markantní zkušenostní rozdíl mezi oním *jasně vidět* a pouhým *hledat*." (ibid.: 9). V kontextu etnografického pozorování by analogickou situací byla schopnost rozeznávat pravidelnosti v jednání aktérů a schopnost těmto pravidelnostem rozumět a jednání těchto aktérů vysvětlit.
+
+Fenomenologická sociologie ustavená Alfredem Schützem pak sleduje obdobný cíl -- pochopení skutečného významu jednání subjektu; její podstatu stručně vystihuje Hendl:
 
 [^1]:Přesný vztah fenomenologie a hermeneutiky je u různých autorů různý -- Husserl považoval fenomenologii za součást tradice objektivní hermeneutiky, Heidegger kladl hermeneutiku za hlavní fenomenologickou metodu; celá diskuse je vedena s podstatně přesněji definovanými termíny a není ji potřebné zde reprodukovat. Více k tématu viz \citet{hendl} a odkazované zdroje, \citet{patocka}.
 
@@ -72,6 +74,7 @@ Pokud však není možné uplatňovat kritérium validity, může být výzkum v
 
 Kritika této práce založená na popsaných kritériích je obsažena v této práci: jednak v podobě reflexe vlastní pozice autora v kontextu výzkumu a akademického diskursu v této kapitole a pak v kapitole osmé, která se mimo jiné věnuje omezením a slabým stránkám práce.
 
+
 # Pozicovanost autora coby součásti praxe zkoumané instituce
 
 Dalším problémem, který je zevrubně diskutován v metodologii sociálních věd a zároveň při nekončící obhajobě sociálních věd coby "skutečné vědy", je pozice výzkumníka vůči předmětu výzkumu. Kromě objektivity vnímání byla základním předpokladem objektivistického a pozitivistického přístupu distance zkoumajícího od zkoumaného: efekty způsobené kontaktem vědce byly vnímány jako znehodnocení daného výzkumu a možnost izolovat zkoumaný jev se tak stala zásadním požadavkem validity (či v kontextu čtyř Shentonem stanovených kritérií, spolehlivosti). V sociálních vědách je obtížné zaujmout distanci -- pozorujícího a pozorovaného může spojovat společný čas a prostor, sdílené sociální prostředí, konkrétní osobní vlastnosti či fakt sdíleného lidství. Ve studiích se pak objevuje tematizace "dvojí identity" zkoumajícího a zkoumaného v případech, kdy se zcela zjevně obě role prolínají v jediné osobě \citep[7]{cisarkoubek}.
@@ -89,7 +92,7 @@ Vrátíme-li se k tradici hermeneutiky, ta nezbytně požaduje vcítění -- "v�
 
 [^1]:Více k sociologii "běžného" viz text Wayne Brethuse (1998): A sociology of the unmarked: Redirecting our focus. *Sociological Theory*, 16(1), 34-51.
 
-Existují různá dělení překonávající jednoduchou dichotomii insidera a outsidera. Atkinson a Hammersley nabízejí podrobnější čtyřstupňovou typologii, která mezi pozorovatele a účastníka vkládá ještě pozorovatele, který se účastní a účastníka, který pozoruje \citep[248]{atkinson}. Corbin a Buckle se odvolávají na práci Patricie A. Adler a Petera Adlera,^[Adler A. P. & Adler P. (1987). Membership roles in field research (Vol. 6). SAGE Publications, Incorporated.] kteří rozlišují tři rozdílné role, které mohou pozorovatelé zaujímat: "(a) peripheral member researchers, who do not participate in the core activities of group members; (b) active member researchers, who become involved with the central activities of the group without fully committing themselves to the members' values and goals; and (c) complete member researchers, who are already members of the group or who become fully affiliated during the course of the research" \citep[55]{corbinbuckle}. 
+Existují různá dělení překonávající jednoduchou dichotomii insidera a outsidera. Atkinson a Hammersley nabízejí podrobnější čtyřstupňovou typologii, která mezi úplného pozorovatele a úplného účastníka vkládá ještě pozorovatele, který se účastní a účastníka, který pozoruje \citep[248]{atkinson}. Corbin a Buckle se odvolávají na práci Patricie A. Adler a Petera Adlera,^[Adler A. P. & Adler P. (1987). Membership roles in field research (Vol. 6). SAGE Publications, Incorporated.] kteří rozlišují tři rozdílné role, které mohou pozorovatelé zaujímat: "(a) peripheral member researchers, who do not participate in the core activities of group members; (b) active member researchers, who become involved with the central activities of the group without fully committing themselves to the members' values and goals; and (c) complete member researchers, who are already members of the group or who become fully affiliated during the course of the research" \citep[55]{corbinbuckle}.^[Adlerovi zde odlišují i čtvrtou, ale podstatně méně ostře ohraničenou pozici než  -- mezi *výzkumníky zevnitř* totiž nepočítají výzkumníky participující na výzkumu organizace ("organizational research"), kteří jsou přítomní v organizaci pouze po dobu výzkumu a pouze za účelem jeho vykonání \citep[60]{brannick}]
 
 Tyto a podobné typologie napovídají více o komplexitě situace, oba nové typy, které nabízejí Atkinson a Hammersley, mohou pomoci detailněji nastínit problémy, se kterými se setkávají daní výzkumníci (primát pozorování nebo účasti může intenzifikovat či oslabovat důležitost některých problémů nastíněných výše) podobně jako typologie Adlerových, nicméně nepřináší sama o sobě kromě strukturace diskuse nic nového. Proto se ještě vrátíme ke konkrétnímu příkladu výzkumu, který byl veden z pozice blízké  výzkumníku přistupujícímu zevnitř.
 
@@ -121,7 +124,7 @@ Tento typ výzkumu přináší další distinkci -- mezi výzkumníky a těmi, k
 
 Jako v celém etnografickém výzkumu i zde záleží podstatně na situovanosti výzkumníka. Carol Costley, Geoffrey C. Elliott a Paul Gibbs naznačují mnohoúrovňovou situovanost výzkumníka na pracovišti v kontextech, které mají vliv na jeho práci a vnímání, následovně:
 
-\begin{center}..
+\begin{center}
 
 Já (výzkumník) \linebreak
 Kolegové \linebreak
@@ -135,16 +138,11 @@ Společnost, ekonomika a kultura
 
 # Jednání cílem výzkumu
 
-Cílem této práce je jednak vědecké poznání a zároveň přispívání k proměňování zkoumané reality. Atkinson a Hammersley pozorují, že v minulosti byla většina etnografické práce zaměřená na přispívání k disciplinárnímu vědění spíše než za účelem řešení problémů a navíc byla hodnota vytvořeného vědění vnímána jako hodnota o sobě samé \cite[253]{atkinson}. Sociální realita je každým sociálním jednáním, samozřejmě včetně zkoumání sociálního jednání, proměňována --- tento aspekt vědecké práce autor přijímá jako daný a implicitně s ním počítá již při zkoumání. 
+Cílem této práce je jednak vědecké poznání a zároveň přispívání k proměňování zkoumané reality. Atkinson a Hammersley pozorují, že v minulosti byla většina etnografické práce zaměřená na přispívání k disciplinárnímu vědění spíše než za účelem řešení problémů a navíc byla hodnota vytvořeného vědění vnímána jako hodnota o sobě samé \cite[253]{atkinson}. Sociální realita je každým sociálním jednáním, včetně samotného zkoumání sociálního jednání a rozšiřování jeho výstupů, proměňována --- tento aspekt vědecké práce autor přijímá jako daný a implicitně s ním počítá již při zkoumání. 
 
 Autor považuje vědeckou pozici, která předpokládá takovou distancovanost výzkumníka od zkoumaného fenoménu, která umožňuje vynechání tohoto rozměru, za neuskutečnitelnou a její případnou akceptaci za příznak nedostatečné metodologické průpravy či pokrytectví.[^1] V práci je tak nutně přítomna i normativní rovina toho, co autor považuje za dobré a žádoucí. Za důležitou však autor považuje otevřenou snahu o reflexi vlastních hodnotových východisek, která by měla umožňovat orientaci čtenáře.
 
 [^1]:Zajímavou reflexí jsou zde texty klasických autorů, kteří explicitně zamýšleli své texty tak, aby umožňovaly hlubší porozumění sociální skutečnosti jejich současníkům, nikoli z pouze vágně formulovaného "akademického zájmu". Například Émile Durkheim v The Elementary Forms of the Religious Life (George Allen & Unwin Ltd., 1915): "Then we are not going to study a very archaic religion simply for the pleasure of telling its peculiarities and its singularities. If we have taken it as the subject of our research, it is because it has seemed to us better adapted than any other to lead to an understanding of the religious nature of man, that is to say, to show us an essential and permanent aspect of humanity."]
-
-Another area of disagreement and debate that hase become of great salience in recent years is the question of the relationship between ethnographic research and social and political practice.
-
-
-
 
 ## Význam tohoto textu
 
@@ -152,41 +150,15 @@ Tato práce je případovou studií vzniku instituce, které jde především o 
 
 Takovou práci je možné nazývat *vnitřní*, případně *jedinečnou jednopřípadovou studií* \citep[33]{drulak}. Slovem jedinečná je míněna právě absence ambice zobecňovat pozorování na větší množství případů (práce s touto ambicí jsou pak nazývány "instrumentální", jsou nástrojem zobecnění, nástrojem vytváření teorie). Smyslem vytváření jedinečné jednopřípadové studie je úsilí o celostní a hluboké porozumění komplexním fenoménu bez ambice o explicitní formování porozumění fenoménům jiným --- to však neznamená, že taková případová studie nemůže takovou pozici zaujmout: "mohou se stát základem pro obecnější způsob uvažování, či dokonce teorii nebo jako ‚lekce‘ pro budoucí reálná rozhodování" (ibid.: 34).
 
-Z hlediska dosahování poznání je tato práce *work in progress* --- má sloužit jako součást diskuse, artefakt potenciálně vedoucí k hlubšímu pochopení jiných či obecněji definovaných jevů, který sám o sobě nevede k utváření obecného teoretického vědění. Zároveň je možné tento text vnímat coby *work in progress* i z hlediska výše zmiňovaných *technik zlepšování spolehlivosti výzkumu* (kapitola 3.3.2) --- jeho čtení respondenty a dalšími aktéry popisovaných praxí, které bohužel není z časových důvodů proveditelné před jeho odevzdáním coby závěrečné diplomové práce, by bylo příležitostí pro jeho další obsahové rozšíření o (záměrně či nezáměrně vynechané) diskurzivní oblasti či přínosné diskuse možných nekonzistencí a neporozumění. Tuto roli do značné míry může naplňovat i kritická diskuse probíhající při obhajobách závěrečné práce, což je situace nezáměrně vzniklá, ale příhodná.
+Z hlediska dosahování poznání je tato práce *work in progress* --- má sloužit jako součást diskuse, artefakt potenciálně vedoucí k hlubšímu pochopení jiných či obecněji definovaných jevů, který sám o sobě nevede k utváření obecného teoretického vědění. Zároveň je možné tento text vnímat coby *work in progress* i z hlediska výše zmiňovaných *technik zlepšování spolehlivosti výzkumu* (kapitola 3.3.2) --- jeho čtení respondenty a dalšími aktéry popisovaných praxí,[^Případně větším množstvím výzkumníků, kteří využívají reflexivity ve své práci, které není možné nad rámec konzultace s vedoucím práce.] bohužel není z časových důvodů proveditelné před jeho odevzdáním coby závěrečné diplomové práce, by bylo příležitostí pro jeho další obsahové rozšíření o (záměrně či nezáměrně vynechané) diskurzivní oblasti či přínosné diskuse možných nekonzistencí a neporozumění. Tuto roli do značné míry může naplňovat i kritická diskuse probíhající při obhajobě závěrečné práce, což je situace nezáměrně vzniklá, ale příhodná.
 
+# Výběr zkoumaného případu 
 
+Při výběru předmětu výzkumu by neměla být zvažována pro zajímavost a výchozí snadnou dostupnost zdrojů informací (\citeyear{drulak}: 51). Autor podle Druláka musí předpokládat, že prozkoumání daného případu poskytne jedinečná data, která dosud nebyla teoreticky uchopena. Namísto specifikace teorie tak musíme jasně uvést důvod, proč byl daný případ vybrán (ibid.). 
 
+Při výběru tématu tak hrála roli jednak a) snaha přiblížit v lokálním kontextu neobvyklou praxi s výhodou hluboké znalosti prostředí a samotného procesu utváření instituce; b) snaha propojit několik perspektiv (etnografie, design institucí, insider research, výzkum na pracovišti) při popisování stále relativně neobvyklé formy instituce, přičemž praxe obdobně fungujících institucionálních mechanismů bývá většinou popisována pouze s velmi omezeným rejstříkem sledovaných vlastností; c) souvislost tématu s autorovou předchozí prací o deliberativních experimentech \citep{bakalarka} a návaznost na původně zamýšlené téma diplomové práce, politickou odpovědnost; d) již získaná zkušenost s reflexivním zkoumáním v pozici pozorujícího účastníka a příležitost k jejímu dalšímu rozvíjení a v neposlední řadě též e) časová tíseň při zpracování diplomové práce.[^Autorovým původním záměrem byl zisk větší časové rezervy pro zpracování původně zvoleného tématu odpovědnosti v politice skrze přerušení studia, které nebylo dovoleno.]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Výběr zkoumaného případu (nejen dostupnost, ale interní vhled a protnutí s teoretickou kompetencí)
-
-
-V tomto případě tak existují pouze dvě kritéria, jejichž naplnění však není vždy jednoduché: 1) vyhraný případ musí svým charakterem odpovídat tomu, jak byla případová studie definována v úvodu; 2) případ by neměl být vybrán pouze proto, že "je zajímavý" či jsou pro jeho výzkum snadno dostupná data apod. (Mitehell a Beniauer. 2004. s. 90). U vybraného jedinečného/vnitřního případu musíme přinejmenším předpokládat, že jeho prozkoumání poskytne jedinečná data, která dosud nebyla teoreticky uchopena. Namísto specifikace teorie tak musíme jasně uvést důvod, proč byl daný případ vybrán (Yin 2003a, s. 22). (drulák, 51)
-
-Příklad rozdílu mezi pochopeným a pouze významově artikulovaným důkazem ukazuje, že je zde markantní zkušenostní rozdíl mezi oním *jasně vidět* a pouhým *hledat*. (patočka, 9)
-
-Filosofie není doménou hloubky, nýbrž doménou jasnosti, která se chce plně předložit našemu pohledu. Není to doména geniality, ale přísná věda. (13)
-
-
+Z hlediska metodologického tato práce naplňuje i druhé kritérium, kterým Drulák podmiňuje správný výběr případu zkoumaného v jedinečné případové studii: vyhraný případ musí být "objekt, uzavřený systém, který má jasné hranice a vnitřní logiku fungování a svou specifickou podstatu (...) nejlepší pro definici případu je situace, kdy určitý fenomén či epizoda splňuje [kritéria časového i tematického ohraničení]"^[Část citace v hranatých uvozovkách byla drobně stylisticky přizpůsobena.] \citep[33]{drulak}. Případová studie je časově ohraničena obdobím výrazné kritiky tehdejšího institucionálního uspořádání a uzavřena šestým během hodnotícího procesu vykonávaného zkoumanou stipendijní komisí. Konkrétní tematické ohraničení je dáno praxí spojenou s udělováním stipendií na spolkové a kulturní účely v rámci Fakulty sociálních studií Masarykovy univerzity.
 
 
 
@@ -213,19 +185,7 @@ When members of an ingroup are present, individuals are likely to differentiate 
 
 
 
-In Defense of Being Native The Case for Insider Academic Research.pdf:
-By insider research, we mean research by complete members of organizational systems and communities in and on their own organizations, in contrast to organizational research that is conducted by researchers who temporarily join the organization for the purposes and duration of the research (Adler & Adler, 1987). \citep[60]{brannick}
-
 Odhalení skrytých předpokladů, jejich kritika, eventuálně relativizace, omezení, likvidace -- to je nekonečný proces. (patočka, 23)
-
-
-
-
-
-
-
-
-Bourdieu's notion of social praxeology, in which reflexivity and relational thinking are central, supports our focus on this neglected area (Everett, 2002) \citep[61]{brannick}
 
 
 # nebezpečí pozice uvnitř
@@ -237,13 +197,7 @@ Undertaking a research project in one's own organization is political and might 
 
 
 
-
-
-
-
-
-
-
+Bourdieu's notion of social praxeology, in which reflexivity and relational thinking are central, supports our focus on this neglected area (Everett, 2002) \citep[61]{brannick}
 
 
 

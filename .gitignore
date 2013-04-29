@@ -1,2 +1,3 @@
 /out/*
 /groundwork/sensitive/*
+*.sublime-*
