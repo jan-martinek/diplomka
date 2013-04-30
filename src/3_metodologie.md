@@ -83,7 +83,9 @@ Dalším problémem, který je zevrubně diskutován v metodologii sociálních 
 
 Robert K. Merton podle Justine Mercer (\citeyear{mercer}) identifikuje dvě protilehlé pozice - doktrínu pozorovatele zvnějšku, outsidera ("Outsider doctrine") a doktrínu pozorovatele zevnitř, insidera ("Insider doctrine"). První následuje Simmela v tvrzení, že jedině externí neutrální výzkumník může objektivně nahlédnout lidskou interakci -- díky svému odstupu a nezaujatosti subjekty výzkumu. Doktrína pozorovatele zevnitř naopak říká, že takový výzkumník nemůže být schopen pochopit cizí skupiny, role, kultury a společnosti, protože nesdílí socializaci a nezapojil se do života dané skupiny, a tedy se není schopen empaticky vcítit a porozumět. Zatímco outsider je zde člověkem bez minulosti, insider není schopen uniknout své minulosti -- výzkum tedy není možné provádět ani z jedné z pozic \citep[15]{mercer}. Obě doktríny tedy Merton považuje za klamné a takto vystavěnou dichotomii odmítá --- jednotlivé pozice jsou karikatury a výzkumníci blíží se oběma definicím se potýkají s obdobnými problémy, které se týkají vlastní pozice, subjektu výzkumníka a znalostí získaných v minulosti v konkrétních sociálních lokacích (ibid. 8--9, \citealp[474]{chavez}).
 
-Vrátíme-li se k tradici hermeneutiky, ta nezbytně požaduje vcítění -- "výzkumník musí vstoupit do dané kultury, pochopit sdílené hodnoty a mluvit jazykem dané kultury. Musí se stát zapojeným účastníkem, jehož kritické a analytické pozorování je integrální součástí výzkumné aktivity" \citep[65]{brannick}. Na druhou stranu, vyšší důvěrnost může *výzkumníka zevnitř* svádět k vnímání situací jako nesporných a přesvědčení, že relevance jeho pozorování je vyšší než ve skutečnosti je \citep[11]{mercer}. Může mu unikat důležitost "běžných"[^1] věcí, "zřejmé" otázky mohou zůstávat nepoloženy, "citlivá" témata mohou zůstávat skryta, sdílené předchozí zkušenosti mohou zůstat nevysvětleny, předsudky nezpochybněny a zdánlivě sdílené normy neartikulovány (ibid., \citealp[70]{brannick}). Sonya Corbin Dwyer a Jennifer Buckle v tomto kontextu poznamenávají (\citeyear{corbinbuckle}: 60), že mezi výzkumníkem a zkoumanými subjekty může existovat široká paleta vztahů, je proto potřebné "neschovávat se" za vzájemným porozuměním nebo naopak za distancováním sebe sama. Chavez zpracovala vyčerpávající výčet výhod a nevýhod pozice insidera z hlediska samotné pozice, přístupu k informacím a následné práce s informacemi, viz obrázek 3.1.
+Vrátíme-li se k tradici hermeneutiky, ta nezbytně požaduje vcítění -- "výzkumník musí vstoupit do dané kultury, pochopit sdílené hodnoty a mluvit jazykem dané kultury. Musí se stát zapojeným účastníkem, jehož kritické a analytické pozorování je integrální součástí výzkumné aktivity" \citep[65]{brannick}. Na druhou stranu, vyšší důvěrnost může *výzkumníka zevnitř* svádět k vnímání situací jako nesporných a přesvědčení, že relevance jeho pozorování je vyšší než ve skutečnosti je \citep[11]{mercer}. Může mu unikat důležitost "běžných"[^1] věcí, "zřejmé" otázky mohou zůstávat nepoloženy, "citlivá" témata mohou zůstávat skryta, sdílené předchozí zkušenosti mohou zůstat nevysvětleny, předsudky nezpochybněny a zdánlivě sdílené normy neartikulovány (ibid., \citealp[70]{brannick}). Sonya Corbin Dwyer a Jennifer Buckle v tomto kontextu poznamenávají (\citeyear{corbinbuckle}: 60), že mezi výzkumníkem a zkoumanými subjekty může existovat široká paleta vztahů, je proto potřebné "neschovávat se" za vzájemným porozuměním nebo naopak za distancováním sebe sama.
+
+Chavez zpracovala vyčerpávající výčet výhod a nevýhod pozice insidera z hlediska samotné pozice, přístupu k informacím a následné práce s informacemi, viz obrázek 3.1.
 
 \begin{figure}[htp] \centering{
 \includegraphics[width=\linewidth]{chavez-tabulka.pdf}}
@@ -102,7 +104,7 @@ Takovým typickým příkladem studie z pozice, která není identifikovatelná 
 
 Východiskem Breen tak zůstává uvědomění si síly kontextu --- sílu toho, co je vynecháváno --- pokud si ji výzkumník neuvědomuje, nemá plně pod kontrolou svou vlastní činnost (parafrázováno dle citace Phyllis Rose v \citealp[55]{corbinbuckle}). Zde se vynořuje fenomenologický základ etnografie. Jan Patočka v *Úvodu do fenomenologie* upozorňuje na obdobný problém: "[F]enomenologie (...) musí klást výroky nejen o tom, co se bezprostředně prožívá v reflexi, nýbrž musí mluvit také o tom, co není bezprostředně v reflexi přítomno, protože s tím, co je přítomno, souvisí podstatně mnoho nepřítomného." \citep[19--20]{patocka} Tím, že výzkumníci prezentují výzkumný proces "otevřeně a upřímně", mohou podle zastánců etnografické metodologie dosáhnout toho, že čtenáři jsou schopní vytvořit svou vlastní perspektivu, která je stejně validní [spolehlivé] jako jejich vlastní \citep[7]{rooney}.
 
-"V současné vědě se tak rozpouští hranice mezi pozorovatelem a pozorovaným. Termín ‚zúčastněné pozorování‘, který zachycuje ambivalenci vzdálenosti a obeznámenosti, je nahrazován ‚dialogem‘, který odkazuje ke kooperativní a kolaborativní podstatě etnografické situace," uzavírají \citet*[256]{atkinson}. Podobně svou studii uzavírají \citet*[73]{brannick} Mertonovou sice poněkud pokulhávající, ale úsměvnou analogií: "Insiders and outsiders in the domain of knowledge, unite. You have nothing to lose but your claims. You have a world of understanding to win."^[Merton, R. (1972: 44). Insiders and outsiders: A chapter in the sociology of knowledge. American Journal of Sociology.]
+"V současné vědě se tak rozpouští hranice mezi pozorovatelem a pozorovaným. Termín ‚zúčastněné pozorování‘, který zachycuje ambivalenci vzdálenosti a obeznámenosti, je nahrazován ‚dialogem‘, který odkazuje ke kooperativní a kolaborativní podstatě etnografické situace," uzavírají \citet*[256]{atkinson}. Podobně svou studii uzavírají \citet*[73]{brannick} Mertonovou sice poněkud pokulhávající, ale úsměvnou parafrází: "Insiders and outsiders in the domain of knowledge, unite. You have nothing to lose but your claims. You have a world of understanding to win."^[Merton, R. (1972: 44). Insiders and outsiders: A chapter in the sociology of knowledge. American Journal of Sociology.]
 
 ##  Techniky zlepšování spolehlivosti výzkumu
 
@@ -160,16 +162,13 @@ Při výběru tématu tak hrála roli jednak a) snaha přiblížit v lokálním 
 
 Z hlediska metodologického tato práce naplňuje i druhé kritérium, kterým Drulák podmiňuje správný výběr případu zkoumaného v jedinečné případové studii: vyhraný případ musí být "objekt, uzavřený systém, který má jasné hranice a vnitřní logiku fungování a svou specifickou podstatu (...) nejlepší pro definici případu je situace, kdy určitý fenomén či epizoda splňuje [kritéria časového i tematického ohraničení]"^[Část citace v hranatých uvozovkách byla drobně stylisticky přizpůsobena.] \citep[33]{drulak}. Případová studie je časově ohraničena obdobím výrazné kritiky tehdejšího institucionálního uspořádání a uzavřena šestým během hodnotícího procesu vykonávaného zkoumanou stipendijní komisí. Konkrétní tematické/institucionální ohraničení je dáno praxí spojenou s udělováním stipendií na spolkové a kulturní účely v rámci Fakulty sociálních studií Masarykovy univerzity.
 
+# Použité metody a zdroje informací
 
+Pozorování probíhalo z pozice pozorujícího zúčastněného. Podle Matse Alvessona je tento termín vhodnější než "zúčastněný pozorovatel" pro situace, kdy "jde v první řadě o participaci a ta je pouze příležitostně doplněná pozorováním ve výzkumném smyslu slova."[^1] Pozorování, v němž je možné opřít se pouze o paměť a poznámky autora a případnou revizi dalšími aktéry, bylo doplněno analýzou textů --- kromě malého množství textů v relevantních médiích jde především o obsáhlou archivovanou elektronickou komunikaci (uskutečňovanou prostřednictvím elektronické pošty a online provozovaných služeb pro usnadnění spolupráce) přímo se vztahující k tématu a související s určitými koncepty a též několika rozhovory s různými aktéry dění (členy vedení fakulty a komise).
 
-# použité metody, zdroje informací (fb, mail, rozhovory), identifikace aktérů
+V práci je vždy označen zdroj, ze kterého je konkrétní citace či parafráze čerpána. Jména aktérů zůstávají většinou skryta (pokud nejde o popis vysloveně veřejných aktivit), jednotliví aktéři jsou tak identifikováni pouze vztahem vůči instituci --- člen vedení Fakulty, člen Stipendijní komise, člen Studentské komory či Komory akademických pracovníků Akademického senátu a podobně.
 
-Pozorování vznikalo z pozice pozorujícího zúčastněného. "Participation comes first and only occasionally is complemented with observation in a research-focus sense." \citep[67]{brannick}
-
-jenž byl významnou součástí procesu vzniku instituce a působí tedy jak v roli zkoumajícího subjektu, tak zkoumaného objektu. Tato pozice jednak znamená možnost externě obtížně odhalitelného zanesení práce subjektivní percepcí situace autorem textu, ale zároveň umožňuje využití znalosti situačního prostředí a užívaného slovníku k rozeznání detailů interakce, které by jinak zůstaly skryty. 
-
-
-
+[^1]:Alvesson, M. (2003). Methodology for close up studies—Struggling with closeness and closure. In Higher Education, 46, 167-193. Anderson, G. L., & Herr, K., citováno dle \citealp[67]{brannick}
 
 # Reflexe vlastní pozice autora
 
@@ -179,34 +178,19 @@ V Akademickém senátu autor působil v letech 2008--2012, mezi červnem 2011 a 
 
 V době zpracování studie (duben 2013) se již autor neúčastní aktivit fakultního senátu a nemá žádnou formální pravomoc. Dále však udržuje blízký vztah se současnými senátory a má přístup k interní komunikaci mezi členy stipendijní komise prostřednictvím online provozované služby pro usnadnění spolupráce (konkrétně jde funkcionalitu "Skupina" na webovém serveru Facebook.com). 
 
-Autor stále svázán s institucí prostřednictví studia na Fakultě sociálních studií a přestože předpokládá, že upřímný popis detailů institucionální praxe by neměl být překážkou při absolvování studia, jistě by právě zde bylo možné spatřovat riziko toho, že by "citlivá" témata mohla zůstat skryta \citep[70]{brannick}, především při popisech, které se týkají jednání a východisek akademických pracovníků. Limitujícím faktorem v tomto případě nemusí být přímo obava z eventuálního smíšení popisu praxe a normativního hodnocení jednání jednotlivých aktérů, ale zároveň už samotný fakt aplikace výzkumných metod na vlastní instituce. "Zkoumání vlastní instituce je politické rozhodnutí a může být dokonce považováno za subverzivní," tvrdí dále \citet*[72]{brannick} s poukazem na případy, kdy byli výzkumníci považováni za špehy (na policejní stanici) anebo jim, coby členům katedry, byla přičítána snaha o převzetí jejího vedení.
+Autor stále svázán s institucí prostřednictví studia na Fakultě sociálních studií a přestože předpokládá, že upřímný popis detailů institucionální praxe by neměl být překážkou při absolvování studia, jistě by právě zde bylo možné spatřovat riziko toho, že by "citlivá" témata mohla zůstat skryta \citep[70]{brannick}, především při popisech, které se týkají jednání a východisek akademických pracovníků. Limitujícím faktorem v tomto případě nemusí být přímo obava z eventuálního smíšení popisu praxe a normativního hodnocení jednání jednotlivých aktérů, ale zároveň už samotný fakt aplikace výzkumných metod na vlastní instituce. "Zkoumání vlastní instituce je politické rozhodnutí a může být dokonce považováno za subverzivní," tvrdí dále \citet*[72]{brannick} s poukazem na případy, kdy byli výzkumníci považováni za špehy (na policejní stanici) anebo jim, coby členům katedry, byla přičítána snaha o převzetí jejího vedení. TODO: Přátelské vztahy ke kolegům, přičítání pozitivních vlastností…
 
 "Status samotného výzkumníka v organizaci, ať je jakýkoli, má vliv na přístup k informacím. Přístup na jedné úrovni může vést k přístup či jeho odepření na úrovních jiných." \citealp[68]{brannick} Fakulta je prostředí strukturované jednak stupněm studia, vztahy mezi členy pracovišť (kateder, oborů, výzkumných ústavů), hranicemi mezi jednotlivými pracovišti, a pak také pozicí v do jisté míry vydělené struktuře vedení fakulty (děkanát (děkan a tajemník), vedení (děkanát, proděkani a zástupce studentů) a kolegium děkana (vedení a vedoucí kateder)) Akademický senát a jeho komory). Pozice akademického senátora prochází skrze mnoho z těchto dělících linií a proto umožňuje často z jiných pozic nedosažitelný přístup k široké paletě informací (z pohledu autora přímý či zprostředkovaný prostřednictvím dalších akademických senátorů, například studentského senátora navštěvujícího zasedání vedení). I přes často otevřenou komunikaci akademiků zůstává víceméně skryta většina jejich neformální komunikace. 
 
-Pozice akademického senátora je ambivalentní, protože i přes formální přístup k rozhodování o důležitých aspektech fungování fakulty zůstává aktér stále studentem, jehož pozice bývá často vymezena jako protilehlá vůči akademickým pracovníkům, jehož jednání je motivováno jiným zájmem než jednání akademických pracovníků a zároveň nemusí být vůbec kompetentní pro takové rozhodování. Jak zmínil v osobní elektronické konverzaci jeden akademiků, "[studenti] neznají všechny souvislosti debaty a zejména nemají žádnou vazbu zodpovědnosti k vědeckému výkonu fakulty a k potřebě tento výkon rozumným způsobem rozvíjet".^[TODO: V rámci kurzu *Sociální konstrukce identity* autor toho textu zpracoval studii práce s institucionální pamětí, kde mj. popisuje \cite{losingthepast}.]
+V tomto kontextu je ještě zajímavé zmínit pozorování Christiny Chavez týkající se toho, jak samotní aktéři definují sebe samotné při komunikaci s ostatními: v přítomnosti členů skupiny se definují jako podobní jeden druhému: "Jsi jako já, jen s nějakými rozdíly.", zatímco když jsou přítomni členové zvenčí, je jejich definice spíše vedena v protikladu vůči těmto aktérům, kteří jsou tak charakterizováni jako "spíše nepodobní". \citep[478]{chavez} Je otázkou, zda dělící linie vedoucí mezi různými částmi fakulty jsou dostatečně silné na to, aby signifikovaly toto identitární oddělování --- autor se domnívá, že například dělení mezi akademickými pracovníky (obecně definovatelnými spíše jako zaměstnanci fakulty) a studenty je v tomto ohledu dostatečně silné.^[TODO: V rámci kurzu *Sociální konstrukce identity* autor toho textu zpracoval studii práce s institucionální pamětí, kde mj. popisuje \cite{losingthepast}. ... Důležitost tohoto dělení může být zřejmá například i po oslavách 15. výročí založení Fakulty sociálních studií, jehož studenty nepořádané části se nezúčastnili téměř žádní studenti.]
 
-
-
-
-When members of an ingroup are present, individuals are likely to differentiate them based on "individuals or …subgroup representatives" from the ingroup: You are like me but with some differences. When outgroup members are present, they distinguish others based on in- and outgroup characteristics: You are more unlike me than like me. \citep[478]{chavez}
-
-
+Pozice akademického senátora je ambivalentní, protože i přes formální přístup k rozhodování o důležitých aspektech fungování fakulty zůstává aktér stále studentem, jehož pozice bývá často vymezena jako protilehlá vůči akademickým pracovníkům, jehož jednání je motivováno jiným zájmem než jednání akademických pracovníků a zároveň nemusí být vůbec kompetentní pro takové rozhodování. Jak zmínil v osobní elektronické konverzaci jeden akademiků, "[studenti] neznají všechny souvislosti debaty a zejména nemají žádnou vazbu zodpovědnosti k vědeckému výkonu fakulty a k potřebě tento výkon rozumným způsobem rozvíjet".
 
 
 
 
 
 
-# nebezpečí pozice uvnitř
-
-
-
-
-
-
-
-
-Bourdieu's notion of social praxeology, in which reflexivity and relational thinking are central, supports our focus on this neglected area (Everett, 2002) \citep[61]{brannick}
 
 
 
@@ -215,11 +199,15 @@ Bourdieu's notion of social praxeology, in which reflexivity and relational thin
 
 # akademické prostředí
 
-Autor si zároveň uvědomuje své zatížení konkrétním akademickým prostředím, které je v dané kapitole explicitně rekapitulováno. (Bourdieu)
+Z hlediska reflexivity poznání výzkumníka zbývá prozkoumat ještě jednu širokou oblast --- ukotvenost autora v konkrétním akademickém prostředí, protože výsledek výzkumu je ovlivněn jak vztahem autora ke konkrétnímu prostředí, tak i (snad i zejména) následováním postupů a procedur, které jsou v konkrétní tradici vyžadovány.^[Fakt, že je tato oblast autorem vnímána jako jediná, kterou je ještě nutné v rámci metodologické kapitoly probrat, je tedy částečně vysvětlen faktory popisovanými v této kapitole.]
+
+Podobně jako ve fenomenologii musíme brát ohled na to, co "není bezprostředně v reflexi [skutečnosti, tedy v pozorování] přítomno, protože s tím, co je přítomno, souvisí podstatně mnoho nepřítomného." \citep[19--20]{patocka} Epistemická reflexivita se soustředí na autorovy hodnotové systémy, metodologická reflexivita na důsledky toho, jak výzkum sám ovlivňuje prostředí, v němž se odehrává \citep[60]{brannick}. Mezi výrazné, ale často nekonkretizované "nepřítomné" patří i fakt akademického tvarování výzkumníka. Zdůvodnění důležitosti reflexe této pozice předvedl Pierre Bourdie ve svém textu Objektivace zúčastněného.
 
 
 
-bourdieu 
+
+bourdieu
+
 
 It begins to become clear, or so I hope, that objectivation of the subject of objectivation is neither a mere narcissistic entertainment, nor a pure effect of some kind of wholly gratuitous epistemological point of honour, in that it exerts very real scientific effects. This is not only because it can lead one to discover all kinds of 'perversions' linked to the position occupied in scientific space, such as those spurious theoretical breaks, more-or-less conspicuously proclaimed, in which some young anthropologists eager to make a name for themselves indulge periodically (especially when they catch the latest strain of what my friend E.P. Thompson acerbically called 'the French flu'); or that kind of fossilization of research and even thought that can ensue from enclosure in a scholarly tradition perpetuated by the logic of academic reproduction. 
 
