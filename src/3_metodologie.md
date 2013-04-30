@@ -144,7 +144,7 @@ Autor považuje vědeckou pozici, která předpokládá takovou distancovanost v
 
 [^1]:Zajímavou reflexí jsou zde texty klasických autorů, kteří explicitně zamýšleli své texty tak, aby umožňovaly hlubší porozumění sociální skutečnosti jejich současníkům, nikoli z pouze vágně formulovaného "akademického zájmu". Například Émile Durkheim v The Elementary Forms of the Religious Life (George Allen & Unwin Ltd., 1915): "Then we are not going to study a very archaic religion simply for the pleasure of telling its peculiarities and its singularities. If we have taken it as the subject of our research, it is because it has seemed to us better adapted than any other to lead to an understanding of the religious nature of man, that is to say, to show us an essential and permanent aspect of humanity."]
 
-## Význam tohoto textu
+## Forma a význam tohoto textu
 
 Tato práce je případovou studií vzniku instituce, které jde především o co nejúplnější porozumění konkrétnímu případu, nikoli o tvorbu zobecnění. Costley, Elliot a Gibbs tvrdí, že při výzkumu na pracovišti, který je vždy soustředěn na konkrétní ohraničený jev, nemůžeme očekávat, že jiné pracovní situace budou stejné a naše zkušenost plně přenositelná. Můžeme si ale dovolit vytvářet "fuzzy" (neostré, rozčepýřené) generalizace, které se *mohou zdát být použitelné* v obdobném kontextu \citep[23]{costley} --- taková tvrzení se v textu objevují, ale mají vždy podobu ústupku jazyku, který sám o sobě vyžaduje pro svou srozumitelnost určitou konvenčnost užívání. Tvorba zobecnění není cílem této případové studie.
 
@@ -156,41 +156,50 @@ Z hlediska dosahování poznání je tato práce *work in progress* --- má slou
 
 Při výběru předmětu výzkumu by neměla být zvažována pro zajímavost a výchozí snadnou dostupnost zdrojů informací (\citeyear{drulak}: 51). Autor podle Druláka musí předpokládat, že prozkoumání daného případu poskytne jedinečná data, která dosud nebyla teoreticky uchopena. Namísto specifikace teorie tak musíme jasně uvést důvod, proč byl daný případ vybrán (ibid.). 
 
-Při výběru tématu tak hrála roli jednak a) snaha přiblížit v lokálním kontextu neobvyklou praxi s výhodou hluboké znalosti prostředí a samotného procesu utváření instituce; b) snaha propojit několik perspektiv (etnografie, design institucí, insider research, výzkum na pracovišti) při popisování stále relativně neobvyklé formy instituce, přičemž praxe obdobně fungujících institucionálních mechanismů bývá většinou popisována pouze s velmi omezeným rejstříkem sledovaných vlastností; c) souvislost tématu s autorovou předchozí prací o deliberativních experimentech \citep{bakalarka} a návaznost na původně zamýšlené téma diplomové práce, politickou odpovědnost; d) již získaná zkušenost s reflexivním zkoumáním v pozici pozorujícího účastníka a příležitost k jejímu dalšímu rozvíjení a v neposlední řadě též e) časová tíseň při zpracování diplomové práce.[^Autorovým původním záměrem byl zisk větší časové rezervy pro zpracování původně zvoleného tématu odpovědnosti v politice skrze přerušení studia, které nebylo dovoleno.]
+Při výběru tématu tak hrála roli jednak a) snaha přiblížit v lokálním kontextu neobvyklou praxi s výhodou hluboké znalosti prostředí a samotného procesu utváření instituce; b) snaha propojit několik perspektiv (etnografie, design institucí, insider research, výzkum na pracovišti) při popisování stále relativně neobvyklé formy instituce, přičemž praxe obdobně fungujících institucionálních mechanismů bývá většinou popisována pouze s velmi omezeným rejstříkem sledovaných vlastností; c) souvislost tématu s autorovou předchozí prací o deliberativních experimentech \citep{bakalarka} a návaznost na původně zamýšlené téma diplomové práce, politickou odpovědnost; d) již získaná zkušenost s reflexivním zkoumáním v pozici pozorujícího účastníka a příležitost k jejímu dalšímu rozvíjení a v neposlední řadě též e) časová tíseň při zpracování diplomové práce.^[Autorovým původním záměrem byl zisk větší časové rezervy pro zpracování původně zvoleného tématu odpovědnosti v politice skrze přerušení studia, které nebylo dovoleno.]
 
-Z hlediska metodologického tato práce naplňuje i druhé kritérium, kterým Drulák podmiňuje správný výběr případu zkoumaného v jedinečné případové studii: vyhraný případ musí být "objekt, uzavřený systém, který má jasné hranice a vnitřní logiku fungování a svou specifickou podstatu (...) nejlepší pro definici případu je situace, kdy určitý fenomén či epizoda splňuje [kritéria časového i tematického ohraničení]"^[Část citace v hranatých uvozovkách byla drobně stylisticky přizpůsobena.] \citep[33]{drulak}. Případová studie je časově ohraničena obdobím výrazné kritiky tehdejšího institucionálního uspořádání a uzavřena šestým během hodnotícího procesu vykonávaného zkoumanou stipendijní komisí. Konkrétní tematické ohraničení je dáno praxí spojenou s udělováním stipendií na spolkové a kulturní účely v rámci Fakulty sociálních studií Masarykovy univerzity.
+Z hlediska metodologického tato práce naplňuje i druhé kritérium, kterým Drulák podmiňuje správný výběr případu zkoumaného v jedinečné případové studii: vyhraný případ musí být "objekt, uzavřený systém, který má jasné hranice a vnitřní logiku fungování a svou specifickou podstatu (...) nejlepší pro definici případu je situace, kdy určitý fenomén či epizoda splňuje [kritéria časového i tematického ohraničení]"^[Část citace v hranatých uvozovkách byla drobně stylisticky přizpůsobena.] \citep[33]{drulak}. Případová studie je časově ohraničena obdobím výrazné kritiky tehdejšího institucionálního uspořádání a uzavřena šestým během hodnotícího procesu vykonávaného zkoumanou stipendijní komisí. Konkrétní tematické/institucionální ohraničení je dáno praxí spojenou s udělováním stipendií na spolkové a kulturní účely v rámci Fakulty sociálních studií Masarykovy univerzity.
 
 
 
 # použité metody, zdroje informací (fb, mail, rozhovory), identifikace aktérů
 
-
-
-
-
-# Reflexe vlastní pozice autora,
+Pozorování vznikalo z pozice pozorujícího zúčastněného. "Participation comes first and only occasionally is complemented with observation in a research-focus sense." \citep[67]{brannick}
 
 jenž byl významnou součástí procesu vzniku instituce a působí tedy jak v roli zkoumajícího subjektu, tak zkoumaného objektu. Tato pozice jednak znamená možnost externě obtížně odhalitelného zanesení práce subjektivní percepcí situace autorem textu, ale zároveň umožňuje využití znalosti situačního prostředí a užívaného slovníku k rozeznání detailů interakce, které by jinak zůstaly skryty. 
 
-- v tuhle chvíli již neaktivní senátor, překrytí pouze v příslušnosti k instituci
 
-- zúčastněný pozorovatel / pozorující zúčastněný
 
-Alvesson (2003) argues that observing participant is a better term to use than participant observer. Participation comes first and only occasionally is complemented with observation in a research-focus sense. \citep[67]{brannick}
 
-Clearly, any researcher's status in the organization has an impact on access. Access at one level auto-matically may lead to limits or access at other levels. \citep[68]{brannick}
+# Reflexe vlastní pozice autora
+
+"Odhalení skrytých předpokladů, jejich kritika, eventuálně relativizace, omezení, likvidace -- to je nekonečný proces." Právě takový nekonečný proces, jak jej popisuje \citet*[23]{patocka}, by měl být zahájen v této podkapitole explicitním ukotvením autora. Autor této studie byl aktivním účastníkem vzniku nového mechanismu udělování stipendií v roli místopředsedy Akademického senátu (AS), byl tedy společně s dalšími kolegy ve Studentské komoře (SK) Akademického senátu prvním zdrojem návrhů na to, jak by měla vznikající instituce pracovat, a formálně byl odpovědný za jejich implementaci. 
+
+V Akademickém senátu autor působil v letech 2008--2012, mezi červnem 2011 a zářím 2012 v roli místopředsedy AS --- tato funkce bývá přezdívána (záměrně i nezáměrně) "předseda Studentské komory", zejména z toho důvodu, že předseda celého Senátu byl zatím vždy zvolen z řad Komory akademických pracovníků (KAP).^[Při jedné z voleb předsednictva bylo při rekapitulaci pravidel volby dokonce explicitně řečeno, že předseda senátu je volen z řad KAP, přestože žádné takové ukotvení neexistuje.]
+
+V době zpracování studie (duben 2013) se již autor neúčastní aktivit fakultního senátu a nemá žádnou formální pravomoc. Dále však udržuje blízký vztah se současnými senátory a má přístup k interní komunikaci mezi členy stipendijní komise prostřednictvím online provozované služby pro usnadnění spolupráce (konkrétně jde funkcionalitu "Skupina" na webovém serveru Facebook.com). 
+
+Autor stále svázán s institucí prostřednictví studia na Fakultě sociálních studií a přestože předpokládá, že upřímný popis detailů institucionální praxe by neměl být překážkou při absolvování studia, jistě by právě zde bylo možné spatřovat riziko toho, že by "citlivá" témata mohla zůstat skryta \citep[70]{brannick}, především při popisech, které se týkají jednání a východisek akademických pracovníků. Limitujícím faktorem v tomto případě nemusí být přímo obava z eventuálního smíšení popisu praxe a normativního hodnocení jednání jednotlivých aktérů, ale zároveň už samotný fakt aplikace výzkumných metod na vlastní instituce. "Zkoumání vlastní instituce je politické rozhodnutí a může být dokonce považováno za subverzivní," tvrdí dále \citet*[72]{brannick} s poukazem na případy, kdy byli výzkumníci považováni za špehy (na policejní stanici) anebo jim, coby členům katedry, byla přičítána snaha o převzetí jejího vedení.
+
+"Status samotného výzkumníka v organizaci, ať je jakýkoli, má vliv na přístup k informacím. Přístup na jedné úrovni může vést k přístup či jeho odepření na úrovních jiných." \citealp[68]{brannick} Fakulta je prostředí strukturované jednak stupněm studia, vztahy mezi členy pracovišť (kateder, oborů, výzkumných ústavů), hranicemi mezi jednotlivými pracovišti, a pak také pozicí v do jisté míry vydělené struktuře vedení fakulty (děkanát (děkan a tajemník), vedení (děkanát, proděkani a zástupce studentů) a kolegium děkana (vedení a vedoucí kateder)) Akademický senát a jeho komory). Pozice akademického senátora prochází skrze mnoho z těchto dělících linií a proto umožňuje často z jiných pozic nedosažitelný přístup k široké paletě informací (z pohledu autora přímý či zprostředkovaný prostřednictvím dalších akademických senátorů, například studentského senátora navštěvujícího zasedání vedení). I přes často otevřenou komunikaci akademiků zůstává víceméně skryta většina jejich neformální komunikace. 
+
+Pozice akademického senátora je ambivalentní, protože i přes formální přístup k rozhodování o důležitých aspektech fungování fakulty zůstává aktér stále studentem, jehož pozice bývá často vymezena jako protilehlá vůči akademickým pracovníkům, jehož jednání je motivováno jiným zájmem než jednání akademických pracovníků a zároveň nemusí být vůbec kompetentní pro takové rozhodování. Jak zmínil v osobní elektronické konverzaci jeden akademiků, "[studenti] neznají všechny souvislosti debaty a zejména nemají žádnou vazbu zodpovědnosti k vědeckému výkonu fakulty a k potřebě tento výkon rozumným způsobem rozvíjet".^[TODO: V rámci kurzu *Sociální konstrukce identity* autor toho textu zpracoval studii práce s institucionální pamětí, kde mj. popisuje \cite{losingthepast}.]
+
+
 
 
 When members of an ingroup are present, individuals are likely to differentiate them based on "individuals or …subgroup representatives" from the ingroup: You are like me but with some differences. When outgroup members are present, they distinguish others based on in- and outgroup characteristics: You are more unlike me than like me. \citep[478]{chavez}
 
 
 
-Odhalení skrytých předpokladů, jejich kritika, eventuálně relativizace, omezení, likvidace -- to je nekonečný proces. (patočka, 23)
+
+
+
 
 
 # nebezpečí pozice uvnitř
 
-Undertaking a research project in one's own organization is political and might even be considered subversive. \citep[72]{brannick}
+
 
 
 
