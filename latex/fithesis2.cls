@@ -40,10 +40,11 @@
 
 % depth of table of content (TOC)
 % TOC will contain sectioning commands upto \subsubsection
-\setcounter{tocdepth}{4}
+\setcounter{tocdepth}{2}
 
 % loads fit1*.clo size option class
 \input fit1\@ptsize.clo\relax
+\input altfit1\@ptsize.clo\relax
 
 \def\ps@thesisheadings{%
 \def\chaptermark##1{%
