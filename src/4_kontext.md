@@ -48,11 +48,11 @@ Problematické fungování Stipendijní komise ve tvaru, v němž byla ukotvena 
 
 Výrazným podnětem k jednání Studentské komory AS se stala stížnost žadatelů z projektu Masarykovy debaty v druhé polovině roku 2010,^[Zde je nutné poznamenat, že organizátorem projektu byl blízký přítel autora, s nímž se později v roce 2011 zúčastnil voleb do Akademického senátu.] kteří jednak zpochybňovali konzistenci zdůvodnění, pro které jim stipendium nebylo přiděleno (byly podle nich uváděny na různých setkáních s proděkanem různé důvody) a vedle toho vedli diskusi o smyslu stipendia (stipendium mělo pokrývat náklady na pronájem místnosti na fakultě a hrazení nákladů debatérům). Zdůvodnění bylo v této době možné získat prostřednictvím uzavřené osobní konzultace s proděkanem pro studium.
 
-Do diskuse se tak dostala jednak *otevřenost zdůvodňování (ne)udělování stipendií* a téma jejich *samotné povahy* (účelu stipendií). Na zasedání AS FSS 6. června 2011^[Diskuse zde byla do značné míry spojena též s tématem samotného účtování poplatků studentům za užívání místností na fakultě ke spolkové činnosti.] se toto téma objevilo v několika bodech představených Studentskou komorou AS: zveřejňování zdůvodnění rozhodnutí o (ne)udělení stipendia, zveřejńování samotných žádostí, možnost přenesení odpovědnosti z proděkana na samotnou Stipendijní komisi (a tedy vázání jeho rozhodnutí rozhodnutím komise) a přesnější vymezení podmínek, za nichž se může proděkan odchýlit od rozhodnutí komise. Diskuse byla výrazně konfliktní, nicméně hlasy všech přítomných bylo přijato usnesení vyzývající ke *"zveřejňování rozhodnutí stipendijní komise ve stipendijních programech, které oceňují mimořádné výkony studentů, v případě neudělení stipendia, krácení stipendia, nebo v případě rozporu stanoviska proděkana s názorem komise"*. \citep{zapis11_6}
+Do diskuse se tak dostala jednak *otevřenost zdůvodňování (ne)udělování stipendií* a téma jejich *samotné povahy* (účelu stipendií), dále pak byla již z dřívějška převzata *možnost periodického rozdělování stipendií* v některých programech, aby nedocházelo k jejich neočekávanému vyčerpání. Na zasedání AS FSS 6. června 2011^[Diskuse zde byla do značné míry spojena též s tématem samotného účtování poplatků studentům za užívání místností na fakultě ke spolkové činnosti.] se toto téma objevilo v několika bodech představených Studentskou komorou AS: zveřejňování zdůvodnění rozhodnutí o (ne)udělení stipendia, zveřejńování samotných žádostí, možnost přenesení odpovědnosti z proděkana na samotnou Stipendijní komisi (a tedy vázání jeho rozhodnutí rozhodnutím komise) a přesnější vymezení podmínek, za nichž se může proděkan odchýlit od rozhodnutí komise. Diskuse byla výrazně konfliktní, nicméně hlasy všech přítomných bylo přijato usnesení vyzývající ke *"zveřejňování rozhodnutí stipendijní komise ve stipendijních programech, které oceňují mimořádné výkony studentů, v případě neudělení stipendia, krácení stipendia, nebo v případě rozporu stanoviska proděkana s názorem komise"*. \citep{zapis11_6}
 
 Při konzultacích v první polovině roku 2011 proděkan pro studium nabízel organizaci workshopu pro žadatele, ke kterému nakonec nedošlo --- při vidině blížící se změny celé procedury výběru nebyly Studentskou komorou AS sbírány podněty studentů k problematickým bodům udělování stipendií, zároveň byly některé aspekty stávající procedury vnímány jako problematické samy o sobě --- zakořeněné nikoli v nevědomosti žadatelů (například problém uzavřenosti rozhodování).
 
-Dalším problémem byl chybějící přehled o stavu Stipendijního fondu. Jednak se závěrem roku stávalo, že stipendia nebyla udělována pro jeho vyčerpání, zůstatky bylo možné zjistit pouze problematicky za již zúčtovaná období a především se mezi studenty objevila zpráva o vyčerpanosti fondu, která nebyla založena na skutečnosti.
+Dalším problémem byl chybějící přehled o stavu Stipendijního fondu. Jednak se závěrem roku stávalo, že stipendia nebyla udělována pro jeho vyčerpání, zůstatky bylo možné zjistit pouze problematicky za již zúčtovaná období a především se mezi studenty objevila zpráva o vyčerpanosti fondu, která nebyla založena na skutečnosti (zmíněno v \citealp{zapis12_1}).
 
 Technickým problémem, který však zvýrazňoval téma stipendií se též stal administrativní a technický problém s vyplácením stipendií ve čtyřech měsících na přelomu let 2010/2011. \citep{zapis3_11}         
 
@@ -62,20 +62,25 @@ Diskuse o řešení byly vedeny zpočátku na úrovni uzavřených rozhovorů me
 
 Během října 2011 bylo tehdy nově zvoleným děkanem (s mandátem od 1. září 2011) na uzavřeném setkání představeno řešení přesunutí pravomocí spravování komise na Studentskou komoru. Toto řešení pak nicméně nebylo zmíněno na žádném z jednání Akademického senátu, dále byly projednávány změny vztažené k práci komise v původním formátu.
 
+Nabídka předání správy stipendijního programu vymezitelného svým rozsahem na půdorysu tehdejšího programu C pak zazněla na setkání dvou členů Studentské komory AS a proděkana pro studium, 21. prosince 2011 jako preferované řešení, vedle toho byly dále diskutovány možnosti zveřejňování záporných, případně všech rozhodnutí a též samotných žádostí. Na zasedání vedení fakulty, 2. ledna 2012, byl proděkanem prezentován návrh Směrnice a Soupisu programů, který pak byl 26. ledna schválen Akademickým senátem. Zápis ze zasedání \citep{zapis12_1} zmiňuje mj. souhlas proděkana s návrhem Studentské komory AS, "aby pro program spolkové a kulturní činnosti žadatelé dávali souhlas se zveřejněním celého projektu" a též úvahy proděkana ohledně role komisí v dalším rozhodování: 
+
+> *"[Komise] podle proděkanů nefungovala, působila průtahy a někteří členové vůbec neplnili své povinnosti. Komise v návrhu není vyloučena, ale je posílena role expertů. Rozhodují ti, kteří mají programu nejblíže. Příkladem je program pro spolkovou a kulturní činnost, kde je správa svěřena SK AS."*
+
+# Kontext ustanovení komise
+
+Článek 4 \citep{smernice2012} vymezuje, že děkan zřizuje "[p]ro dohled nad vynakládáním prostředků v rámci některých stipendijních programů a jako svůj expertní a poradní orgán zřizuje děkan Komise stipendijních programů", jejichž ustavení a složení upravuje (\citealp{soupis2012}; dokumenty budou dále nazývány pouze *Směrnice* a *Soupis*). Soupis nově oproti předchozímu roku ustavuje komisi "z řad členů akademické obce FSS, jejíž členy nominuje Studentská komora" AS FSS a stanovuje, že posuzování probíhá čtyřikrát ročně. Soupis zároveň vymezuje přesně termíny odevzdání žádostí.
+
+Z procesního hlediska je pak podstatné ještě ustanovení v odstavci 7: "Po termínu ukončení podávání návrhů se o nich komise a poté vedení fakulty usnáší bez zbytečného odkladu. Výplata stipendií probíhá v nejbližším výplatním termínu po rozhodnutí vedení fakulty."
+
+Z hlediska širšího kontextu již zbývá jen poznamenat, že jednání senátu a následná práce na ustavování nového modelu Stipendijní komise jsou v daném období náročné jednak kvůli probíhajícímu zkouškovému období, ale především kvůli v prvním čtvrtletí 2012 probíhajícím protestům vysokoškolských studentů proti vládní vysokoškolské politice (především po kritice věcných záměrů *Zákona o vysokých školách* a *Zákona o finanční pomoci studentům* akademiky z Univerzity Karlovy 19. ledna 2012), kterých se senátoři v menší či větší míře účastnili.^[Coby místopředseda Akademického senátu byl autor v tomto období výrazně zapojen do organizace, diskusí a dalších aktivit.]
 
 
-- interní diskuse mezi senátem, proděkanem a děkanem
-- diskuse o řešení
-    - nabídka změny představena děkanem very early (říjen), pak další jednání o jiném způsobu změny
-    - nabídka zopakována proděkanem v pátek před Vánoci
-    - realizace souběžně s VŠ protesty a zkouškovým obdobím, zpoždění
-
-             
 
 
 
 
 
-    
 
- 
+
+
+

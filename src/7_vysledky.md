@@ -1,1 +1,4 @@
 \chapter{Předpoklady a výsledky}
+
+Kapitola *Předpoklady a výsledky* se věnuje hodnocení působení instituce podle několika různých hledisek. Jednak dle parametrů definovaných tvůrci komise při intencionálně vykonávaných krocích utváření instituce; podle tří úrovní působení deliberativně-demokratického experimentu definovaných autorem v předchozí práci \citep{bakalarka}; dle míry realizace žádoucích (či též potřebných,"desirable") principů institucionálního designu vytčených Robertem E. Goodinem (\citeyear{iatd}: 40–-43) a v neposlední řadě dle přítomnosti "šesti dober" demokratických institucí definovaných Grahamem Smithem v jeho knize věnované přímo institucionálnímu designu demokratických institucí (\citeyear{smith}). Využito je zároveň poznatků získaných v předchozích kapitolách a měřitelných výsledků fungování komise.
+
