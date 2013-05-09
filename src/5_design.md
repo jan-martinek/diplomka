@@ -1,18 +1,46 @@
 \chapter{Design stipendijní komise}
 
-apitola *Design stipendijní komise* se věnuje konstrukci pravidel fungování instituce a jejich vztažení vůči a) normativním východiskům deliberativní teorie, b) parametrům institucionálního designu a c) kontextu vzniku instituce. Zároveň se věnuje klíčovým bodům diskusí, které byly identifikovány jak samotnými aktéry diskusí, tak ex post facto autorem textu.
+
+
+V této kapitole se autor věnuje prvním dílčím^[*Dílčím* ve smyslu daném teorií institucionálního designu] návrhům stipendijní komise, které vytvořila v lednu 2012 Studentská komora AS a vztahuje je vůči a) normativním východiskům deliberativní teorie, b) parametrům institucionálního designu a c) kontextu vzniku instituce. 
+
+Sledujeme-li vznik komise na bázi Goodinem vymezené typologie změn \citep[25]{goodin}, můžeme najít několik různých rovin celého procesu. Eskalace problému byla spíše *náhodná*, sešlo se více faktorů --- aktivní studentská komora, personální propojení aktérů (stěžující si organizátoři debat a členové senátu), výměna proděkanů, chybějící student v komisi. Přestože diskuse o povaze stipendií probíhala dlouhodobě, měnila se spíše formální pravidla a skutečný proces udělování zůstával podobný.
+
+Vznik samotné příležitosti byl do jisté míry též náhodný --- volba nového vedení fakulty (po dvou navazujících mandátech předchozího děkana, tedy po osmi letech) se sešla s popisovanými (studenty a dalšími aktéry vnímanými) problémy a nový děkan a proděkani měli zájem na řešení situace, zde je možné pozorovat *záměrnou* změnu: pro vedení byla situace vnímána jako nedobrá, či snad i neúnosná. Přenesení rozhodovací pravomoci ke studentům nebylo pouhou evolucí stávajícího modelu, ale jeho zásadní záměrnou proměnou.
+
+Konečně, při konstrukci samotného fungování komise Studentskou komorou AS je možné sledovat jak *záměrné* změny, tak změny *evoluční*. I pro počáteční rychlost celého procesu (od počátku rozvažování o proceduře výběru příjemců stipendií až po první kolo hodnocení neuplynulo o mnoho déle než měsíc a půl) nutně vznikaly praktiky vycházející z představ více různých aktérů a jejich úpravy byly prováděny za běhu. Množství úprav a diskuse o nich s postupem času poklesly, ale dodnes stále v institucionální praxi komise vznikají novinky.
+
+V celém procesu vzniku je jistě možné nacházet i *náhodné* změny, nicméně z hlediska použité metody zkoumání (zkoumání textů a rozhovory) a pro nedostupnost mnohých původních materiálů (byly přepsány aktuálnější verzí) je obtížné je nacházet.
+
+Zajímavý pohled nabízí Blaugova dichotomie *úřadující* a *kritické* demokracie (\citep[3]{smith}. Praxe komise vznikla díky aktivitě aktérů, kteří jsou na okraji instituce --- Studentská komora AS je stále orgánem, jehož členové mají ambivalentní pozici; jejich přístup k ovlivňování dění na fakultě je nepřímý. Návrhy prvků nového mechanismu jednání vznikly z pozice dlouhodobé kritiky předešlé praxe. Především pokud jako rámec našeho pohledu pojmeme komunitu studentů, kteří se výrazně podílejí na "životě fakulty", tak jsou studentští senátoři a příjemci stipendií okrajová skupina, která takto vyjednává vlastní uznání v rámci instituce. Definice *kritické* demokracie, která "inovuje" na okraji a vytváří praxi, která vyzývá ke změně stávajícího modelu "vládnutí" je tak do velké míry naplněna. Komise má zároveň dle záměrů iniciátorů jejích utvoření vytvářet prostor pro vzájemnou komunikaci a tak dále utvářet prostor pro formulaci nových názorů, což by mělo umožňovat další kritickou praxi.
+
+Na druhou stranu je prvotní návrh komise relativně přesně danou procedurou, jejíž výstupy mají být dosažitelné v předem stanovitelném čase, a která je vytvořena v úzkém kruhu několika členů SK AS. Utvoření praxe z centra a optimalizace procesu stejně jako využívání hlasovacího aparátu coby "zjednodušení a racionalizace institucionalizovaných zprostředkovatelských kanálů politické vůle" jsou znaky, které Ricardo Blaug přisuzuje pozici *úřadujících*, kteří se soustředí především na legitimizaci vlastního jednání, ať už je v souladu s podněty, které vycházejí z komunity studentů či nikoli. Není tedy možné jednoznačně říci, která pozice je "ta pravá", ale kritický pohled na jednotlivé prvky institucionální kontextu je užitečný. Graham Smith cituje Blauga když říká, že podle něj jakákoli forma (záměrné^[Termín *záměrné* zde autor dodává především s ohledem na teorii institucionálního designu.]) institucionalizace z hlediska demokratických východisek zbavuje aktéry moci, Smith nicméně tvrdí že jeho analýza (sada případových studií deliberativních experimentů) napovídá, že "demokratické inovace mohou konstituovat uskutečňování právě takové ‚democratic agency‘, kterou [Blaug] oslavuje" svým popisem *kritické* demokracie \citep[199]{smith} a že jsou navrhovány s důrazem na předávání moci aktérům.^[Bylo by jistě možné přistupovat k této dichotomii z pozic různých "human conditions" --- tedy pojetí člověka, který oplývá různými dispozicemi při sociálním jednání. Blaugova problematizace samotné možnosti, že aktér s přístupem k moci není schopen předat moc dále by pak bylo možné vztáhnout přímo k uskutečnitelnosti demokratického vládnutí.] 
+
+
+
+
+
+
+
+
+Zároveň se věnuje klíčovým bodům diskusí, které byly identifikovány jak samotnými aktéry diskusí, tak ex post facto autorem textu.
+
+
 
 
 - typologie změny
     - eskalace problému - náhodná, souhra více faktorů
     - příležitost ke změně - záměrná, nový proděkan, náhodná - protnutí se změnou vedení (nový děkan po 8 letech)
     - změna designu záměrná + evoluční
-- kritika a řešení
-    - vázání rozhodování komise pro děkana
-    - zveřejňování disentu u rozhodnutí, kdy se děkan neshodne s komisí (libovolným směrem)
-    - zveřejňování žádostí
-    - zveřejňování hodnocení komise
-    - neznámý zůstatek v programu (propadlé žádosti na konci semestru, protože peníze došly)
+
+
+
+
+
+
+
+
+
 - pravidla fungování komise vůči
     a) normativním východiskům deliberativní teorie, 
         - Habermas: *Deliberativní model demokracie* je pak založen na hodnotově nezávislých procedurách, které zajišťují férovost a rozumnost politického procesu. Z republikánského modelu je převzat zdroj argumentace a legitimity daného uspořádání –- dialog či specifická komunikativní akce: *deliberace*. Model není uspořádán jako volné pole sociálních skupin  – stále je kladen důraz na centrální roli ústavně ukotveného  státu. Klíčovým rozdílem oproti liberálnímu modelu vedle oddělení státu a společnosti především *vydělení sféry občanské společnosti, která je odlišná jak od státu, tak od trhu*.
@@ -23,21 +51,18 @@ apitola *Design stipendijní komise* se věnuje konstrukci pravidel fungování 
     c) kontextu vzniku instituce - záměry autorů a dalších aktérů
         - požadavky vedení (proděkana, problém s časem; problém se zdůvodněním a nekonzistencí rozhodnutí; problém s doporučováním jiného stipendijního programu bez konzultace)
         - požadavky studentů (viz kritika a řešení)
+            - kritika a řešení
+                - vázání rozhodování komise pro děkana
+                - zveřejňování disentu u rozhodnutí, kdy se děkan neshodne s komisí (libovolným směrem)
+                - zveřejňování žádostí
+                - zveřejňování hodnocení komise
+                - neznámý zůstatek v programu (propadlé žádosti na konci semestru, protože peníze došly)
 
 
 
 
-        Goodin: revidovatelnost + dobře stanovené meze revidovatelnosti, robustnost, citlivost k motivační komplexitě, veřejnosti praxe, variabilita
 
-
-
-
-
-
-
-blaug - mezi kritickou a incumbent demokracií – vznik na okraji instituce (studenti) ale z centra a optimalizací procesu (senát) – "many innovations are designed with such empowement in mind" (smith, p. 3)
-
-It appears to be a largely novel task to think about insti-tutional arrangements and procedures which could generate a selective pressure in favour of this type of reflective and open preference-learning, as opposed to fixed preferences that are entirely derivative from situational determinants, rigid beliefs or self-deception' (Offe and Preuss 1991: 168). (smith, 25)
+It appears to be a largely novel task to think about institutional arrangements and procedures which could generate a selective pressure in favour of this type of reflective and open preference-learning, as opposed to fixed preferences that are entirely derivative from situational determinants, rigid beliefs or self-deception' (Offe and Preuss 1991: 168). (smith, 25)
 
 
 First, in relation to the citizens who participate in the process, transparency requires that participants have a clear understanding about the conditions under which they are participating – for example, how has the issue under consideration been selected, who is organising the proc-ess, how will the outputs of the process affect political decisions? (smith, 25)
@@ -58,5 +83,4 @@ Institutions are not simply structures through which democratic goods are realis
 Highlight (yellow), 6. 4. 2013 0:30, Jan Martinek:
 Institutions within which a compelling combination of these goods are realised are likely to create conditions that foster and cultivate the moral and political education, reflexivity and empowerment that are fundamental to participatory theories of democracy (Warren 1996). (smith, 199)
 
-Highlight (yellow), 6. 4. 2013 0:30, Jan Martinek:
-Blaug's distinction suggests that any form of institutionalisation is disempowering in a democratic sense; but our analysis provides evidence to suggest that democratic innovations can at times be constitutive of the realisation of the kind of democratic agency that he wishes to celebrate. (smith, 199)
+
