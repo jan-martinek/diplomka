@@ -1,8 +1,10 @@
 \chapter{Design stipendijní komise}
 
+V této kapitole se autor věnuje prvním dílčím^[*Dílčím* ve smyslu daném teorií institucionálního designu] návrhům stipendijní komise, které vytvořila v lednu 2012 Studentská komora AS a vztahuje je vůči a) normativním východiskům deliberativní teorie, b) parametrům institucionálního designu a c) kontextu vzniku instituce. Cíli při ustavování nové formy komise byly především následující čtyři body: transparentnost (předcházení vnímané arbitrárnosti hodnocení), obsahová adaptabilita (utváření prostoru komise pro reflexi diskusí a zkušeností při hodnocení), spravedlnost a v neposlední řadě posílení diskuse a integrace komunity (jednak pro intenzifikaci diskuse o společných tématech a též pro integraci aktérů, kteří působí odděleně od ostatních či se teprve sžívají s prostředím). Při samotném popisu vznikajících mechanismů se zároveň budeme věnovat klíčovým problémům, které byly řešeny v průběhu ustavování instituce.
 
+Nejprve se ale podívejme na dvě teoretické reflexe vzniku komise, které samy o sobě autorovi pomáhají k získání určitého odstupu od dané praxe.
 
-V této kapitole se autor věnuje prvním dílčím^[*Dílčím* ve smyslu daném teorií institucionálního designu] návrhům stipendijní komise, které vytvořila v lednu 2012 Studentská komora AS a vztahuje je vůči a) normativním východiskům deliberativní teorie, b) parametrům institucionálního designu a c) kontextu vzniku instituce. 
+## Záměrná, evoluční či náhodná změna? 
 
 Sledujeme-li vznik komise na bázi Goodinem vymezené typologie změn \citep[25]{goodin}, můžeme najít několik různých rovin celého procesu. Eskalace problému byla spíše *náhodná*, sešlo se více faktorů --- aktivní studentská komora, personální propojení aktérů (stěžující si organizátoři debat a členové senátu), výměna proděkanů, chybějící student v komisi. Přestože diskuse o povaze stipendií probíhala dlouhodobě, měnila se spíše formální pravidla a skutečný proces udělování zůstával podobný.
 
@@ -12,9 +14,89 @@ Konečně, při konstrukci samotného fungování komise Studentskou komorou AS 
 
 V celém procesu vzniku je jistě možné nacházet i *náhodné* změny, nicméně z hlediska použité metody zkoumání (zkoumání textů a rozhovory) a pro nedostupnost mnohých původních materiálů (byly přepsány aktuálnější verzí) je obtížné je nacházet.
 
-Zajímavý pohled nabízí Blaugova dichotomie *úřadující* a *kritické* demokracie (\citep[3]{smith}. Praxe komise vznikla díky aktivitě aktérů, kteří jsou na okraji instituce --- Studentská komora AS je stále orgánem, jehož členové mají ambivalentní pozici; jejich přístup k ovlivňování dění na fakultě je nepřímý. Návrhy prvků nového mechanismu jednání vznikly z pozice dlouhodobé kritiky předešlé praxe. Především pokud jako rámec našeho pohledu pojmeme komunitu studentů, kteří se výrazně podílejí na "životě fakulty", tak jsou studentští senátoři a příjemci stipendií okrajová skupina, která takto vyjednává vlastní uznání v rámci instituce. Definice *kritické* demokracie, která "inovuje" na okraji a vytváří praxi, která vyzývá ke změně stávajícího modelu "vládnutí" je tak do velké míry naplněna. Komise má zároveň dle záměrů iniciátorů jejích utvoření vytvářet prostor pro vzájemnou komunikaci a tak dále utvářet prostor pro formulaci nových názorů, což by mělo umožňovat další kritickou praxi.
+## *Úřadující* nebo *kritická* demokracie?
 
-Na druhou stranu je prvotní návrh komise relativně přesně danou procedurou, jejíž výstupy mají být dosažitelné v předem stanovitelném čase, a která je vytvořena v úzkém kruhu několika členů SK AS. Utvoření praxe z centra a optimalizace procesu stejně jako využívání hlasovacího aparátu coby "zjednodušení a racionalizace institucionalizovaných zprostředkovatelských kanálů politické vůle" jsou znaky, které Ricardo Blaug přisuzuje pozici *úřadujících*, kteří se soustředí především na legitimizaci vlastního jednání, ať už je v souladu s podněty, které vycházejí z komunity studentů či nikoli. Není tedy možné jednoznačně říci, která pozice je "ta pravá", ale kritický pohled na jednotlivé prvky institucionální kontextu je užitečný. Graham Smith cituje Blauga když říká, že podle něj jakákoli forma (záměrné^[Termín *záměrné* zde autor dodává především s ohledem na teorii institucionálního designu.]) institucionalizace z hlediska demokratických východisek zbavuje aktéry moci, Smith nicméně tvrdí že jeho analýza (sada případových studií deliberativních experimentů) napovídá, že "demokratické inovace mohou konstituovat uskutečňování právě takové ‚democratic agency‘, kterou [Blaug] oslavuje" svým popisem *kritické* demokracie \citep[199]{smith} a že jsou navrhovány s důrazem na předávání moci aktérům.^[Bylo by jistě možné přistupovat k této dichotomii z pozic různých "human conditions" --- tedy pojetí člověka, který oplývá různými dispozicemi při sociálním jednání. Blaugova problematizace samotné možnosti, že aktér s přístupem k moci není schopen předat moc dále by pak bylo možné vztáhnout přímo k uskutečnitelnosti demokratického vládnutí.] 
+Zajímavý pohled nabízí Blaugova dichotomie *úřadující* a *kritické* demokracie \citep[3]{smith}. Praxe komise vznikla díky aktivitě aktérů, kteří jsou na okraji instituce --- Studentská komora AS je stále orgánem, jehož členové mají ambivalentní pozici; jejich přístup k ovlivňování dění na fakultě je nepřímý. Návrhy prvků nového mechanismu jednání vznikly z pozice dlouhodobé kritiky předešlé praxe. Především pokud jako rámec našeho pohledu pojmeme komunitu studentů, kteří se výrazně podílejí na "životě fakulty", tak jsou studentští senátoři a příjemci stipendií okrajová skupina, která takto vyjednává vlastní uznání v rámci instituce. Definice *kritické* demokracie, která "inovuje" na okraji a vytváří praxi, která vyzývá ke změně stávajícího modelu "vládnutí" je tak do velké míry naplněna. Komise má zároveň dle záměrů iniciátorů jejích utvoření vytvářet prostor pro vzájemnou komunikaci a tak dále utvářet prostor pro formulaci nových názorů, což by mělo umožňovat další kritickou praxi.
+
+Na druhou stranu je prvotní návrh komise relativně přesně danou procedurou, jejíž výstupy mají být dosažitelné v předem stanovitelném čase, a která je vytvořena v úzkém kruhu několika členů SK AS. Utvoření praxe z centra a optimalizace procesu stejně jako využívání hlasovacího aparátu coby "zjednodušení a racionalizace institucionalizovaných zprostředkovatelských kanálů politické vůle" jsou znaky, které Ricardo Blaug přisuzuje pozici *úřadujících*, kteří se soustředí především na legitimizaci vlastního jednání, ať už je v souladu s podněty, které vycházejí z komunity studentů či nikoli. Není tedy možné jednoznačně říci, která pozice je "ta pravá", ale kritický pohled na jednotlivé prvky institucionální kontextu je užitečný. Graham Smith cituje Blauga když říká, že podle něj jakákoli forma (záměrné^[Termín *záměrné* zde autor dodává především s ohledem na teorii institucionálního designu.]) institucionalizace z hlediska demokratických východisek zbavuje aktéry moci, Smith nicméně tvrdí že jeho analýza (sada případových studií deliberativních experimentů) napovídá, že "demokratické inovace mohou konstituovat uskutečňování právě takové ‚democratic agency‘, kterou [Blaug] oslavuje" svým popisem *kritické* demokracie \citep[199]{smith} a že jsou navrhovány s důrazem na předávání moci aktérům.^[Bylo by jistě možné přistupovat k této dichotomii z pozic různých "human conditions" --- tedy pojetí člověka, který oplývá různými dispozicemi při sociálním jednání. Blaugova problematizace samotné možnosti, že aktér s přístupem k moci ji není schopen předat jiným, by pak bylo možné vztáhnout přímo k uskutečnitelnosti demokratického vládnutí.] 
+
+# Návrh rozhodovací procedury
+
+Při konstrukci institucionálního mechanismu komise se členové Studentské komory zamýšleli především nad sestavením rozhodovacího procesu od získání žádostí po výběr konkrétních příjemců stipendia. Širší kontext vztahů mezi komisí a dalšími aktéry na fakultě byl zpočátku zanedbaný. Když se tak nyní soustředíme především na navrhovaná pravidla (která zůstala téměř v celém jejich rozsahu platná, ale byla podstatně rozšířena), budeme zároveň postupovat chronologicky. Z kontextu již vyplynulo několik aspektů celého procesu --- formální podoba žádostí a způsob jejich odevzdávání, možnost zveřejňování žádostí nebo rozdělení prostředků mezi čtyři rozhodovací ("grantová") kola.
+
+## Proces hodnocení projektů
+
+Proces hodnocení se skládá ze tří kroků: 1) hodnocení podané žádosti, po kterém následuje 2) diskusní ("deliberativního") setkání a 3) závěrečné hodnocení. Do výsledku se promítají obojí hodnocení, před setkáním i po něm.
+
+\begin{figure}[htp] \centering{
+\includegraphics[width=\linewidth]{schema.pdf}}
+\caption{Schéma rozhodovacího procesu komise}
+\end{figure}
+
+Ad 1) První hodnocení klade důraz na důkladnost přípravy prezentovaných projektů, která by se měla odrazit v dobře připravené žádosti. Všechny žádosti jsou již během hodnocení veřejné a kdokoli z akademické obce fakulty se s nimi může seznámit.
+
+Ad 2) V rámci setkání má probíhat diskuse mezi všemi aktéry, moderovaná komisí, která by měla umožnit vysvětlení nejasných či sporných míst projektů. Diskuse má zároveň plnit roli integrátora všech aktérů (teoreticky kohokoli z akademické obce fakulty) a pomáhat v nacházení společných problémů studentských projektů ve vztahu k fakultě.
+
+Ad 3) Člen komise tak ve druhém hodnocení může brát ohled na nová zjištění, postřehy ostatních komisařů i dalších aktérů a též by měl znát odpovědi na otázky, které ho napadaly při hodnocení žádostí.
+
+Výsledné pořadí je oznámeno prostřednictvím internetu, prezentováno zástupcem ze Studentské komory AS vedení školy, které je schvaluje (prozatím nedošlo k odmítnutí výsledků hodnotícího procesu).
+
+Hodnocení projektů je uskutečňováno jejích bodováním podle kritérií, které si stanovuje samotná komise vždy při oznámení nového kola hodnocení (*požadavek obsahové adaptability*). Z bodů udělených jednotlivými členy komise jsou počítány průměry a projekty jsou pak dle těchto výsledných čísel seřazeny. Stipendium získávají všechny ty, na které při postupném čerpání prostředků při průchodu řazeným seznamem zbude požadovaná částka.
+
+Celý proces je tedy principiálně velmi jednoduchý. Komplexnější je pouze samotné hodnocení, protože vyžaduje jednoduché, ale početné číselné operace. Proto je při hodnocení využíváno jednoduchého software, který tyto matematické operace automaticky počítá a zároveň je prostředkem zveřejňování žádostí a výsledků.
+
+
+
+- Praktický průběh práce komise
+    - Proces hodnocení
+        - Role a průběh prvního hodnocení
+        - Role a průběh diskuse
+        - Role a průběh druhého hodnocení
+    - Počítání skóre
+        - Váha hodnotitelů
+        - Důvody pro sčítání hodnocení
+    - Softwarová podpora procesů
+        - Vnější rozhraní
+        - Vnitřní rozhraní
+
+
+
+## Zadávání číselného hodnocení
+
+|  | Kritérium 1 | Kritérium 2 | Kritérium 3 | Doporučeno k podpoře
+----------|---------:|---------:|---------:|---------
+Projekt 1 | *1* | *2* | *3* | *ano*
+Projekt 2 | *3* | *2* | *5* | *ano*
+Projekt 3 | *2* | *4* | *1* | *ano*
+Projekt 4 | *1* | *5* | *2* | *ne*
+Projekt 5 | *3* | *4* | *1* | *ano*
+| | | | |
+| | | | Hodnocení: | [*x*] první \newline [ ] druhé
+| | | | Jméno: | *Vzor Krátký*
+
+Table: Hypotetický vzor vyplněného formuláře pro hodnotitele stipendijní komise.
+
+## Spočtení výsledku hodnocení
+
+\begin{equation}
+\abovedisplayskip=12pt
+\belowdisplayskip=12pt
+H_p = \frac{\displaystyle \sum\limits_{k=1}^n h_k}{\displaystyle n}
+\end{equation}
+
+
+\begin{equation}
+\abovedisplayskip=12pt
+\belowdisplayskip=12pt
+F = \frac{\displaystyle \sum\limits_{p=1}^{n\leq5} H_p}{\displaystyle n}
+\end{equation}
+
+
+\begin{equation}
+\abovedisplayskip=12pt
+\belowdisplayskip=12pt
+K = \frac{\displaystyle F_1 + F_2}{\displaystyle 2}
+\end{equation}
 
 
 
@@ -22,16 +104,6 @@ Na druhou stranu je prvotní návrh komise relativně přesně danou procedurou,
 
 
 
-
-Zároveň se věnuje klíčovým bodům diskusí, které byly identifikovány jak samotnými aktéry diskusí, tak ex post facto autorem textu.
-
-
-
-
-- typologie změny
-    - eskalace problému - náhodná, souhra více faktorů
-    - příležitost ke změně - záměrná, nový proděkan, náhodná - protnutí se změnou vedení (nový děkan po 8 letech)
-    - změna designu záměrná + evoluční
 
 
 
