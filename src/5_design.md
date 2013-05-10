@@ -24,7 +24,9 @@ Na druhou stranu je prvotní návrh komise relativně přesně danou procedurou,
 
 Při konstrukci institucionálního mechanismu komise se členové Studentské komory zamýšleli především nad sestavením rozhodovacího procesu od získání žádostí po výběr konkrétních příjemců stipendia. Širší kontext vztahů mezi komisí a dalšími aktéry na fakultě byl zpočátku zanedbaný. Když se tak nyní soustředíme především na navrhovaná pravidla (která zůstala téměř v celém jejich rozsahu platná, ale byla podstatně rozšířena), budeme zároveň postupovat chronologicky. Z kontextu již vyplynulo několik aspektů celého procesu --- formální podoba žádostí a způsob jejich odevzdávání, možnost zveřejňování žádostí nebo rozdělení prostředků mezi čtyři rozhodovací ("grantová") kola.
 
-## Proces hodnocení projektů
+## Proces hodnocení projektů[^projektproblem]
+
+[^projektproblem]:Termín *projekt* implikuje určitou povahu žádosti a komplikuje diskusi o dobré povaze a smyslu stipendií v programu na podporu spolkové a kulturní činnosti. Níže bude ještě tento termín pojednán podrobněji.
 
 Proces hodnocení se skládá ze tří kroků: 1) hodnocení podané žádosti, po kterém následuje 2) diskusní ("deliberativního") setkání a 3) závěrečné hodnocení. Do výsledku se promítají obojí hodnocení, před setkáním i po něm.
 
@@ -74,6 +76,8 @@ Výpočet hodnocení konkrétního projektu je velmi jednoduchý, jde o sérii v
 H_k = \frac{\displaystyle \sum\limits_{c=1}^{n\leq5} h_c}{\displaystyle n}
 \end{equation}
 
+\vspace{10 mm}
+
 Následně je vypočten průměr těchto souhrnných hodnocení všech v daném kole užívaných kritérií.
 
 \begin{equation}
@@ -82,6 +86,9 @@ Následně je vypočten průměr těchto souhrnných hodnocení všech v daném 
 F = \frac{\displaystyle \sum\limits_{k=1}^{n} H_k}{\displaystyle n}
 \end{equation}
 
+\vspace{10 mm}
+
+
 Takto dosáhneme kompletního hodnocení projektu v každém z hlasování. Pokud máme již výsledky obou kol, pro zjištění konečného výsledku stačí opět najít jejich průměr.
 
 \begin{equation}
@@ -89,6 +96,8 @@ Takto dosáhneme kompletního hodnocení projektu v každém z hlasování. Poku
 \belowdisplayskip=24pt
 T = \frac{\displaystyle F_1 + F_2}{\displaystyle 2}
 \end{equation}
+
+\vspace{10 mm}
 
 Takto dosažené průměry jsou pak užity k řazení projektů při přidělování stipendií. V případě, že projekt nedoporučí k podpoře více než jeden komisař, automaticky vypadává ze seznamu. V případě, že při postupném rozdělování prostředků dojde k situaci, že projekt již není možné podpořit pro nedostatek zdrojů, tak jsou procházeny i zbývající projekty --- ještě níže může být umístěn projekt, který žádá méně prostředků a může tak být podpořen.
 
@@ -121,38 +130,39 @@ Vzhled a obsah aplikace se liší podle několika různých stavů --- fází ro
     \caption{Hodnocení kritéria u konkrétního projektu}
     \end{figure}
 
-    Rozhraní, kterým je hodnocen projekt, pak obsahuje všechna stanovená kritéria, pole pro označení projektu coby nedoporučeného k podpoře a pole pro vkládání slovního hodnocení projektu (srovnejte analogický formulář v Tabulce 5.1).
+    Rozhraní, kterým je hodnocen projekt, pak obsahuje všechna stanovená kritéria, pole pro označení projektu coby nedoporučeného k podpoře a pole pro vkládání slovního hodnocení projektu (srovnejte Obrázek 5.3 a analogický formulář v Tabulce 5.1).
 
-    \begin{figure}[htp] \centering{
-    \includegraphics[width=\linewidth]{hodnoceni-projekt.png}}
-    \caption{Rozhraní pro konkrétního projektu v prvním kole hodnocení}
+    \begin{figure}[htp] \centering{ 
+    \includegraphics[width=\linewidth]{sw-projekt-zadavani-hodnoceni.png}}
+    \caption{Rozhraní pro zadávání hodnocení konkrétního projektu.}
     \end{figure}
 
     V obou fázích rozhodování mohou členové komise sledovat přímo v aplikaci, jestli již hodnotili ostatní, aby bylo případně možné výsledky vyhlásit dříve a proces tím usnadnit.
 
-3) *Deliberace:* výsledky prvního kola jsou zveřejněny.
+3) *Deliberace:* výsledky prvního kola jsou zveřejněny, u každého projektu je předběžně vyznačeno, zda má se stávajícím hodnocením šanci na zisk stipendia.
 
     \begin{figure}[htp] \centering{
-    \includegraphics[width=\linewidth]{hodnoceni-projekt.png}}
-    \caption{}
+    \includegraphics[width=\linewidth]{sw-kolo-prvni-hodnoceni.png}}
+    \caption{Zobrazení výsledků v daném kole po prvním hodnocení.}
     \end{figure}
 
-    Hodnocení konkrétních projektů jsou zveřejněny anonymizovaně, ale je možné vidět například jakým způsobem jsou jednotlivé hodnoty rozloženy.
+    \begin{figure}[htp] \centering{ 
+    \includegraphics[width=\linewidth]{sw-projekt-prvni-hodnoceni.png}}
+    \caption{Zobrazení výsledků konkrétního projektu po prvním hodnocení. Hodnocení konkrétních projektů jsou zveřejněny anonymizovaně, ale je možné vidět například jakým způsobem jsou jednotlivé hodnoty rozloženy.}
+    \end{figure}
 
 4) *Druhé hodnocení:* členové komise hodnotí podruhé stejným způsobem jako ve fázi 2.
 
-5) *Zveřejnění výsledků:* výsledky druhého kola jsou zveřejněny.
+5) *Zveřejnění výsledků:* výsledky druhého kola jsou zveřejněny a je stanoveno konečné pořadí projektů, u každého je zapsáno, zda byl či nebyl podpořen.
 
     \begin{figure}[htp] \centering{
-    \includegraphics[width=\linewidth]{hodnoceni-kolo-final.png}}
-    \caption{}
+    \includegraphics[width=\linewidth]{sw-kolo-zaverecne-hodnoceni.png}}
+    \caption{Konečné zobrazení výsledků v daném kole.}
     \end{figure}
 
-    Výsledky pro konkrétní projekt vypadají následovně:
-
     \begin{figure}[htp] \centering{
-    \includegraphics[width=\linewidth]{vysledek-projekt-final.png}}
-    \caption{}
+    \includegraphics[width=\linewidth]{sw-projekt-konecne-hodnoceni.png}}
+    \caption{Konečné zobrazení výsledků konkrétního projektu.}
     \end{figure}
 
 Tvorba daného aplikace byla sama o sobě prostředkem precizace návrhů rozhodovacího mechanismu --- byl například objeven problém, když po projektu, který žádá velké množství zdrojů následují projekty menšího rozsahu (projekt se v takovém případě přeskočí a stipendium je uděleno níže umístěným), došlo k přesnějšímu vymezení toho, jakým způsobem budou zveřejňována hodnocení v průběhu a v závěru procesu apod. V jednom případě byla opravena chyba, která způsobovala nesprávné výpočty, během vyhlášení výsledků kola --- problém byl v tom, že aplikace nepočítala s možností, že se členové komise zdrží hlasování. Do výsledků se pak u těchto komisařů započítávala nula bodů. Pokud by nebyla známa jednotlivá hodnocení (princip transparence, ať už pro aktéry přímo zapojené v rozhodovacím procesu anebo univerzální), zůstal by podobný problém nejspíše bez povšimnutí.
@@ -175,7 +185,35 @@ Záměrně vkládaným cílem činnosti komise bylo i posilování integrace akt
 
 *Cohenův důraz na rozumný argument* pak jde přímo ke způsobu formulace argumentů. Cohenova teorie je především cílena na soužití komunit, které nesdílejí stejná hodnotová východiska. Přestože existuje množství vtipných a generalizujících narážek například na rozdíly mezi členy kateder sociologie a politologie,^[V rámci Fakulty sociálních studií je předáváno množství historek rámovaných "rozdíly mezi 3. a 4. patrem," kde sídlí obě z katedry.] bylo by jistě přehnané hledat v diskusích (a tím spíše v diskusích zaměřených na spolkovou a kulturní činnost) situace, kdy se projevuje nekompatibilita morálních a náboženských přesvědčení. Přesto je schopnost aktérů v diskusi vzájemně odhalit pozice, z nichž jsou aktéři schopní ustoupit anebo naopak nejsou, důležitá i v kontextu Stipendijní komise. 
 
-Pravděpodobně nejvýraznějším prvkem, který takové jednání institucionálně zakotvuje, je jednání o žádané částce, které se může uskutečnit během diskusního setkání. Tato praxe byla prosazena stipendijní komisí, která považovala za nesprávné odmítání konkrétních projektů z důvodu příliš vysoké žádané částky, přestože samotný obsah aktivity považovali za hodnotný. Pokud by se komise musela řídit podle původně žádané částky, často by získal i po diskusním setkání nízká hodnocení či snad i nedoporučení k podpoře. Žadatelé tak mohou na diskusním setkání buďto obhájit žádanou částku s tím, že je skutečně potřebná (např. poskytnout přesnější zdůvodnění, které bude přesvědčivější pro členy komise) anebo mohou částku nějakým způsobem snížit a vysvětlit, proč bylo možné, aby ji snížili. Tento "gamble" do jisté míry souvisí s "projektovým" pojetím stipendií, ale sám o sobě je ukázkou toho, že mechanismus funguje zcela jinak, pokud je možné v diskusi od určitého postoje ustoupit.
+Pravděpodobně nejvýraznějším prvkem, který takové jednání institucionálně zakotvuje, je jednání o žádané částce, které se může uskutečnit během diskusního setkání. Tato praxe byla prosazena stipendijní komisí, která považovala za nesprávné odmítání konkrétních projektů z důvodu příliš vysoké žádané částky, přestože samotný obsah aktivity považovali za hodnotný. Pokud by se komise musela řídit podle původně žádané částky, často by získal i po diskusním setkání nízká hodnocení či snad i nedoporučení k podpoře. Žadatelé tak mohou na diskusním setkání buďto obhájit žádanou částku s tím, že je skutečně potřebná (např. poskytnout přesnější zdůvodnění, které bude přesvědčivější pro členy komise) anebo mohou částku nějakým způsobem snížit a vysvětlit, proč bylo možné, aby ji snížili. Tato praxe do jisté míry souvisí s "projektovým" pojetím stipendií, ale sama o sobě je ukázkou toho, že mechanismus funguje zcela jinak, pokud je možné v diskusi od určitého postoje ustoupit.
+
+## Východiska institucionálního designu podle Goodina
+
+Hranice *revidovatelnosti* návrhu komise byly zpevňovány bezprostředně při jejím ustavování. Při první neformální schůzce se členy komise došlo k rozporu mezi senátory ze Studentské komory, kteří měli na dané schůzce čerstvým členům komise popsat proces rozhodovací procedury. Jeden ze senátorů, který se stal členem komory jen měsíc před prvním plánovanou uzávěrkou sběru žádostí a neúčastnil se přípravy rozhodovací procedury, začal po několika kritických poznámkách čerstvých členů stipendijní komise oponovat podobě celého procesu, který vnímal jako "příliš komplikovaný, ‚nesexy‘ systém".[^neutralita]
+
+[^neutralita]:Citace v následujících pasážích vycházejí z interní komunikace Akademické komory AS a Stipendijní komory, pokud není zmíněno jinak. Záměrně nejsou zmiňována konkrétní jména obdobně jako ve zbytku práce --- nejsou potřebná k pochopení situace. Z pozice dalších insiderů je jistě místy možné vystopovat jednotlivé aktéry, ale v citacích předně nejde o nic překvapivého (jde pouze o konkrétní citace jinak veřejně projevovaných názorů).
+
+    Zároveň se autor v těchto pasážích snaží získat určitý distanc, aby popis nesklouzl k "historii psané vítězi". Jednak je výsledná procedura výsledkem velkého množství posunů, je složena z mnoha dílčích designových záměrů, nejde o žádné "vítězné tažení", nemá jít ani o popis "úspěšného prosazení policy".
+
+Při schůzce se jednak ukázalo, že Studentská komora AS nedostatečně promyslela mnohé náležitosti instituce: například povahu vztahu mezi SK AS a komisí --- jak pracuje s jejími rozhodnutími, jak je vyměňováno obsazení komise, jak se pracuje s termíny diskusních setkání, jak probíhá komunikace mezi žadateli a stipendijní komisí atp. Zároveň se objevila kritika samotné procedury hodnocení prostřednictvím bodování projektů --- někteří členové nově zvolené komise preferovali jiný model hodnocení: pro rozdíly se v daném období zaužívalo pojmenování "porotní model" a "komisní model", z nichž ten druhý je v akademickém kontextu obvyklejší a jeho hlavním znakem je rozhodnutí komise coby celku "za zavřenými dveřmi". Proces hodnocení nebyl v době výběru komisařů ještě známý, proto bylo seznámení se s ním (a s mnoha procesními problémy) pro některé komisaře zklamáním --- zvlášť v situaci, kdy by vycouváním z této instituci ohrozili samotné udílení stipendií to nebyla záviděníhodná situace.
+
+Tento spor pak probíhal v průběhu prvních dvou kol hodnocení a byl vyjádřitelný následující dichotomií (jde o citaci autora textu použitou v komunikaci se širší studentskou komunitou prostřednictvím serveru Facebook; ve rovnání je patrné zdůraznění autorem vnímaných pozitivních aspektů "porotního" modelu hodnocení):
+
+> "*Model deliberativní komise:* odpovědnost za rozhodnutí leží na komisi jako celku, možné individuální hodnocení na počátku má pouze orientační funkci; klade důraz na konsensuální rozhodnutí komise; minimalizuje roli dlouhodobě stanovitelných kritérií; závěrečné rozhodnutí vychází z dohody členů komise; dodržuje princip rozhodování, jak funguje v mnoha jiných akademických orgánech; principiálně umožňuje korekce projektů v průběhu hodnocení (i ze strany komise). \newline\newline \emph{Model deliberativní poroty:} odpovědnost za rozhodnutí leží na každém členu komise samostatně; deliberativní prvek funguje jako prostředek ke korekci individuálních chyb v úsudku a komunikaci, aktuálního výsledku hodnocení a dlouhodobého nastavení kritérií hodnocení; klade důraz na fakt, že lidé jsou omylní; závěrečné rozhodnutí vychází ze součtu dvou kol hodnocení; je novým, pro mnohé cizím principem rozhodování; principiálně neumožňuje korekce projektů v průběhu hodnocení (klade důraz na konzultace před odevzdáním projektu)."
+
+Klíčovým hlediskem některých aktérů se v tomto stalo právě definování ideálního vstupu do hodnotícího procesu coby *"projektu"*, který je srovnatelný podle určitých měřítek s jinými projekty (a tím přeneseně i smyslu stipendia). Takový vstup je velmi dobře "zpracovatelný" porotním modelem. Komisní model zvenku pracuje coby "black box", do jeho procedur není možné nahlédnout a proto může své rozhodování lépe přizpůsobit jakýmkoli podmínkám. V diskusích se pak objevovalo zcela pevné svázání mezi hodnotícími procedurami a interpretacemi smyslu stipendia.
+
+Po více než měsíční diskusi a několika setkáních došlo k prosazení "porotního modelu" Studentskou komorou, což vyvolalo oznámení odchodu několika členů komise. Členové SK navíc nejdříve na schůzce oznámili, že se přiklánějí k předání iniciativy do rukou komise (a tedy k příklonu ke "komisnímu modelu"), ale poté po revizi východisek, z nichž konstrukce rozhodovacího modelu vycházela, silou protlačili právě opačné řešení problému. To způsobilo další pnutí mezi jednotlivými aktéry. V tu chvíli již nicméně probíhalo druhé kolo hodnocení, byla promýšlena hodnotící kritéria a probíhala diskusní setkání --- institucionální mechanismus se začal ustalovat. Nejspíše i proto byla možné, aby byl tento model v dalších iteracích realizován a komise, doplněná o nové členy, dále fungovala.
+
+Tento základní tříkrokový proces (hodnocení---diskuse---hodnocení) se tak stal *robustním* základem, který vymezuje meze *revidovatelnosti*. K tomuto základu se přidaly další prvky: Studentská komora AS neodvolává komisaře v průběhu jejich funkčního období, rozhodnutí komise jsou závazná pro SK AS, s žadateli komunikuje a organizaci procesu hodnocení zařizuje samotná komise, její předseda je volen komisí samotnou z jejího středu, s vedením naopak komunikuje SK AS atp. Tyto prvky vznikaly především díky spolupráci komise s SK AS, kdy jeden z komisařů zpracoval kompletní "paragrafovaná" pravidla. (Srovnejte výchozí pravidla navržená SK AS v Příloze A a jejich rozpracované znění zpracované převážně jedním s členů komise v Příloze B.)
+
+Mnoho aspektů procesu však stále zůstalo stanovených volně, případně nebyly záměrně pevněji ukotveny --- ať už pro nedostatek času, který by byl nutný pro vytvoření návrhu použitelné procedury anebo zcela záměrně.
+
+
+spousta věcí nedomyšlená - proces volení kritérií, výběr členů komise
+
+
+Nejblíže procesu utváření designu je princip *revidovatelnosti* --- instituce umožňující uplatňování změn na základě zjištění získaných institucionální praxe (v angličtině se užívá spojení "learning by doing") může lépe plnit deklarovaný cíl než ta, pravidla jejíhož fungování jsou kompletně "tesaná do kamene". Na druhou stranu je potřebné, aby existovaly hranice, které znemožní změny, které by přímo popíraly cíle dané instituce, její roli v širším institucionálním kontextu a tím i důvody její existence.
 
 
 b) parametrům institucionálního designu a 

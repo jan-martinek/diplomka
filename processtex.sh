@@ -6,6 +6,7 @@ mkdir out
 
 cp thesis.tex out/thesis.tex
 cp structure.tex out/structure.tex
+cp prilohy.tex out/prilohy.tex
 cp sources.bib out/sources.bib
 
 # copy assets
