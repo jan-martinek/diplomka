@@ -173,36 +173,23 @@ Habermasův model dále klade důraz na ukotvení rozhodování v deliberaci, sp
 
 Záměrně vkládaným cílem činnosti komise bylo i posilování integrace aktérů, kteří se účastní fakultního života a facilitace diskuse o problémech, které se týkají kulturní a spolkové činnosti, které mají často přesah do oblasti finančního zajištění těchto aktivit. Důvodem, proč byl tento záměr shledáván jako důležitý, byl již zmíněný fakt, že studenti na Fakultě sociálních studií jsou z velké části pasivní a často rozdělení (hranicemi kateder). Habermasova sféra *občanské společnosti*, která nemá být svou logikou založená na hierarchii a poptávce, je tak dobře ztotožnitelná s komunitou, k jejímuž posilování měla přispívat aktivita komise, přestože je problematické srovnávat prostředí vysokoškolské fakulty se státem.^[I přestože například formou hodnocení vysokých škol v ČR či grantové strukturace výzkumu proniká do vysokoškolského prostředí tržní logika a přestože fakulta jako orgán funguje výrazně hierarchicky, ať už na principu seniority anebo s přihlédnutím ke způsobu uplatňování moci vedením fakulty.]
 
-Cohenův důraz na rozumný argument pak jde přímo ke způsobu formulace argumentů. Cohenova teorie je především cílena na soužití komunit, které nesdílejí stejná hodnotová východiska --- přestože existuje množství 
+*Cohenův důraz na rozumný argument* pak jde přímo ke způsobu formulace argumentů. Cohenova teorie je především cílena na soužití komunit, které nesdílejí stejná hodnotová východiska. Přestože existuje množství vtipných a generalizujících narážek například na rozdíly mezi členy kateder sociologie a politologie,^[V rámci Fakulty sociálních studií je předáváno množství historek rámovaných "rozdíly mezi 3. a 4. patrem," kde sídlí obě z katedry.] bylo by jistě přehnané hledat v diskusích (a tím spíše v diskusích zaměřených na spolkovou a kulturní činnost) situace, kdy se projevuje nekompatibilita morálních a náboženských přesvědčení. Přesto je schopnost aktérů v diskusi vzájemně odhalit pozice, z nichž jsou aktéři schopní ustoupit anebo naopak nejsou, důležitá i v kontextu Stipendijní komise. 
+
+Pravděpodobně nejvýraznějším prvkem, který takové jednání institucionálně zakotvuje, je jednání o žádané částce, které se může uskutečnit během diskusního setkání. Tato praxe byla prosazena stipendijní komisí, která považovala za nesprávné odmítání konkrétních projektů z důvodu příliš vysoké žádané částky, přestože samotný obsah aktivity považovali za hodnotný. Pokud by se komise musela řídit podle původně žádané částky, často by získal i po diskusním setkání nízká hodnocení či snad i nedoporučení k podpoře. Žadatelé tak mohou na diskusním setkání buďto obhájit žádanou částku s tím, že je skutečně potřebná (např. poskytnout přesnější zdůvodnění, které bude přesvědčivější pro členy komise) anebo mohou částku nějakým způsobem snížit a vysvětlit, proč bylo možné, aby ji snížili. Tento "gamble" do jisté míry souvisí s "projektovým" pojetím stipendií, ale sám o sobě je ukázkou toho, že mechanismus funguje zcela jinak, pokud je možné v diskusi od určitého postoje ustoupit.
 
 
-Důraz na rozumný argument: Cohen neklade zásadní důraz na diskusi jako nový prvek, ta je v nějaké formě (vyjednávání, smlouvání, tvorba kompromisů apod.) přítomna vždy. Důležitý je pro něj způsob, jakým jsou v diskusi formulovány argumenty. Zásadní selhání agregativního způsobu tvorby rozhodnutí spatřuje v tom, že při něm není možné zjistit, které názorové pozice mohou jejich zastánci opustit či upravit (a které nikoli) s ohledem na svá morální či náboženská přesvědčení (ibid.: 98--99).
-
-
-
-dle teoretických východisek Goodina a Smithe
-
-
-
-
-
-
-
-- pravidla fungování komise vůči
-    a) normativním východiskům deliberativní teorie, 
-
-    b) parametrům institucionálního designu a 
-        - Goodin: revidovatelnost + dobře stanovené meze revidovatelnosti, robustnost, citlivost k motivační komplexitě, veřejnosti praxe, variabilita
-        - Smith: inkluzivita, veřejná kontrola, uvážené rozhodování, transparentnost + efektivita, přenositelnost
-    c) kontextu vzniku instituce - záměry autorů a dalších aktérů
-        - požadavky vedení (proděkana, problém s časem; problém se zdůvodněním a nekonzistencí rozhodnutí; problém s doporučováním jiného stipendijního programu bez konzultace)
-        - požadavky studentů (viz kritika a řešení)
-            - kritika a řešení
-                - vázání rozhodování komise pro děkana
-                - zveřejňování disentu u rozhodnutí, kdy se děkan neshodne s komisí (libovolným směrem)
-                - zveřejňování žádostí
-                - zveřejňování hodnocení komise
-                - neznámý zůstatek v programu (propadlé žádosti na konci semestru, protože peníze došly)
+b) parametrům institucionálního designu a 
+    - Goodin: revidovatelnost + dobře stanovené meze revidovatelnosti, robustnost, citlivost k motivační komplexitě, veřejnosti praxe, variabilita
+    - Smith: inkluzivita, veřejná kontrola, uvážené rozhodování, transparentnost + efektivita, přenositelnost
+c) kontextu vzniku instituce - záměry autorů a dalších aktérů
+    - požadavky vedení (proděkana, problém s časem; problém se zdůvodněním a nekonzistencí rozhodnutí; problém s doporučováním jiného stipendijního programu bez konzultace)
+    - požadavky studentů (viz kritika a řešení)
+        - kritika a řešení
+            - vázání rozhodování komise pro děkana
+            - zveřejňování disentu u rozhodnutí, kdy se děkan neshodne s komisí (libovolným směrem)
+            - zveřejňování žádostí
+            - zveřejňování hodnocení komise
+            - neznámý zůstatek v programu (propadlé žádosti na konci semestru, protože peníze došly)
 
 
 
