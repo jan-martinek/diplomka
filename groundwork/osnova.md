@@ -7,25 +7,25 @@ o Metoda participant observation
 o Scéna: FSS, stipendijní fond, programy
     o Popis okolností vzniku komise
         o Vymezení se vůči předchozímu stavu
-- Popis principů a jejich zdůvodnění
-    - Principy
-        - Transparentnost
-        - Obsahová adaptabilita
-        - Spravedlnost
-        - Posílení diskuse a integrace komunity
-    - Stanovování parametrů hodnocení
-        - Východisko: řazení vhodných, nikoli definitivní výběr
-- Praktický průběh práce komise
-    - Proces hodnocení
-        - Role a průběh prvního hodnocení
-        - Role a průběh diskuse
-        - Role a průběh druhého hodnocení
-    - Počítání skóre
-        - Váha hodnotitelů
-        - Důvody pro sčítání hodnocení
-    - Softwarová podpora procesů
-        - Vnější rozhraní
-        - Vnitřní rozhraní
+o Popis principů a jejich zdůvodnění
+    o Principy
+        o Transparentnost
+        o Obsahová adaptabilita
+        o Spravedlnost
+        o Posílení diskuse a integrace komunity
+    o Stanovování parametrů hodnocení
+        o Východisko: řazení vhodných, nikoli definitivní výběr
+o Praktický průběh práce komise
+    o Proces hodnocení
+        o Role a průběh prvního hodnocení
+        o Role a průběh diskuse
+        o Role a průběh druhého hodnocení
+    o Počítání skóre
+        o Váha hodnotitelů
+        o Důvody pro sčítání hodnocení
+    o Softwarová podpora procesů
+        o Vnější rozhraní
+        o Vnitřní rozhraní
 - Problematické body
     - Obecně
         - Nezvyklá koncepce hodnocení
