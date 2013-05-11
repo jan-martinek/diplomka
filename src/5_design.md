@@ -1,6 +1,6 @@
 \chapter{Design stipendijní komise}
 
-V této kapitole se autor věnuje prvním dílčím^[*Dílčím* ve smyslu daném teorií institucionálního designu] návrhům stipendijní komise, které vytvořila v lednu 2012 Studentská komora AS a vztahuje je vůči a) normativním východiskům deliberativní teorie, b) parametrům institucionálního designu a c) kontextu vzniku instituce. Cíli při ustavování nové formy komise byly především následující čtyři body: spravedlnost (do značné míry vnímaná legitimita udělování stipendií), transparentnost (předcházení vnímané arbitrárnosti hodnocení), obsahová adaptabilita (utváření prostoru komise pro reflexi diskusí a zkušeností při hodnocení) a v neposlední řadě posílení diskuse a integrace komunity (jednak pro intenzifikaci diskuse o společných tématech a též pro integraci aktérů, kteří působí odděleně od ostatních či se teprve sžívají s prostředím). Při samotném popisu vznikajících mechanismů se zároveň budeme věnovat klíčovým problémům, které byly řešeny v průběhu ustavování instituce.
+V této kapitole se autor věnuje prvním dílčím^[*Dílčím* ve smyslu daném teorií institucionálního designu] návrhům stipendijní komise, které vytvořila v lednu 2012 Studentská komora AS a vztahuje je vůči normativním východiskům deliberativní teorie a parametrům institucionálního designu. Cíli při ustavování nové formy komise byly především následující čtyři body: spravedlnost (do značné míry vnímaná legitimita udělování stipendií), transparentnost (předcházení vnímané arbitrárnosti hodnocení), obsahová adaptabilita (utváření prostoru komise pro reflexi diskusí a zkušeností při hodnocení) a v neposlední řadě posílení diskuse a integrace komunity (jednak pro intenzifikaci diskuse o společných tématech a též pro integraci aktérů, kteří působí odděleně od ostatních či se teprve sžívají s prostředím). Při samotném popisu vznikajících mechanismů se zároveň budeme věnovat klíčovým problémům, které byly řešeny v průběhu ustavování instituce a jejich řešením, která dále dotvářela celkovou podobu institucionálního designu komise.
 
 Nejprve se ale podívejme na dvě teoretické reflexe vzniku komise, které samy o sobě autorovi pomáhají k získání určitého odstupu od dané praxe.
 
@@ -23,6 +23,9 @@ Na druhou stranu je prvotní návrh komise relativně přesně danou procedurou,
 # Návrh rozhodovací procedury
 
 Při konstrukci institucionálního mechanismu komise se členové Studentské komory zamýšleli především nad sestavením rozhodovacího procesu od získání žádostí po výběr konkrétních příjemců stipendia. Širší kontext vztahů mezi komisí a dalšími aktéry na fakultě byl zpočátku zanedbaný. Když se tak nyní soustředíme především na navrhovaná pravidla (která zůstala téměř v celém jejich rozsahu platná, ale byla podstatně rozšířena), budeme zároveň postupovat chronologicky. Z kontextu již vyplynulo několik aspektů celého procesu --- formální podoba žádostí a způsob jejich odevzdávání, možnost zveřejňování žádostí nebo rozdělení prostředků mezi čtyři rozhodovací ("grantová") kola.
+
+TODO: A number of influential theorists of deliberative democracy – for example, Jürgen Habermas and John Dryzek – have recognised the poten-tial tension between democratic deliberation and decision-making: their theories explicitly separate these two democratic moments. (smith, 196)
+
 
 ## Proces hodnocení projektů[^projektproblem]
 
@@ -194,7 +197,7 @@ Hranice *revidovatelnosti* návrhu komise byly zpevňovány bezprostředně při
 
 [^neutralita]:Citace v následujících pasážích vycházejí z interní komunikace Akademické komory AS a Stipendijní komory, pokud není zmíněno jinak. Záměrně nejsou zmiňována konkrétní jména obdobně jako ve zbytku práce --- nejsou potřebná k pochopení situace. Z pozice dalších insiderů je jistě místy možné vystopovat jednotlivé aktéry, ale v citacích předně nejde o nic překvapivého (jde pouze o konkrétní citace jinak veřejně projevovaných názorů).
 
-    Zároveň se autor v těchto pasážích snaží získat určitý distanc, aby popis nesklouzl k "historii psané vítězi". Jednak je výsledná procedura výsledkem velkého množství posunů, je složena z mnoha dílčích designových záměrů, nejde o žádné "vítězné tažení", nemá jít ani o popis "úspěšného prosazení policy".
+    Tato kapitola není psána coby "historie psaná vítězi", přestože z pozice autora je obtížné přesvědčivě popisovat praxi a zároveň být přesvědčivý v poctivém užívání své moci nad produktem psaní. Současná procedura hodnocení je výsledkem velkého množství posunů a vyjasnění, je složena z mnoha dílčích designových záměrů. Nejde o žádné "vítězné tažení" ani o popis úspěšného prosazení předem vymezené policy.
 
 Při schůzce se jednak ukázalo, že Studentská komora AS nedostatečně promyslela mnohé náležitosti instituce: například povahu vztahu mezi SK AS a komisí --- jak pracuje s jejími rozhodnutími, jak je vyměňováno obsazení komise, jak se pracuje s termíny diskusních setkání, jak probíhá komunikace mezi žadateli a stipendijní komisí atp. Zároveň se objevila kritika samotné procedury hodnocení prostřednictvím bodování projektů --- někteří členové nově zvolené komise preferovali jiný model hodnocení: pro rozdíly se v daném období zaužívalo pojmenování "porotní model" a "komisní model", z nichž ten druhý je v akademickém kontextu obvyklejší a jeho hlavním znakem je rozhodnutí komise coby celku "za zavřenými dveřmi". Proces hodnocení nebyl v době výběru komisařů ještě známý, proto bylo seznámení se s ním (a s mnoha procesními problémy) pro některé komisaře zklamáním --- zvlášť v situaci, kdy by vycouváním z této instituci ohrozili samotné udílení stipendií to nebyla záviděníhodná situace.
 
@@ -214,7 +217,7 @@ Mnoho aspektů procesu však stále zůstalo stanovených volně, případně ne
 
 Aby byl rozšířen aspekt veřejnosti praxe i mimo studentskou část akademické obce fakulty, Studentská komora vložila do pravidel výběru komisařů automatickou akceptaci vyučujícího (či obecně zaměstnance fakulty) na jedno z míst komisařů, pokud se kterýkoli z vyučujících přihlásí (místo bylo takto obsazeno zatím dvěma vyučujícími). Vedle toho existuje aktér s právem veta, tedy vedení fakulty (této pravomoci zatím nebylo využito).
 
-Během diskusních setkání mají být diskutovány nejen samotné projekty, ale též pravidla, dle kterých se rozhoduje, a samotný smysl stipendií --- výstupem pak kromě hodnocení mají být i revize hodnotících kritérií používaných komisí v dalších kolech hodnocení. Předpokládaný obsah diskusí byl skutečně naplňován (viz následující kapitola).
+Během diskusních setkání mají být diskutovány nejen samotné projekty, ale též pravidla, dle kterých se rozhoduje, a samotný smysl stipendií --- výstupem pak kromě hodnocení mají být i revize hodnotících kritérií používaných komisí v dalších kolech hodnocení. Předpokládaný obsah diskusí byl skutečně naplňován (viz následující kapitola) a mohlo tak docházet k veřejně motivovaným dlouhodobým změnám rozhodovací praxe.
 
 Těžko hodnotitelný je Goodinův princip *variability*. Z hlediska novosti praxe komise v kontextu univerzity je jistě naplňován; dále je možné nacházet nové prvky, které byly postupně integrovány do jejího fungování. Komise nefunguje tak dlouho (zatím 1,5 roku), aby došlo například k replikaci jejího fungování jinde a sdílení znalostí. V současné době je otázkou, jak bude komise fungovat po další obměně senátu, která bude následovat na podzim letošního roku, případně jaké úpravy jejího fungování navrhnou budoucí členové senátu ve spolupráci s komisí.
 
@@ -230,7 +233,9 @@ Problémem prvních několika diskusních setkání byla jejich délka. Podobně
 
 Díky soustředění se na širší diskusi nejen o samotných projektech, ale též o  pravidlech a smyslu stipendií se *veřejná kontrola* do jisté míry vztahuje jak na Smithem definované fáze *definice problému* (k čemu chceme využívat --- jako komunita studentů --- stipendia v tomto programu) a *analýzu možností řešení* (jaká kritéria užívat pro hodnocení žádostí). Následná *implementace* je v rukou žadatelů, tedy studentů a jejich spolků. Do značné míry tedy existuje veřejná kontrola nad celým procesem --- problematické jsou především oblasti, které jsou vnímány jako "předem dané".
 
-Mnohé aspekty *transparentnosti* fungování komise již byly popsány výše. Smithovo pojetí přináší především pohled na *vnitřní transparentnost* fungování komise, tzn. nakolik jsou samotní komisaři schopní pochopit a kriticky hodnotit její fungování. Zpočátku se právě toto ukázalo být problematické, především kvůli tomu, že bylo teprve nutné "zmapovat" velkou část toho, co se nakonec stalo institucionálním mechanismem. Mapování, tedy proces objevování a následného doplňování designu mechanismu probíhalo především v prvním půlroce fungování komise. Ke vnitřní i vnější transparentnosti činnosti komise pak přispívala též prezentace hodnotících formulářů, pravidel a výsledků v pomocné aplikaci, která zobrazuje vše v kontextu vybraných částí pravidel fungování komise.
+Mnohé aspekty *transparentnosti* fungování komise již byly popsány výše. Smithovo pojetí přináší především pohled na *vnitřní transparentnost* fungování komise, tzn. nakolik jsou samotní komisaři schopní pochopit a kriticky hodnotit její fungování \citep[25]{smith}. Zpočátku se právě toto ukázalo být problematické, především kvůli tomu, že bylo teprve nutné "zmapovat" velkou část toho, co se nakonec stalo institucionálním mechanismem. Mapování, tedy proces objevování, vyjasňování a následného doplňování designu mechanismu probíhalo především v prvním půlroce fungování komise. 
+
+Ke vnitřní i vnější transparentnosti činnosti komise pak přispívala též prezentace hodnotících formulářů, pravidel a výsledků v pomocné aplikaci, která tyto informace zobrazuje společně s vybranými částmi pravidel fungování komise. Postupné zveřejňování všech potřebných dokumentů (směrnic, programů, pravidel, kritérií apod.), odkazy na místa, kde je potřebné žádosti odevzdat v elektronické podobě (tištěná forma nebyla akceptována), a otevřenost komise v komunikaci pomáhala otevření celého procesu všem zúčastněným.
 
 ## Smithova "institucionální dobra"
 
@@ -242,40 +247,10 @@ Posledním parametrem, podle kterého Smith hodnotí demokratické inovace, je j
 
 Autorovým explicitním záměrem je od počátku právě i umožnění přenosu této praxe do jiného kontextu, což je mimo jiné i důležitý incentiv pro napsání tohoto textu, protože i tento text přispívá ke zlepšování přenositelnosti praxe komise. 
 
+# K hodnocení designu
 
+TODO: Malá distanc, potřeba hodnocení více aktéry, doplnění podrobností o průběhu jednání ve druhém a třetím semestru hodnocení.
 
-
-c) kontextu vzniku instituce - záměry autorů a dalších aktérů
-    - požadavky vedení (proděkana, problém s časem; problém se zdůvodněním a nekonzistencí rozhodnutí; problém s doporučováním jiného stipendijního programu bez konzultace)
-    - požadavky studentů (viz kritika a řešení)
-        - kritika a řešení
-            - vázání rozhodování komise pro děkana
-            - zveřejňování disentu u rozhodnutí, kdy se děkan neshodne s komisí (libovolným směrem)
-            - zveřejňování žádostí
-            - zveřejňování hodnocení komise
-            - neznámý zůstatek v programu (propadlé žádosti na konci semestru, protože peníze došly)
-
-
-
-
-
-It appears to be a largely novel task to think about institutional arrangements and procedures which could generate a selective pressure in favour of this type of reflective and open preference-learning, as opposed to fixed preferences that are entirely derivative from situational determinants, rigid beliefs or self-deception' (Offe and Preuss 1991: 168). (smith, 25)
-
-
-First, in relation to the citizens who participate in the process, transparency requires that participants have a clear understanding about the conditions under which they are participating – for example, how has the issue under consideration been selected, who is organising the proc-ess, how will the outputs of the process affect political decisions? (smith, 25)
-
-If institutions that engage citizens are to have a significant effect on pub-lic decisions, then the process needs to be open to scrutiny not only to the participants, but also to the wider public (unless of course the innova-tion engages all citizens). (smith, 25)
-
-
-
-A number of influential theorists of deliberative democracy – for example, Jürgen Habermas and John Dryzek – have recognised the poten-tial tension between democratic deliberation and decision-making: their theories explicitly separate these two democratic moments. (smith, 196)
-
-
-
-Highlight (yellow), 6. 4. 2013 0:30, Jan Martinek:
-Institutions are not simply structures through which democratic goods are realised (although this remains important for instrumental theories of participation), but are also the medium through which democratic agency is expressed. Institutional design is integral to the form that democratic agency can take. (smith, 198-199)
-
-Highlight (yellow), 6. 4. 2013 0:30, Jan Martinek:
 Institutions within which a compelling combination of these goods are realised are likely to create conditions that foster and cultivate the moral and political education, reflexivity and empowerment that are fundamental to participatory theories of democracy (Warren 1996). (smith, 199)
 
 
