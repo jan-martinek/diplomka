@@ -31,7 +31,7 @@ TODO: A number of influential theorists of deliberative democracy – for exampl
 
 [^projektproblem]:Termín *projekt* implikuje určitou povahu žádosti a komplikuje diskusi o dobré povaze a smyslu stipendií v programu na podporu spolkové a kulturní činnosti. Níže bude ještě tento termín pojednán podrobněji.
 
-Proces hodnocení se skládá ze tří kroků: 1) hodnocení podané žádosti, po kterém následuje 2) diskusní ("deliberativního") setkání a 3) závěrečné hodnocení. Do výsledku se promítají obojí hodnocení, před setkáním i po něm.
+Proces hodnocení se skládá ze tří kroků: 1) hodnocení podané žádosti, po kterém následuje 2) diskusní ("deliberativní") setkání a 3) závěrečné hodnocení. Do výsledku se promítají obojí hodnocení, před setkáním i po něm.
 
 \begin{figure}[htp] \centering{
 \includegraphics[width=\linewidth]{schema.pdf}}
