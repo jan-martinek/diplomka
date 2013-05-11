@@ -23,7 +23,7 @@
             \topsep 9\p@ plus3\p@ minus5\p@}}
 
 % redefines \footnote command to change font size
-\renewcommand{\footnotesize}{\fontsize\@xpt{12}\selectfont%
+\renewcommand{\footnotesize}{\fontsize{11pt}{14}\selectfont%
 \abovedisplayskip 10\p@ plus2\p@ minus5\p@
 \belowdisplayskip \abovedisplayskip
 \abovedisplayshortskip  \z@ plus3\p@
