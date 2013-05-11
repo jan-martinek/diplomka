@@ -395,6 +395,13 @@ Advisor:
 \end{alwayssingle}
 \newpage}
 
+\newenvironment{ThesisDedication}{%
+\begin{alwayssingle}
+}
+{\par\vfill
+\end{alwayssingle}
+\newpage}
+
 % new environment that typesets thesis thank
 \newenvironment{ThesisThanks}{%
 \begin{alwayssingle}
