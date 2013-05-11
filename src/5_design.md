@@ -207,13 +207,24 @@ Po více než měsíční diskusi a několika setkáních došlo k prosazení "p
 
 Tento základní tříkrokový proces (hodnocení---diskuse---hodnocení) se tak stal *robustním* základem, který vymezuje meze *revidovatelnosti*. K tomuto základu se přidaly další prvky: Studentská komora AS neodvolává komisaře v průběhu jejich funkčního období, rozhodnutí komise jsou závazná pro SK AS, s žadateli komunikuje a organizaci procesu hodnocení zařizuje samotná komise, její předseda je volen komisí samotnou z jejího středu, s vedením naopak komunikuje SK AS atp. Tyto prvky vznikaly především díky spolupráci komise s SK AS, kdy jeden z komisařů zpracoval kompletní "paragrafovaná" pravidla. (Srovnejte výchozí pravidla navržená SK AS v Příloze A a jejich rozpracované znění zpracované převážně jedním s členů komise v Příloze B.)
 
-Mnoho aspektů procesu však stále zůstalo stanovených volně, případně nebyly záměrně pevněji ukotveny --- ať už pro nedostatek času, který by byl nutný pro vytvoření návrhu použitelné procedury anebo zcela záměrně.
+Mnoho aspektů procesu však stále zůstalo stanovených volně, případně nebyly záměrně pevněji ukotveny --- ať už záměrně nebo též často pro nedostatek času, který by byl nutný pro vytvoření návrhu použitelné procedury.
+
+*Citlivost k motivační komplexitě aktérů* se doplňuje s *veřejností praxe komise*. Zcela zásadním prvkem fungování komise je nutnost obhajoby svých hodnocení projektů, posílená díky rozšíření této praxe i na první kolo hodnocení. Každý z komisařů uděluje svá bodová hodnocení samostatně a sám je obhajuje slovním doplňkem hodnocení, nedochází tak ke ztrátě informace, jak by to bylo možné při "hodnocení za zavřenými dveřmi". Vedle toho již z předem daného kontextu fakulty existence aktéra s právem veta, tedy vedení fakulty; této pravomoci však zatím nebylo využito. Aby byl rozšířen aspekt veřejnosti praxe i mimo studentskou část akademické obce fakulty, Studentská komora vložila do pravidel výběru komisařů automatickou akceptaci vyučujícího (či obecně zaměstnance fakulty) na jedno místo v komisi, pokud se kterýkoli z vyučujících přihlásí.
+
+Kromě aktéra s právem veta, tedy vedení školy
+
+individuální hodnocení
+učitel členem komise
 
 
-spousta věcí nedomyšlená - proces volení kritérií, výběr členů komise
 
 
-Nejblíže procesu utváření designu je princip *revidovatelnosti* --- instituce umožňující uplatňování změn na základě zjištění získaných institucionální praxe (v angličtině se užívá spojení "learning by doing") může lépe plnit deklarovaný cíl než ta, pravidla jejíhož fungování jsou kompletně "tesaná do kamene". Na druhou stranu je potřebné, aby existovaly hranice, které znemožní změny, které by přímo popíraly cíle dané instituce, její roli v širším institucionálním kontextu a tím i důvody její existence.
+
+
+3) Třetím principem je *citlivost k motivační komplexitě* aktérů --- každý aktér je v sociální realitě pozicovaný a může při rozhodování uplatňovat různá hlediska a zájmy. Aktér může prosazovat svůj sebezájem, být korumpovaný a podobně. Klasické řešení tohoto problému je rozdělení mocí, ústavní pravomoc občanů protestovat proti činnosti vlády nebo rozmístění center moci v rámci společnosti (na principu subsidiarity nebo sektorového oddělení mocí). Tato řešení, postavená především mechanickém oddělení konkrétních aktérů a stavění jejích potenciálně nízkých (sebe)zájmů do protikladu, mohou generovat pozitivní výsledky i v případě, kdy jsou obě strany sporu "kolonizované darebáky". Zároveň však existuje riziko normalizace stavu, ve kterém je "darebáctví" předpokladem participace na institucionální praxi. Goodin tvrdí, že takové situaci může předejít přímější apel na morální obsah praxe obsažený již v návrhu instituce. (ibid.: 41)
+
+4) Takovým principem může být explicitní požadavek *veřejnosti praxe* --- to znamená stavět aktéry před možnost, že budou muset jakoukoli praxi veřejně obhajovat. To jednak psychologicky posiluje nutnost brát ohled na veřejný zájem, protože nutnost skládat účty za něco *hanebného* je nepříjemná. Zároveň tento prvek způsobuje, že cíle musejí být obhajitelné z pozic aktérů, kteří utvářejí veřejnost --- pokud chtějí participanti získat veřejnou podporu. Princip veřejnosti může zabránit očividnému prosazování sebezájmu, může pomoci kritizovat z pozice menšiny, ale nezabrání mnoha dalším negativním efektům.
+
 
 
 b) parametrům institucionálního designu a 
