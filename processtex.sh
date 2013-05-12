@@ -23,6 +23,7 @@ do
 	filenameWithExt=$(basename "$file")
 	filename="${filenameWithExt%.*}"
 	pandoc $file -o out/$filename.tex
+	vlna -l -m -n out/$filename.tex
 	echo "Markdown file $filename.md has been converted to TeX..."
 done
 
