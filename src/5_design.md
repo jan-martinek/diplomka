@@ -54,7 +54,8 @@ Celý proces je tedy principiálně velmi jednoduchý. Náročnější je pouze 
 
 První a druhé hodnocení probíhá shodně. Bodování projektů podle různých kritérií doplňuje ještě podstatný detail: každý ze členů komise má možnost *nedoporučit projekt k podpoře*. Pokud dva a více členů komise nedoporučí určitý projekt k podpoře, nemá již tento projekt možnost získat stipendium v daném kole. Nedoporučení k podpoře v prvním hodnocení jsou především tématem do diskuse, protože komisař musí mít dobré odůvodnění svého kroku; v konečném hodnocení je brán ohled pouze na "červené karty" uložené ve druhém hodnocení (díky diskusním setkáním se jejich počty mohou vcelku dynamicky měnit).
 
-Členové komise tedy bodují a (ne)doporučují projekty k podpoře. Celý proces by bylo možné zpracovat bez využití počítače, například pomocí předepsaných formulářů, které by mohly vypadat následovně:
+Členové komise tedy bodují a (ne)doporučují projekty k podpoře. Celý proces by bylo možné zpracovat bez využití počítače, například pomocí předepsaných formulářů, které by (po vyplnění, znázorněno kurzívou) mohly vypadat následovně:
+
 
 |  | Kritérium 1 | Kritérium 2 | Kritérium 3 | Doporučeno k podpoře
 ----------|---------:|---------:|---------:|---------
