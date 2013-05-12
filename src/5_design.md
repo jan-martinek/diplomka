@@ -209,6 +209,23 @@ Klíčovým hlediskem některých aktérů se v tomto stalo právě definování
 
 Po více než měsíční diskusi a několika setkáních došlo k prosazení "porotního modelu" Studentskou komorou, což vyvolalo oznámení odchodu několika členů komise. Členové SK navíc nejdříve na schůzce oznámili, že se přiklánějí k předání iniciativy do rukou komise (a tedy k příklonu ke "komisnímu modelu"), ale poté po revizi východisek, z nichž konstrukce rozhodovacího modelu vycházela, silou protlačili právě opačné řešení problému. To způsobilo další pnutí mezi jednotlivými aktéry. V tu chvíli již nicméně probíhalo druhé kolo hodnocení, byla promýšlena hodnotící kritéria a probíhala diskusní setkání --- institucionální mechanismus se začal ustalovat. Nejspíše i proto byla možné, aby byl tento model v dalších iteracích realizován a komise, doplněná o nové členy, dále fungovala.
 
+Jak se lišila první navržená kritéria od kritérií používaných později je možné sledovat na třech příkladech níže (obrázek 5.8, 5.9 a 5.10): nejprve došlo k postupným úpravám a vyjasnění prvních kritérií, později došlo k jejich výraznému přepracování. Všechna kritéria mají vždy stejnou váhu, proto je i rozkládání některých prvků do více kritérií (či slučování parametrů do jednoho společného) velmi podstatné pro celkové výsledky.
+
+\begin{figure}[htp] \centering{
+\includegraphics[width=\linewidth]{kriteria-prvni.pdf}}
+\caption{První kritéria rozhodování pro 1. stipendijní kolo na jaře 2012, navržená Studentskou komorou AS}
+\end{figure}
+
+\begin{figure}[htp] \centering{
+\includegraphics[width=\linewidth]{kriteria-prvni.pdf}}
+\caption{Kritéria užívaná ve 2. stipendijním kole na jaře 2012, navržená Stipendijní komisí}
+\end{figure}
+
+\begin{figure}[htp] \centering{
+\includegraphics[width=\linewidth]{kriteria-posledni.pdf}}
+\caption{Kritéria užívaná ve 2. stipendijním kole na jaře 2013, navržená Stipendijní komisí}
+\end{figure}
+
 Tento základní tříkrokový proces (hodnocení---diskuse---hodnocení) se tak stal *robustním* základem, který vymezuje meze *revidovatelnosti*. K tomuto základu se přidaly další prvky: Studentská komora AS neodvolává komisaře v průběhu jejich funkčního období, rozhodnutí komise jsou závazná pro SK AS, s žadateli komunikuje a organizaci procesu hodnocení zařizuje samotná komise, její předseda je volen komisí samotnou z jejího středu, s vedením naopak komunikuje SK AS atp. Tyto prvky vznikaly především díky spolupráci komise s SK AS, kdy jeden z komisařů zpracoval kompletní "paragrafovaná" pravidla. (Srovnejte  pravidla obsahující pouze proceduru hodnocení, jak byla navržená SK AS v Příloze A, jejich další verzi obsahující klíčové aspekty práce komise v Příloze B a jejich rozpracované znění zpracované jedním z členů komise v Příloze C.)
 
 Mnoho aspektů procesu však stále zůstalo stanovených volně, případně nebyly záměrně pevněji ukotveny --- ať už záměrně nebo též často pro nedostatek času, který by byl nutný pro vytvoření návrhu použitelné procedury.
@@ -235,7 +252,7 @@ Díky soustředění se na širší diskusi nejen o samotných projektech, ale t
 
 Mnohé aspekty *transparentnosti* fungování komise již byly popsány výše. Smithovo pojetí přináší především pohled na *vnitřní transparentnost* fungování komise, tzn. nakolik jsou samotní komisaři schopní pochopit a kriticky hodnotit její fungování \citep[25]{smith}. Zpočátku se právě toto ukázalo být problematické, především kvůli tomu, že bylo teprve nutné "zmapovat" velkou část toho, co se nakonec stalo institucionálním mechanismem. Mapování, tedy proces objevování, vyjasňování a následného doplňování designu mechanismu probíhalo především v prvním půlroce fungování komise. 
 
-Ke vnitřní i vnější transparentnosti činnosti komise pak přispívala též prezentace hodnotících formulářů, pravidel a výsledků v pomocné aplikaci, která tyto informace zobrazuje společně s vybranými částmi pravidel fungování komise. Postupné zveřejňování všech potřebných dokumentů (směrnic, programů, pravidel, kritérií apod.), odkazy na místa, kde je potřebné žádosti odevzdat v elektronické podobě (tištěná forma nebyla akceptována), a otevřenost komise v komunikaci pomáhala otevření celého procesu všem zúčastněným. V tuto chvíli existuje podrobný dokument dostupný v "Odevzdávárně" (internetovém úložišti, kam mohou studenti vkládat dokumenty) stipendijních programů, který všechny tyto podrobnosti popisuje. Jeho kompletní znění je přiloženo v Příloze D. 
+Ke vnitřní i vnější transparentnosti činnosti komise pak přispívala též prezentace hodnotících formulářů, pravidel a výsledků v pomocné aplikaci, která tyto informace zobrazuje společně s vybranými částmi pravidel fungování komise. Postupné zveřejňování všech potřebných dokumentů (směrnic, programů, pravidel, kritérií apod.), odkazy na místa, kde je potřebné žádosti odevzdat v elektronické podobě (tištěná forma nebyla akceptována), a otevřenost komise v komunikaci pomáhala otevření celého procesu všem zúčastněným. V tuto chvíli existuje podrobný dokument dostupný v "Odevzdávárně" (internetovém úložišti, kam mohou studenti vkládat dokumenty) stipendijních programů, který všechny tyto podrobnosti popisuje. Jeho kompletní znění je přiloženo v Příloze D.
 
 ## Smithova "institucionální dobra"
 
