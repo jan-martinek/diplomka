@@ -213,7 +213,7 @@ Tento základní tříkrokový proces (hodnocení---diskuse---hodnocení) se tak
 
 Mnoho aspektů procesu však stále zůstalo stanovených volně, případně nebyly záměrně pevněji ukotveny --- ať už záměrně nebo též často pro nedostatek času, který by byl nutný pro vytvoření návrhu použitelné procedury.
 
-*Citlivost k motivační komplexitě aktérů* se doplňuje s *veřejností praxe komise*. Zcela zásadním prvkem fungování komise je nutnost obhajoby svých hodnocení projektů, posílená díky rozšíření této praxe i na první kolo hodnocení. Každý z komisařů uděluje svá bodová hodnocení individuálně a sám je obhajuje slovním doplňkem hodnocení, nedochází tak ke ztrátě informace, jak by to bylo možné při "hodnocení za zavřenými dveřmi". Zároveň je velký důraz kladen na vzájemnou komunikaci, která je zdůrazněna fyzickou přítomností všech zúčastněných aktérů na diskusním setkání.
+*Citlivost k motivační komplexitě aktérů* se doplňuje s *veřejností praxe komise*. Zcela zásadním prvkem fungování komise je nutnost obhajoby vlastního hodnocení projektů, posílená díky rozšíření této praxe i na první kolo hodnocení.^[První návrh Studentské komory počítal dokonce se slovním hodnocením pouze v případech, kdy byl projekt nedoporučen k podpoře. Díky zpětné vazbě komise bylo slovní hodnocení postupně rozšířeno na celé druhé a později i na první hodnocení.] Každý z komisařů uděluje svá bodová hodnocení individuálně a sám je obhajuje slovním doplňkem hodnocení, nedochází tak ke ztrátě informace, jak by to bylo možné při "hodnocení za zavřenými dveřmi". Zároveň je velký důraz kladen na vzájemnou komunikaci, která je zdůrazněna fyzickou přítomností všech zúčastněných aktérů na diskusním setkání.
 
 Aby byl rozšířen aspekt veřejnosti praxe i mimo studentskou část akademické obce fakulty, Studentská komora vložila do pravidel výběru komisařů automatickou akceptaci vyučujícího (či obecně zaměstnance fakulty) na jedno z míst komisařů, pokud se kterýkoli z vyučujících přihlásí (místo bylo takto obsazeno zatím dvěma vyučujícími). Vedle toho existuje aktér s právem veta, tedy vedení fakulty (této pravomoci zatím nebylo využito).
 
@@ -235,7 +235,7 @@ Díky soustředění se na širší diskusi nejen o samotných projektech, ale t
 
 Mnohé aspekty *transparentnosti* fungování komise již byly popsány výše. Smithovo pojetí přináší především pohled na *vnitřní transparentnost* fungování komise, tzn. nakolik jsou samotní komisaři schopní pochopit a kriticky hodnotit její fungování \citep[25]{smith}. Zpočátku se právě toto ukázalo být problematické, především kvůli tomu, že bylo teprve nutné "zmapovat" velkou část toho, co se nakonec stalo institucionálním mechanismem. Mapování, tedy proces objevování, vyjasňování a následného doplňování designu mechanismu probíhalo především v prvním půlroce fungování komise. 
 
-Ke vnitřní i vnější transparentnosti činnosti komise pak přispívala též prezentace hodnotících formulářů, pravidel a výsledků v pomocné aplikaci, která tyto informace zobrazuje společně s vybranými částmi pravidel fungování komise. Postupné zveřejňování všech potřebných dokumentů (směrnic, programů, pravidel, kritérií apod.), odkazy na místa, kde je potřebné žádosti odevzdat v elektronické podobě (tištěná forma nebyla akceptována), a otevřenost komise v komunikaci pomáhala otevření celého procesu všem zúčastněným.
+Ke vnitřní i vnější transparentnosti činnosti komise pak přispívala též prezentace hodnotících formulářů, pravidel a výsledků v pomocné aplikaci, která tyto informace zobrazuje společně s vybranými částmi pravidel fungování komise. Postupné zveřejňování všech potřebných dokumentů (směrnic, programů, pravidel, kritérií apod.), odkazy na místa, kde je potřebné žádosti odevzdat v elektronické podobě (tištěná forma nebyla akceptována), a otevřenost komise v komunikaci pomáhala otevření celého procesu všem zúčastněným. V tuto chvíli existuje podrobný dokument dostupný v "Odevzdávárně" (internetovém úložišti, kam mohou studenti vkládat dokumenty) stipendijních programů, který všechny tyto podrobnosti popisuje. Jeho kompletní znění je přiloženo v Příloze D. 
 
 ## Smithova "institucionální dobra"
 
@@ -245,7 +245,7 @@ Efektivita komise byla zpochybňována zpočátku i kvůli pomalosti celého pro
 
 Posledním parametrem, podle kterého Smith hodnotí demokratické inovace, je jejich *přenositelnost* \citep[27]{smith}. Vzhledem k mnohým rozhodnutím, která byla vázána na předmět rozhodování (tedy rozdělování předem daného objemu financí mezi žadatele, kteří si sami stanovují požadovanou částku) není rozhodovací proces jistě univerzální. Nicméně do obdobného kontextu by praxe i jako celek přenositelná být mohla. Důležitými vlastnostmi, které podporují přenositelnost je jednoduchost třífázového procesu hodnocení a užívání softwarové aplikace, která může v jiném kontextu sloužit coby vodítko vyjasňující, jakým směrem se proces ubírá. 
 
-Autorovým explicitním záměrem je od počátku právě i umožnění přenosu této praxe do jiného kontextu, což je mimo jiné i důležitý incentiv pro napsání tohoto textu, protože i tento text přispívá ke zlepšování přenositelnosti praxe komise. 
+Autorovým explicitním záměrem je od počátku právě i umožnění přenosu této praxe do jiného kontextu, což je mimo jiné i důležitý incentiv pro napsání tohoto textu, který může přispívá ke zlepšování přenositelnosti praxe komise. 
 
 # K hodnocení designu
 
