@@ -39,11 +39,14 @@ AND (r2.projectID = projects.id AND r2.phase = 'secondRating')
 AND projects.secondRatingIneligibility < 2
 GROUP BY projects.roundID
 
-# std. error podle jednotlivých kritérií
+# std. error podle jednotlivých kritérií (první/druhé hodnocení)
 
-SELECT r1.ratingCategoryID, projects.roundID, STD(r1.rating), STD(r2.rating)
-FROM projects, ratings as r1, ratings as r2
-WHERE (r1.projectID = projects.id AND r1.phase = 'firstRating')
-AND (r2.projectID = projects.id AND r2.phase = 'secondRating')
-GROUP BY r1.ratingCategoryID /* NEBO r2.ratingCategoryID */
+SELECT r.ratingCategoryID, projects.roundID, STD(r.rating)
+FROM projects, ratings as r
+WHERE (r.projectID = projects.id AND r.phase = 'firstRating')
+GROUP BY r.ratingCategoryID
 
+SELECT r.ratingCategoryID, projects.roundID, STD(r.rating)
+FROM projects, ratings as r
+WHERE (r.projectID = projects.id AND r.phase = 'secondRating')
+GROUP BY r.ratingCategoryID
