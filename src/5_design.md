@@ -24,7 +24,7 @@ Na druhou stranu je prvotní návrh komise relativně přesně danou procedurou,
 
 Při konstrukci institucionálního mechanismu komise se členové Studentské komory zamýšleli především nad sestavením rozhodovacího procesu od získání žádostí po výběr konkrétních příjemců stipendia. Širší kontext vztahů mezi komisí a dalšími aktéry na fakultě byl zpočátku zanedbaný. Když se tak nyní soustředíme především na navrhovaná pravidla (která zůstala téměř v celém jejich rozsahu platná, ale byla podstatně rozšířena), budeme zároveň postupovat chronologicky. Z kontextu již vyplynulo několik aspektů celého procesu --- formální podoba žádostí a způsob jejich odevzdávání, možnost zveřejňování žádostí nebo rozdělení prostředků mezi čtyři rozhodovací ("grantová") kola.
 
-TODO: A number of influential theorists of deliberative democracy – for example, Jürgen Habermas and John Dryzek – have recognised the poten-tial tension between democratic deliberation and decision-making: their theories explicitly separate these two democratic moments. (smith, 196)
+TODO: A number of influential theorists of deliberative democracy – for example, Jürgen Habermas and John Dryzek – have recognised the poten-tial tension between democratic deliberation and decision-making: their theories explicitly separate these two democratic moments. (smith, 196) + připomínky děkana
 
 
 ## Proces hodnocení projektů[^projektproblem]

@@ -13,3 +13,5 @@ hodnocení v kontextu vzniku instituce - záměry autorů a dalších aktérů
             - zveřejňování žádostí
             - zveřejňování hodnocení komise
             - neznámý zůstatek v programu (propadlé žádosti na konci semestru, protože peníze došly)
+
+    bylo vidět, že je těžký se vodnaučit to, že by třeba ta komise měla bejt na jednom místě a ty ostatní na tom druhým. I když je to v tom kruhu. KDyž jsem se třeba snažil to těm komisařů říkat, ať se třeba jako rozsaděj mezi ty lidi, tak to nakonec vlastně nikdy tak nebylo,
