@@ -21,7 +21,7 @@ Název kapitoly "Pro a proti" odkazuje k bipolárnímu sporu --- tak tomu mnohdy
 
 Vzhledem k tomu, že bylo identifikováno relativně velké množství rovin problému, následuje jejich stručný přehled a až poté jejich podrobný popis podložený citacemi.
 
--   **problémy vzniku komise::** prava stávajícího stavu nebo předání pravomoci studentům; nejistá ochota komunity (a komise) participovat; volba mezi zavedenou konvenční praxí
+-   **problémy vzniku komise::** prava stávajícího stavu nebo předání pravomoci studentům; nejistá ochota komunity (a komise) participovat; volba mezi zavedenou konvenční praxí; otázka efektivity procedury
 -   **pojetí smyslu komise:** delegace, případně delegace kompetentnějším; rozšíření participace na řešení problému; edukace komisařů
 -   **pojetí smyslu stipendií:** odměna; vyjádření politického názoru; uznání hodnotnosti aktivity; podpora neziskových aktivit; rozvíjení individuálních kompetencí; investice do propagace fakulty; podpora sociálně slabých osob
 -   **předmět a povaha stipendia:** obecně formulovaný záměr nebo naplánovaný projekt; s tím související proplácení spíše honorářů nebo nákladů
@@ -29,7 +29,6 @@ Vzhledem k tomu, že bylo identifikováno relativně velké množství rovin pro
 -   **deliberativní procedura:** prostředek hodnocení projektů (důraz na efektivitu); prostředek rozvoje prostředí (důraz na dlouhodobé působení)
 -   **pozice hodnotitelů uvnitř komunity:** problémy a benefity pozice insidera; pozice vyučující jako kontrastní prvek)
 -   **zpětnovazebné vztahy a pozice komise v kontextu instituce**
--   **otázka efektivita procedury**
 
 ## Vznik komise
 
@@ -54,6 +53,12 @@ Oproti očekávání tedy komisaři vnímali svou roli velmi aktivně, svou moti
 Sami v mnoha ohledech pociťovali spíše nedostatečná omezení vlastních pravomocí a nedostatečnou znalost východisek, z nichž utvoření komise vzešlo. Částečně takto aktivní přístup vycházel i z organizačních problémů: *"na začátku nebylo moc jasný, jako jak se máme chovat (...) a navíc jsme na to neměli moc času,"* a též z nejasného vymezení vztahu mezi SK AS a komisí. Jeden z komisařů v problematickém období píše: *"Když změníme pravidla fungování, tak nám dají veto; systém hodnocení je také závislý na nich a komunikace momentálně taky, nemluvě o tom, že rozhodnutí komise o stipendiích zase bude předávat SK AS."* Na druhou stranu právě neujasněnost výchozí situace zpětně oceňují jako příležitost, kterou mohli využít: *"bylo dobře, že jsme jako ta první komise nebyli hozeni do nějakého mechanismu, který už automaticky funguje, ale byla tam právě ta diskuse"*. Další komisař popisuje, že jej *"bavil ten proces upravování do finální formy. Na začátku to bylo jako dobré, ale chtělo to ještě nějak dotáhnout a taková ta reflexe těch potíží, která se toho všeho týkala, tak to bylo hrozně zajímavé; bylo osvěžující potkávat se s názory ostatních členů komise"*.
 
 Když se snížil tlak vytvářený prvními dvěma koly hodnocení a *"už bylo jasný, že to dál bude fungovat"*, přepracovala komise výrazně kritéria hodnocení: *"začali [jsme] přemýšlet nad tím, jestli ta kritéria nejsou moc obecná, (...) [byl] častý problém, že tam bylo prostě nějaký kritérium a [porotce] si říkal: z poloviny je to nadprůměrný a tohle tam zase vůbec není (...) tak jsme (...) zkusili vymyslet nová kritéria. Vlastně i k tomu, [abychom] dali světu víc návod, jak to budeme hodnotit."*
+
+### Efektivita procedury
+
+Efektivita celého mechanismu souvisí s představami o tom, jakým způsobem bude pracovat komise. Před relativní stabilizací instituce na podzim 2012 byla komise často kritizována jak zevnitř (ze strany SK AS a komisařů), jak bylo již výše naznačeno, tak ze strany vedení. Jeden ze členů vedení píše po vyhodnocení druhého kola: *"Současný systém považuji za jistě propracovaný v oblasti komunikace se žadateli, avšak zároveň nastavený tak, že stipendijní komise (resp. SK, která ji ustavila) si velmi málo uvědomuje, že to nemůže být jediná žádoucí vlastnost posuzování. [Tím je] i přiměřená rychlost [rozhodování]"*. Zpětně pak v rozhovoru říká, že problémem byly *"Určitě ty termíny, ty čtyři kola jsou docela dost, byl to první rok, a nebylo úplně jasné, kdy budou ta kola, kdy budou období, kdy se bude nejvíc žádat, zároveň kdy si ta komise najde nejvíc času aby tomu mohla věnovat tolik času, aby o tom mohla rozhodnout, to je věc, kterou třeba já jsem úplně předně neviděl, ale dovedu si představit, že ta práce té komise mohla být časově docela náročná, a pokud se to má skloubit třeba ještě s nějakými dalšími povinnostmi v akademickém životě, tak možná je to potřeba někdy přizpůsobit i ty termíny, kdy se přesně ty žádosti rozhodují, když se ty granty rozdělí."* V dalším období pak již tento problém neměl takto výraznou intenzitu.
+
+V současné době, jak již bylo výše řečeno, se nepotvrdila obava z velké časové náročnosti. Jeden z později zapojených komisařů tvrdí, že mu *"časová náročnost naopak velmi vyhovuje (...) dovedu si představit mnohem důkladnější probírání těch cílů projektu."* (Toto může být způsobeno i postupnou formalizací procesu diskusních setkání.)
 
 ### Zavedená nebo konvenční praxe
 
@@ -146,98 +151,74 @@ Tento polární spor bylo do jisté míry možné přemostit proměnlivostí kri
 
 ## Deliberativní procedura
 
-Roli diskusního setkání (tedy prostřední fáze procesu hodnocení---diskuse---hodnocení) je možné vnímat jednak instrumentálně: cílem je posunutí diskuse ohledně hodnocených projektů (důraz je kladen na efektivitu a soustředěnost diskuse). Diskuse může být ale i prostředkem rozvoje prostředí (důraz je kladen na podrobné prozkoumání problémů, které se v diskusi objeví, a důsledků, které pro žadatele a jejich nakládání se stipendii mají). Obě role je jako obvykle možné naplňovat zároveň, ale při zvažování konkrétních změn institucionální praxe je vždy přítomné pnutí mezi oběma cíli.
+Roli diskusního setkání (tedy prostřední fáze procesu hodnocení---diskuse---hodnocení) je možné vnímat jednak **instrumentálně**: cílem je posunutí diskuse ohledně hodnocených projektů a důraz je kladen na efektivitu a soustředěnost diskuse. Diskuse může být ale i **prostředkem rozvoje prostředí**: důraz je pak kladen na podrobné prozkoumání problémů, které se v diskusi objeví, a důsledků, které pro žadatele a jejich nakládání se stipendii mají. Obě role je jako obvykle možné naplňovat zároveň, ale při zvažování konkrétních změn institucionální praxe je vždy přítomné pnutí mezi oběma cíli.
 
+Konkrétním příkladem takově změny může být prostorová a časová strukturace diskuse. Jedním z návrhů Studentské komory (zde především autora tohoto textu) byly představy o tom, jakým způsobem bude vypadat zasedací pořádek. První setkání proběhlo formou střídání jednotlivých žadatelů (jednotlivců i týmů) před komisí, při druhém navrhla SK AS společné sezení v kruhu, aby se posílila vzájemná interakce a aby žadatelů zůstali sledovat diskusi i po "obhajobě" vlastního projektu. Obě formy jsou schematicky znázorněny na obrázku, užívaném tehdy v diskusi SK AS. Tento návrh je ideálem, v praxi byl s některými aspekty problém: *"i když jsem se třeba snažil to těm komisařů říkat, ať se rozesadí mezi ty lidi, tak to nakonec vlastně nikdy tak nebylo"*. I přes pouze částečnou realizaci byl posun vnímán členy komise jako pozitivní: 
 
+> *"[Když] jsi úplně za začátku říkal, že v té komisi třeba záleží na tom, jak si sedneme během toho diskusního kola, tak jsem byl k tomu takový skeptický, že to je jako jedno, jak si sedneme, ne. Ale když bylo úplně to první, (...) fakt to tehdy vypadalo, že [je] vyslýcháme a ti lidé byli ve stresu; bylo takový jako nepříjemný určitě pro ně, ale i pro nás"*
 
+\begin{figure}[htp] \centering{
+\includegraphics[width=\linewidth]{diskuse-prostor.png}}
+\caption{Dvě z možných prostorových uspořádání diskuse}
+\end{figure}
 
-prostředek hodnocení projektů (důraz na efektivitu)
+Taková úprava procedury vychází jednak z důrazu na co nejvyšší legitimitu rozhodnutí (v diskusi by mělo zůstat nevyřčeno co nejméně), ale zároveň je možné, že diskuse v tomto formátu přesáhne hranice projektů a věnuje se obecnějším problémům --- přínos z hlediska rozvoje prostředí pak může být negativně kompenzován např. nemožnosti účasti všech aktérů na celé schůzce. Oba důsledky můžeme ilustrovat výroky členů komise:
 
-Mě úplně nejvíc zaujalo a hrozně bavilo to jak jsi úplně za čaátku řikal, že v tý komisi třeba záleží na tom, jak si sednem během toho diskusního kola, tak jsem byl k tomu takovej skeptickej, že to je jako jedno, jak si sednem, ne. Ale když bylo úplně to první, tak jsme si opravdu sedli tak, že na jedný straně byla ta komise a na druhý straně ta žadatelé a s tím, že oni se jako měnili a byl tam vždycky jenom ten jeden. A fakt to vypadalo jakože ho vyslýcháme a ty lidi byli ve stresu a bylo takový jako nepříjemný určtiě pro ně, ale i pro nás. [komisar]
+1) *"Nejlepší byly ty chvíle, kdy jsme se vlastně dostali k něčemu podstatnému ve vztahu k fakultě, (...) třeba když jsme řešili, že nějaký projekt, který žádal o stipendia, nám přišel, že by měl žádat o podporu své katedry, že to souviselo s výzkumem… (...) tak jsme tam vlastně diskutovali o tom, proč je vlastně třeba na to žádat stipendia, proč to nepodporuje katedra, co všechno by měla podporovat škola a co všechno by si už měli studenti shánět sami. A to jsou přesně ty chvíle, kdy se podle mě tříbí nejen to, co jsou podle mě stipendia, ale tříbí se i přístup toho studenta k té škole a případně můžeme zpětně (...) dávat SK AS reflexi, jakoby zezdola, v uvozovkách. To znamená, kde jsou potenciálně nějaké třeba třecí plochy na té fakultě nebo kde by ta samospráva mohla třeba pomoci i pro nějaký jakoby lepší vztah a lepší komunikaci a tak dále, takže to pro mě bylo nejcennější. Co pro mě naopak bylo nejméně cenné, byly ty chvíle, kdy jsme se hádali, jestli balík ačtyřkových papírů stojí tolik a tolik peněz, to mi přišlo k ničemu."*
 
+2) *"Pak se to jako stalo takovou diskusí, což vedlo samozřejmě k tomu, že jsme tam jednou byli skoro do půlnoci. A potom tam úplně došlo k té formalizaci, že jsme (...) vymysleli, že budeme mít 10 minut na projekt, v prvních třech minutách se představí, v těch zbylých minutách se bude diskutovat. Dneska se teda ukázalo, že na představení je třeba tak pět minut a že ti ostatní žadatelé s nimi polemizují jenom velmi výjimečně."*
 
-
-prostředek rozvoje prostředí (důraz na dlouhodobé působení)
-
-Mě přišla na tom nejdůležitější, nebo nejlepší byly ty chvíle, kdy jsme se vlastně dostali k něčemu podstatnému ve vztahu k fakultě, to pro mě bylo hodně zajímavý, konkrétně třeba když jsme řešili, že nějaký projekt, který žádal o stipendia, nám přišel, že by měl žádat jakoby podporu své katedry, že to souviselo s výzkumem, typicky to byly věci z politologie a tak… tak jsem vlastně tam vlastně diskutovali o tom, proč to máme vlastně… proč je vlastně třeba na to žádat stipendia, proč to nepodporuje katedra, co všechno by měla podporovat škola, co všechno by si už měli studenti shánět sami a to sjou přesně ty chvíle, kdy se podle mě tříbí nejen to, co jsou podle mě stipendia, ale tříbí se i přístup toho studenta k té škole a případně můžeme zpětně my jako komise dávat té SK AS reflexi, jakoby zezdola, v uvozovkách, to znamená, kde jsou potenciálně nějaké třeba třecí plochy na té fakultě nebo kde by ta samospráva mohla třeba pomoci i pro nějaký jakoby lepší vztah a lepší komunikaci a tak dále, takže to pro mě bylo nejcennější. Co pro mě naopak bylo nejméně cenné, byly ty chvíle, kdy jsme se hádali, jestli balík ačtyřkových papírů stojí tolik a tolik peněz, to mi přišlo k ničemu. [komisar]
-
-i do budoucna, to co pro mě je na tom nejcennější, na fungování té komise jako nějakého orgánu toho senátu nebo té studentské komory je právě to, že to může být vlastně nějaký prostor pro nějakou licitaci, diskusi a neustálé hledání jako by té pozice těch stipendií, vždycky nové a nové s těmi lidmi, který tam budou at ůž v tom senátu nebo v té komisi [motal]
-
-jsme s Matějmem vymysleli, že budeme mít 10 minut na projektch, v prvních třech minutách se představěj, v těch zbylejch minutách se bude diskutovat. Dneska se teda ukázalo, že na představení je třeba tak pět minu [weiner]
-
-
+Jak je vidět v druhé citaci, klíčová je zároveň časová strukturace. Oba způsoby mohou posilovat v nějaké míře oba ze "smyslů" diskusní "deliberativní" procedury --- a vhodná míra zastoupení obou elementů se může měnit v čase. V době, kdy existuje problém sdílený různými žadateli, je "přirozené", aby se taková skutečnost projevila i v různých aspektech hodnotící procedury.
 
 ## Pozice hodnotitelů uvnitř komunity
 
-problémy
-benefity
+Již v úvodu zmíněné posílení legitimity přiblížením rozhodnutí cílové skupině, tedy aplikace principu *subsidiarity*, je vnímáno ve svých kladech a záporech. Jeden ze senátorů již při organizaci prvního výběru členů komise kladl důraz na předcházení možným problémů, protože se *"jedná o poměrně citlivé téma (tj. rozdělování peněz našim kolegům - a pravděpodobně i nám, já sám jsem byl nedávno za ‚kulturní přínos‘ ohodnocen). (...) Nebál bych se proto poptávku po lidech co nejvíce rozkřiknout, ale pak nebrat každého, ale mít i malé výběrové řízení - krátký [motivační] dopis (?), popis zkušeností v dané věci. Rozhodnutí bychom potom oznámili jako kolektivní orgán. Bylo by zároveň dobré, aby složení komise bylo pokud možno pestré a reprezentativní, aby se nejednalo o jednu ‚partu‘".*
 
-"kontrolní skupina" - vyučující v komisi
-- instrumentální zapojení pro vlastní benefity
-- pro zábavu
-- protnutí komunit
+### Benefity blízkosti
 
-to by třeba musela ta obec akademiků, nemyslím celá AO, ale obec akademických pracovníků fungovat jinak než jak funguje na naší fakultě a než asi jak funguje na většině univerzit, že by se třeba ti akademičtí pracovníci museli v nějakých velkých počtech navzájem scházet, takže tam by třeba ten jeden z nich referoval, že byl na tom setkání té stipendijní komise, že se tam probíralo to a to, ale takhle se mi zdá, že není organizován život pracovníků na žádné univerzitě. [vedení]
+Pozitivní aspekt blízkosti jeden z komisařů popisuje slovem *"empatie"*, tvrdí, že coby komisaři *"[dokážou] být mnohem blíž (...) tzn. víc rozumět tomu, co přesně dělají (...). A to znamená, že jsme kritičtější v určitých věcech a jiné věci zase dovedeme odpouštět."* Rovinu pochopení ještě doplňuje rovina kompetenční (spojená do značné míry s "projektovým" vnímáním stipendií), tedy znalost konkrétních technických detailů, dle jednoho ze členů vedení komisaři *"dokážou lépe posoudit takové věci, jako jsou ceny třeba za nějaké pronájmy nebo třeba za kopírování, věci, se kterými já třeba tolik nepřicházím do styku (...) kdybych to dělal já, (...) měl bych pocit, že rozhoduji o něčem, v čem nejsem úplně dokonalý expert a že potřebuji strašně moc energie na to, abych se tím expertem stal."*.
 
-- na jednu stranu by se zapojil [měl by co říct], ale na druhou stranu si nemyslí, že by mělo co říct coby akademik
+Prostřednictvím diskusní fáze hodnocení se mohou do hodnocení projektů zapojit i jiní žadatelé, což sice komisaři nepovažují za časté, ale zároveň to vnímají jako užitečné: *"Když jsme třeba měli nějaký výhrady, třeba vůči nějaké částce v rozpočtu nebo že [něco] není úplně realizovatelné, tak většinou přispěli nějakou [svojí zkušeností] a třeba nás i přesvědčili, že nemáme pravdu."*
 
-byl bych rád, aby členem byli lidé ze spolků, ale i např. jeden z akademických pracovníků, protože je to forma externí kontroly – například pokud se u něj bude objevovat hodnocení BULLSHIT u některých projektů a u studentů ne, můžeme se ptát, jestli někde není problém. [autor]
+### Problémy blízkosti
 
-preco? akoze je to studentsky stip fond pre studentov. nejaku pridanu hodnotu v zamestnancovi nevidim (o co je lepsia jeho skusenost ako skusenost mgr studenta?) + obaval by som sa toho, ze bude mat mensiu ochotu deliberovat a pocas deliberacie z pozicie jeho autority by mohli mat jeho slova vacsi dopad na (kludne to aj nazvime manipulativny) na zbytok studentskej komisie + generacny problem, obaval by som sa ze ta komunikaci aby viazla z nejakeho ostychu ostatnych a uz spomenuteho prilisneho respektu (vsetky tie vykacie ceremonie...) vidim v tom viac nevyhod ako vyhod osobne. som teda proti [senator]
+Zásadním problémem vnímaným i vedením fakulty byl možný střet zájmů, případně osobní vazby mezi studenty. Výsledkem by tak mohlo být rozdělování zdrojů "známým". Člen vedení k tomu říká: *"Když se podíváte na ta udělená stipendia, tak vidíte hodně členů senátu, tak běžte a vysvětlete to těm studentům, že to nejde vám, protože jste senátoři, ale protože ty projekty jsou dobré."* Obdobnou argumentací byly výsledky zpochybňovány vedením fakulty i v průběhu schvalování výsledků hodnocení vedením (kde by autor tohoto textu přítomen).
 
+Jeden z členů komise říká, že by *"dokázal obhájit, že to prostě není účelový pro senátory, ale na druhou stranu bych byl radši, kdyby nežádali…"*  Na druhou stranu vnímá původ problému v tom, *"že na [fakultě] je skupina asi třiceti lidí, kteří se podílí na všech těch projektech a do toho patří samozřejmě i senátoři. (...) Nedejbože občas dáváme peníze sami sobě, to je ještě horší."*. Řešením je v případech, kdy má komisař přímé spojení s konkrétním projektem zdržení. Praxe zdržování se nebyla zpočátku zřejmá, i kvůli nejasnosti v tom, jak by se podobný krok projevil v hodnocení. Studentská komora postavila praxi zdržování se na důvěře v osobní odpovědnost komisařů, podloženou veřejností celé procedury: *"Máte možnost se zdržet, povinnost nikoli. Hlasujte podle svého svědomí a, kdybyste nehlasovali, je tu pořád dostatečná základna pro hodnocení od ostatních."* Výhodou je úmyslné skládání komise z rozdílných osobností, snad i proto se zatím jeden ze členů komise, který působil v pozici jejího předsedy *"nesetkal s tím, že by za námi přišel někdo z těch jiných projektů a řekl nám, že někoho preferujeme"*.
 
+### Pozice vyučujícího v komisi
 
-vyjádřila nějaký dost pozitivní vztah ke stipendijní komisi, protože sama jsem se studenty stipendium využila, jeli jsme se studenty na cestu do Vídně, po stopách Viktora Frankla [komisar]
+Zajímavou "kontrolní skupinou" (pokud užijeme termínu, užívaného při vědecké praxi pozorování) interní pozice komisařů mezi studenty je přítomnost vyučujícího v komisi. Významným faktorem je vnímání oddělenosti obou komunit z pohledu jednotlivých aktérů.
 
-chtěla jsem vědět, jací jsou dnes studenti, chtěla jsem vědět, jaký mají projekty, jaký mají zájmy, trochu mám zájem že jako učitelka jsem trošičku odtržená [komisar]
+Ukotvení možnosti účasti akademického pracovníka na činnosti komise bylo motivováno *"[formou] externí kontroly --- například, pokud se u něj bude objevovat [nedoporučení k podpoře] u některých projektů a u studentů ne, můžeme se ptát, jestli někde není problém"* (citace autora textu). Toto zdůvodnění bylo jinými senátory zpochybňováno již na začátku, např. v obavě z toho, *"že bude mít menší ochotu deliberovat a během deliberace by z pozice jeho autority mohla mít jeho slova větší ([snad i manipulativní]) dopad na zbytek studentské komise", [navíc by komunikace mohla váznout] z nějakého ostychu ostatních a přílišného respektu*.
 
-je to pro mě zajímavý [komisar]
+Člen vedení pochybuje, *"jestli vyučující jsou pro rozhodování tady téhle komise nějaká speciálně cenná veřejnost, jestli vyučující... asi jsou hodnotnější než nějaký člověk z ulice, ale kladu si otázku, jestli jsou vyučující hodnotnější než nějaká pracovnice na ekonomickém oddělení."* Objevuje se zde i pojetí komise coby delegované odpovědnosti --- účast akademického pracovníka na činnost komise by hlubší ospravedlnění, kdyby na něj byl delegován obcí akademických pracovníků kontakt se studentskými spolkovými a kulturními aktivitami: *"akademičtí pracovníci by se museli v nějakých velkých počtech navzájem scházet [a] tam by ten jeden z nich referoval, že byl na tom setkání té stipendijní komise, že se tam probíralo to a to, ale takhle se mi zdá, že není organizován život pracovníků na žádné univerzitě."* Stávající způsob zapojení považují spíše za instrumentální z pohledu daného pracovníka a zisk zkušeností, které mohou přenést do jiného kontextu. Pracovník tak *"vlastně [má] takovou další možnost se podílet na životě fakulty. Pro něj to možná [může] být cenné právě v tom, že tam vidí pomocí jakých kritérií si [studenti] rozdělují finanční prostředky a může to třeba v budoucnu využít v tělesech různých agentur"*.
 
-jsem byla asi před šesti lety v akademickým senátu a vlastně teď se vlastně trošičku v těch univerzitních aktivitách, jsem se do nich vrátila ve formě té stipendijní komise [komisar]
-
-Tak si nejsem úplně jistý, jestli vlastně vyučující jsou pro rozhodování tady téhle komise nějaká speciálně cenná veřejnost, jestli vyučující… asi jsou hodnotnější než třeba nějaký člověk z ulice, ale kladu si třeba otázku, jestli třeba vyučující z hlediska akcí, které se konají tady na fakultě, tak jestli jsou třeba hodnotnější než třeba nějaká pracovnice třeba na ekonomickém oddělení. [vedení]
-
-lidé, kteří se tam přihlásili jako akademičtí pracovníci, tak do značné míry se tam přihlásili třeba z vlastního zájmu o tu věc, a to je potom fajn, že. Vlastně měli takovouhle další možnost se podílet na životě fakulty. Pro ně jako to možná mohlo být cenné právě v tom, že tam viděl pomocí jakých kritérií si třeba rozdělujífinanční prostědky a může to třeba v budnoucnu využít třeba v takových tělesech různých agentur, které zase rozdělují peníze, může třeba i něco z fungování téhle komise přenést tam, [vedení]
-
-Já jsem nebyl v pozici studenta, ale zase k tomu přistupoval tak, že jsem za prvé jako hodně zapojený do různých aktivit těch studentů na FSS, nikdy jsem se úplně tak nepočítal a do dneška neberu jako takovej ten klasický zaměnstanec, to je jedna věc a druhá věc je ta, že jsem si myslel, že bych mohl nějak tak svým nzorem a zkušeností přispět k té diskusi a to bylo i to, co jsem si od toho sliboval a to bylo nějaké rozvíření té diskuse u těch stipendií. [komisar]
-
+Samotní vyučující zapojení v činnosti komise vysvětlují svou motivaci zájmem o to, *"jací jsou dnes studenti, (...) jaké mají projekty, jaké mají zájmy, (...) jako učitel jsem trochu odtržený"*, případně sami sebe staví do pozice mezi studentem a vyučujícím: *"přistupoval [jsem k tomu] tak, že jsem za prvé hodně zapojený do různých aktivit těch studentů na [fakultě], (...) do dneška [se] neberu jako takový ten klasický zaměstnanec. (...) Druhá věc je ta, že jsem si myslel, že bych mohl nějak tak svým názorem a zkušeností přispět k té diskusi."*. Objevuje se tedy i argumentace vlastním přispěním k diskusi z pozice vyučujícího, tedy možnosti přenosu zkušeností, ačkoli i v pozici velmi blízké studentům. Ke svému angažmá v komisi se oba zmínění dostali mimo jiné skrze participaci na studentských projektech, jeden z nich dokonce skrze čerpání stipendia prostřednictvím nově ustaveného mechanismu.
 
 ## Zpětnovazebné vztahy a pozice komise v kontextu instituce
 
-- zpětná vazba komise ve své činnosti
-- zpětná vazba od žadatelů - zpracování žádostí
-- zpětná vazba od vedení
+Trochu mimo ostatní podkapitoly stojí tato závěrečná, která se týká vnímání vlastní pozice komisařů v kontextu instituce. Výrazně se zde promítají předchozí rozebrané významy a výsledný text je spíše difuzní, nekončí identifikováním a pojmenováním konkrétních jevů. Autor považoval za podstatné zachytit tyto vztahové jevy v jakési "momentce", vyjadřující do jisté míry úběžníky možného dalšího vývoje komise, případně zažehnané i stále pokračující frustrace jednotlivých aktérů.
 
-já jsem k tomu vždycky psal nějakej dokument, kde bylo jako shrnutí, co to je za projekty, a proč je podporujeme a tak, takže moje názy se asi dostaly k vedení, ale už ta cesta zpátky tam jakoby nebyla. Třeba myslim si, že pro mě by to bylo prospěšný, nějaký feedback. Ale fungovalo to i bez toho. [komisar]
+Jednak jde o zpětnou vazbu komise **ve své vlastní činnosti**, tedy již zmiňované především pozměňování kritérií, které komise přijala a využívá. 
 
-tam pořád byla jako možnost, že někdo to zařízne a vlastně jsme nevěděli, jestli se budeme moc těm lidem potom podívat do očí jako… [komisar]
+Vedle toho prošel silným vývojem vztah komisařů ke **zpětné vazbě od žadatelů**. Po udělení stipendia bylo praxí odevzdávání zpráv po ukončení aktivity, ale nebylo zřejmé, kdo se zabývá kontrolou odevzdaných žádostí. Komise v průběhu roku své činnosti ve spolupráci s SK prosadit vlastní zpracování těchto závěrečných zpráv, takže v aktualizovaném soupisu stipendijních programů je již uvedena věta "Agendu kontroly závěrečných zpráv provádí pro program 6A Studentská komora AS FSS." \citep[Program 6, odst. 8]{soupis2013} (V předchozích letech byla agenda svěřena "pověřené osobě".)
 
-Nevím, jestli to byla výhoda nebo nevýhoda ale já jsem se v souvislosti s vedením školy nikdy nesetkal. Nikdy jsem prostě neviděl děkana nebo proděkana nebo něco takovýho, jsme se nikdy nepotkali a nikdy jsem neměl příležitost se bavit o tom, co oni si o tý komisi jako představujou, nebo že by mi dali nějak feedback na to, jaký ty projekty vybíráme a jeslti si myslí, že jsou dobrý nebo tak. [komisar]
+Třetím druhem je **zpětná vazba od senátu**, která byla problematická především při stabilizaci instituce. Tehdejší situaci vystihuje jeden z komisařů: *"my jsme komunikovali se třema, jestli se nepletu, ze senátu, s váma, a vy jste vlastně každý měli tak jakoby jiný postoj k tomu, což je jasný, to je politickej orgán, ten senát, každý tam bude mít jako jiný zájmy a jiný názory, ale přišlo mi, že bylo vidět, že ten senát si vlastně taky není úplně jistý, co s tou komisí"*. V současné době je již vztah stabilizovaný, především kvůli eliminaci počátečních bodů nejistoty.
 
+Poslední, a v kontextu výše uvedeného očekávatelným bodem je **zpětná vazba od vedení fakulty**. Ta bývá zprostředkována Studentskou komorou AS, ale převážně se objevovala v období stabilizace instituce, kdy vedení reagovalo jednak na to, že *"si komise osobuje pravomoci zjevně přesahující její určení"*, když komise doporučila některým žadatelům zvážit podání žádosti v jiném programu bez předchozí komunikace se správci těchto programů. Taková situace se již později neopakovala, ale autor si není vědom, že by byla nějak dále systematicky řešena. Druhou formou zpětné vazby je případné veto, které zatím nebylo uděleno; *"neexistence jednoho jediného rozhodovacího místa"* je vnímána jak pozitivně, zvláště s přihlédnutím k odpovědnosti vedení za vyplacená stipendia, tak i negativně: *"pořád byla jako možnost, že někdo to zařízne a vlastně jsme nevěděli, jestli se budeme moc těm lidem potom podívat do očí jako… (...) ale tohle jsme brali pragmaticky, že to prostě tak nějak jako je, že je to prostě věc, která je v procesu, která se teprve bude v dlouhodobým hledisku nějak jako cizelovat"*.
 
+Podoba zpětné vazby od vedení souvisí především s pojetím *delegace* určitého rozhodování na komisi. Vedení zaujímá spíše pozici vzdáleného příjemce agendy: *"já jsem k tomu vždycky psal nějaký dokument,"* popisuje jeden z členů komise, *"kde bylo jako shrnutí, co to je za projekty, a proč je podporujeme a tak, takže moje názory se asi dostaly k vedení, ale už ta cesta zpátky tam jakoby nebyla. Myslím si, že pro mě by to bylo prospěšné, nějaký feedback. Ale fungovalo to i bez toho.*"
 
-vím, že jsme se tam jednu dobu bavili o tom, co vlastně jako jsme jako komise zač, jakou vlastně váhu má naše rozhodnutí, protože vím, že jsme se tam bavili i s vámi, i jakoby sami mezi sebou o tom, že vlastně my něco vybereme a je otázka, jestli třeba ten senát se nerozhodne jinak, případně jestli se jako třeba proděkan nerozhodne jinak, jakou vlastně máme možnost tyhlety procesy ovlivnit, což vlastně nemáme skoro žádnou, že jo… tak o tomhle jsme tam diskutovali, ale tohle jsme brali pragmaticky, že to prostě tak nějak jako je, že je to prostě věc, která je v procesu, která se teprve bude v dlouhodobým hledisku nějak jako cizelovat, [komisar]
+Vedle přímé zpětné vazby na konkrétní rozhodnutí komisaři uvažují i v širším kontextu o svém vztahu k vedení --- a vztahu vedení vůči spolkovým a kulturním aktivitám. Vybírám několik ilustrativních citací z rozhovorů s různými komisaři
 
+1) *"Nevím, jestli to byla výhoda nebo nevýhoda, ale já jsem se (...) s vedením školy nikdy nesetkal. Nikdy jsem prostě neviděl děkana nebo proděkana nebo něco takového, jsme se nikdy nepotkali a nikdy jsem neměl příležitost se bavit o tom, co oni si o té komisi [myslí]. (...) Jestli to [vedení] bere jako důležitou součást toho fakultního života nebo je to pro ně něco, jako že se konečně zbaví těch studentů, kteří do nich pořád šijou, že jim nedávají peníze. Tak jim prostě odhodí pár desítek tisíc a ať si s tím dělají co chtějí."*
 
+2) *"S vedením… s [děkanem] jsem si poprvé podal ruku minulý týden na Dni FSS a s nikým jiným jsem za svoji dobu své činnosti nemluvil (...). Vzhledem k tomu, že v pravidlech máme napsané, že jsme poradní orgán děkana, dovedl bych si představit, že prostě ho někdy uvidíme a něco nám třeba řekne nebo se přijde podívat na zasedání; případně třeba (...) pověřený proděkan, nebo kdokoliv jiný. (...) Pořád cítím, že posílám ta data té instituci a tam se to nějak vyplatí… (...) Já jsem vlastně předseda poradního orgánu někoho, koho jsem viděl na svojí imatrikulaci a potom minulý týden a jinak ho občas potkám na chodbě. Netuší, kdo já jsem, předpokládám… nedejbože kdo jsou ti ostatní čtyři lidi z té komise."*
 
+3) *"Obecně mám pocit, že [univerzita] jako celek si úplně není jakoby jistá, aspoň to, co jsem mohl poznat já, co vlastně s těmi studentskými aktivitami a spolky má dělat."*
 
-
-Pak je otázka, prostě vždycky jsem přemýšlel, co to vedení si o tom myslí, jestli to bere jako důležitou součást toho fakultního života nebo je to pro ně něco jako že se konečně zbavěj těch tustudentů, ktří do nich furt šijou, že jim nedávaj peníze, tak jim prostě vodhoděj pár desítek tisíc a ať si s tím dělají co chtěj. Takže v tomhlentcom jsem jako vůbec nevěděl, co jak vedení jako vidí, co to pro ně je. [komisar]
-
-s vedením… s [děkanem] jsem si poprvé podal ruku minulý týden na Dni FSS a s nikým jiným jsem za svoji dobu své činnosti nemluvil a nevím ani o tom, že by Matěj s někým z nich mluvil. A přijde mi, že vzhledem k tomu, že v pravidlech máme napsané, že jsme poradní orgán děkana, dovedl bych si představit, že prostě ho někdy uvidíme a něco nám třeba řekne nebo se přijde podívat na zasedání [[jasně]] případně třeba (...) pověřený proděkan, nebo kdokoliv jinej. Necítím, že bych byl nějak v kontaktu s vedením. V tuhle chvíli, ačkoli prostě nejsem nějaký anarchista, co by prostě přemejšlel o tom, že je to celý neosobní, pořád cítím, že posílám ty data tý instituci a tam se to nějak vyplatí… spíš než že bych byl poradní orgán… já jsem vlastně předseda poradního orgánu někoho, koho jsem viděl na svojí imatrikulaci a potom minulej tejden a jinak ho občas potkám na chodbě [jasně] netuší, kdo já jsem, předpokládám… nedej bože kdo jsou ti vostatní čtyři lidi z tý komise… [komisar]
-
-
-
-
-
-
-## Efektivita procedury
-
-- vnímání před stabilizací instituce
-- vnímání po stabilizaci instituce
-
-časová náročnost mi naopak velmi vyhovuje, protoře je tam podaná žádnost, jsme vlastně operativně spojení přes FB skupinu, tzn. člověk má možnost ty příspěvky těch ostatních číst, může na to reagovat, pokud je na mejlu a… je tam dokonce v té rámci, v rámci té deliberalizace… je tam vlastně setkání s těmi ostatními, s těmi žadateli těch projektů, kteří mají možnost se vyjádřit, což se mi líbí… tzn.že jsme seznámeni s tím projektem, nějak jsme ho předběžně ohodnotili a potom vlastně se s nima setkáváme na nějaký závěrečný hodnocení a to netrvá nějak dlouho, dovedu si představit jako mnohem, mnohem důkladnější probírání těch cílů projektu. [komisar]
-
+Autor považuje za zajímavý stupeň důvěry členů komise (vyjádřený v prvních dvou citacích) v to, že vedení je kompetentní k případnému komentování její činnosti, je naznačeno, že nevnímají distanci mezi studenty a vyučujícími jako nepřekonatelnou. Takový postoj je protikladný vůči stanovisku některých členů vedení i senátu, co se týče působení vyučujícího uvnitř samotné komise.
 
 
 

@@ -15,3 +15,11 @@ hodnocení v kontextu vzniku instituce - záměry autorů a dalších aktérů
             - neznámý zůstatek v programu (propadlé žádosti na konci semestru, protože peníze došly)
 
     bylo vidět, že je těžký se vodnaučit to, že by třeba ta komise měla bejt na jednom místě a ty ostatní na tom druhým. I když je to v tom kruhu. KDyž jsem se třeba snažil to těm komisařů říkat, ať se třeba jako rozsaděj mezi ty lidi, tak to nakonec vlastně nikdy tak nebylo,
+
+    udržitelnost software
+
+    # propagace
+    bylo by dobré vytvořit pravidla pro propagaci toho, že jsou projekty sponzorovány stipendijním fondem. Např. umístění (a tedy vytvoření) loga na všech propagačních materiálech - srv. NFSFF.
+
+    # výpadek projektu
+    Stalo se taková "nepříjemná věc" - Security Teambulding se neuskuteční ani v náhradním termínu z důvodu malého počtu přihlášených. Jaké kroky bychom, …
