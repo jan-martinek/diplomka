@@ -1,6 +1,6 @@
 \chapter{Pro a proti: praxe komise}
 
-V této kapitole bude představena analýza východisek jednání aktérů, tedy určitých obecných hodnotových struktur, na jejichž základě jsou utvářeny postoje aktérů vůči konkrétním součástem praxe. Autor přicházel s určitým porozuměním situaci, které následně vystavil reflexi opakovaným čtením interní komunikace mezi aktéry a kódováním jednotlivých textů do kategorií. Dále bylo pořízeno šest rozhovorů s aktéry blízkými komisi (dvěma členy vedení a čtyřmi členy komise^[Celkový rozsah textové báze byl 323 827 znaků v 86 relevantních psaných textech interní komunikace (z celkových 517), 37 794 znaků v textech převzatých ze studentského časopisu Halas a 86 663 znaků v přepisech rozhovorů. Omezením vzorku je jednak relativně malý počet aktérů, dále soustředění na aktéry přímo spojené s komisí a vynechání členů Studentské komory AS a žadatelů o stipendia. V předem daném časovém omezení se však tento vzorek zdál být nejlépe reprezentativním --- pokrývá aktéry se zkušeností nejvíce odlišnou od zkušenosti autora, zároveň je díky dostatečnému množství možné sledovat, že jsou témata "vyčerpávána" a opakují se. Zdá se nicméně, že další rozšíření by i tak bylo stále hodnotné.]), z nichž byly vybrány klíčové citace a ty byly kódovány obdobným způsobem jako psané texty. 
+V této kapitole bude představena analýza východisek jednání aktérů, tedy určitých obecných hodnotových struktur, na jejichž základě jsou utvářeny postoje aktérů vůči konkrétním součástem praxe. Autor přicházel s určitým porozuměním situaci, které následně vystavil reflexi opakovaným čtením interní komunikace mezi aktéry a kódováním jednotlivých textů do kategorií. Dále bylo pořízeno šest rozhovorů s aktéry blízkými komisi (dvěma členy vedení a čtyřmi členy komise^[Celkový rozsah textové báze byl 323 827 znaků v 86 relevantních psaných textech interní komunikace (z celkových 517), 37 794 znaků v textech převzatých ze studentského časopisu Halas a 86 663 znaků v přepisech rozhovorů (celkem se zatím v komisi vystřídalo 11 komisařů). Omezením vzorku je jednak relativně malý počet aktérů, dále soustředění na aktéry přímo spojené s komisí a vynechání členů Studentské komory AS a žadatelů o stipendia. V předem daném časovém omezení se však tento vzorek zdál být nejlépe reprezentativním --- pokrývá aktéry se zkušeností nejvíce odlišnou od zkušenosti autora, zároveň je díky dostatečnému množství možné sledovat, že jsou témata "vyčerpávána" a opakují se. Zdá se nicméně, že další rozšíření by i tak bylo stále hodnotné.]), z nichž byly vybrány klíčové citace a ty byly kódovány obdobným způsobem jako psané texty. 
 
 Na tomto základě autor vymezil několik klíčových témat a názorových rozdílů, které pak dalším opakovaným čtením upravoval, doplňoval a ilustroval citacemi. Původně zamýšlené pochopení výchozí situace a motivů jednotlivých aktérů je kvůli časovému odstupu včleněno do širšího kontextu vnímání činnosti komise v prvním roce a půl její činnosti, nicméně zkrystalizovaná témata vypovídají (jednak díky možnosti využít průběžně vznikající interní komunikace a jednak kvůli stabilitě názorů zapojených aktérů) o celém období. Sám autor může přiznat, že jeho subjektivní vnímání významnosti některých témat (například efektivity fungování komise nebo její konvenčnosti) se v konfrontaci s touto širší textovou bází ukázalo být spíše menšinové. Celá kapitola je postavena na mnoha citacích, s nimiž je pracováno jako s reprezentací širšího jevu, případně dokladu, že daný jev existuje.
 
@@ -23,7 +23,7 @@ Vzhledem k tomu, že bylo identifikováno relativně velké množství rovin pro
 
 -   **problémy vzniku komise::** prava stávajícího stavu nebo předání pravomoci studentům; nejistá ochota komunity (a komise) participovat; volba mezi zavedenou konvenční praxí
 -   **pojetí smyslu komise:** delegace, případně delegace kompetentnějším; rozšíření participace na řešení problému; edukace komisařů
--   **pojetí smyslu stipendií:** odměna; podpora sociálně slabých osob; vyjádření politického názoru; uznání hodnotnosti aktivity; podpora neziskových aktivit; rozvíjení individuálních kompetencí; investice do propagace fakulty
+-   **pojetí smyslu stipendií:** odměna; vyjádření politického názoru; uznání hodnotnosti aktivity; podpora neziskových aktivit; rozvíjení individuálních kompetencí; investice do propagace fakulty; podpora sociálně slabých osob
 -   **předmět a povaha stipendia:** obecně formulovaný záměr nebo naplánovaný projekt; s tím související proplácení spíše honorářů nebo nákladů
 -   **otázka procedury hodnocení:** agregativní a konsensuální rozhodnutí; s tím související hodnocení samostatných projektů anebo záměrné řazení projektů za sebe; spor řešení jedněmi vnímané jako technokratické, dalšími jako jediné, které snižuje arbitrárnost rozhodování
 -   **deliberativní procedura:** prostředek hodnocení projektů (důraz na efektivitu); prostředek rozvoje prostředí (důraz na dlouhodobé působení)
@@ -61,7 +61,7 @@ Téma konvenční praxe komise se objevilo především v konstrukci termínů *
 
 ## Smysl komise
 
-Různí aktéři spatřují v komisi různý smysl, případně skládají své vnímání smyslu komise z více takových východisek --- autorovi se podařilo najít tři: 1) prostou delegaci problému, 2) rozšíření participace na jeho řešení a 3) edukaci komisařů.
+Různí aktéři spatřují v komisi různý smysl, případně skládají své vnímání smyslu komise z více takových východisek --- autorovi se podařilo vymezit tři: 1) prostou delegaci problému, 2) rozšíření participace na jeho řešení a 3) edukaci komisařů.
 
 ### Delegace problému
 
@@ -75,78 +75,97 @@ Koncept *delegace* je možné vystihnout i negativně --- pokud je na konkrétn�
 
 ### Rozšíření participace na řešení problému
 
+Druhým vymezitelným způsobem vnímání je rozšíření participace na širší pole aktérů --- především směrem ke studentům, ale s možností zahrnutí všech možných. Jednak jde o určitou formu *"samosprávy"* a zároveň jde o *"[nástroj pro kultivaci] prostředí"*. Role komise jako aktivujícího prvku, který umožňuje participaci širokého pole aktérů byla ukotvena jednak v požadavku otevřenosti a jednak v praxi diskusních setkání přímo Studentskou komorou.
 
+Prvním krokem je informovanost *veřejnosti* (*"i kdyby byl nějaký jiný způsob, který vybere dobré projekty, ale nebylo do něho pořádně vidět, tak je prostě horší, protože ti ostatní --- ti žadatelé a tak --- se v tom prostě nevyznají"*, citován jeden z komisařů) a *"zároveň to může plnit tu funkci, že ti studenti se tím pádem naučí jakoby chápat a vnímat, co to jsou ta stipendia atd."*. 
 
+Zajímavým nakročením k participaci všech mohlo být narušení principu komise coby jednotného rozhodovacího orgánu, které se postupně podařilo do praxe komise vnést. Takovou situaci popisuje jeden z členů komise:
 
+> *"Jsme se bavili o tom, kolik by lidi měli dostávat lidi za hodinu (...), tak tam byly spory mezi komisařema a začali se tam hádat i před těma lidmi a já se snažil těm lidem vysvětlit, že to není nic negativního, že od toho tam jsme, abychom se o tom takhle bavili, že ta komise je založená na tom, že ti lidi spolu nemusejí souhlasit a že tam jsou právě pro to, že mají nějaký určitý názor."*
 
-vytvořit možnost samosprávy balíku peněz, který jinak by muselo rozhodovat vedení, proděkan nebo proděkani [vedeni]
-
-je to nástroj jak třeba kultivovat to prostředí, ty lidi se víc zajímali o to, co se děje s těma stipendijníma penězma, že je možné to ovlinit [vedeni]
-
-
-myslím, že se podařilo té stipendijní komisi v průběhu toho co jsem mohl pozorovat zevnitř jakoby mnoho témat jako formulovat, vyjasňovat si i třeba snad pomoci vyjasnit, co ta komise má být vůči tomu senátu, protože si pamatuješ, že na začátku to bylo vlastně všechno takové hrozně rychlé… [komisar]
-
-Zároveň to může plnit tu funkci, že ti studenti se tím pádem naučí jakoby chápat a vnímat, co to jsou ta stipendia atd. atd. [komisar]
-
-Spousta lidí se věnuje spousta činnostem ve své každodenní realitě a možná, že by si i přáli, aby udělali volbu jednou za 4 roky nebo jednou za 2 roky a 2 roky se potom mohli věnovat něčemu jinému a nechtějí být pořád o něčem informováni a vyzýváni k tomu, aby vyjadřovali svůj názor.
+Diskuse tak mohla "přetéct" mimo hranice komise a účastnili se jí i žadatelé jiných projektů --- mohlo tak docházet ke kritičtější reflexi a zároveň k lepšímu pochopení společných problémů.
 
 ### Edukace komisařů
 
-Sekundárním cílem, často zmiňovaným členy vedení, je edukace komisařů.
-
-Stimulační… já to vnímám… jako možnost, aby lidé, kteří budou jednou dělat rozhodnutí, důležitá rozhodnutí, měli možnost úplně reálně třeba ovlivnit něco, co má dopady v té materiální oblasti. Jednou budete prostě ve firmě, jednou budete mít na starosti třeba 20 lidí a budete jim muset rozdělit práci, budete muset vyhodnotit tu jejich práci, budete jim muset dát peníze, budete muset rozhodnout o investici a tak dále. [vedeni]
-
-Ať se naučí vlastně rozhodovat… … pozitivně negativně zdůvodňovat ta svá rozhodnutí a dívat se na to s nějakou perspektivou, co vlastně se stane, ať sami řeknou "takhle aktivita je pro nás žádoucí, my chceme ji podporovat" a ti kteří podávají ty projekty se učí tomu, jak to v reálném životě chodí: když podáváte grant, tak musíte zdůvodnit, musíte vysvětlit ty náklady A když to dostanete, tak potom odvést nějakou tu práci, a ti ostatní se ptají "no bylo to za ty peníze, nebylo to za ty peníze" tak o tom to je, jako proces jako trošku edukativní [vedeni]
-
-už rozhodujete prostě o konkrétních osudech lidí, o konkrétních penězích, o konkrétních výstupech, už to není takové to jako jenom studentské "bude zábava, bude legrace", ale (smích) [vedeni]
-
-
-
-
-
-
-
-
-
-
+Sekundárním cílem, zdůrazňovaný členy vedení, je individuální edukace a osobní rozvoj komisařů. Role komise je pak *"stimulační"* pro ty, kteří mají příležitost v komisi *"coby lidé, kteří budou jednou dělat (...) důležitá rozhodnutí, úplně reálně třeba ovlivnit něco, co má dopady v té materiální oblasti"*. Zrcadlí se zde pojímání vysoké školy coby přípravného "pískoviště" před nástupem do zaměstnání. Člen vedení doplňuje: *"už rozhodujete prostě o konkrétních osudech lidí, o konkrétních penězích, o konkrétních výstupech, už to není takové to jako jenom studentské ‚bude zábava, bude legrace‘ (smích)"*.
 
 
 
 ## Smysl stipendií
 
-odměna/stimulace
-podpora sociálně slabých osob
-vyjádření politického názoru, uznání hodnotnosti aktivity
-podpora neziskových aktivit
-rozvíjení individuálních kompetencí
-investice do propagace fakulty (pozice Min. kultury)
+Vedle smyslu komise coby mechanismu je snad ještě podstatnější pro různé aspekty činnosti komise smysl samotných stipendií. Následující seznam nejspíše není vyčerpávající; jednotlivé "smysly" nejsou vzájemně exkluzivní --- nicméně míra, v níž jsou zastoupeny v konkrétním pohledu na komisi předurčuje konkrétní řešení a postoje vůči institucionální praxi.
+
+### Odměna a stimulace
+
+Prvním smyslem je prosté odměnění studenta bez dalších nároků na "cokoli". Tento pojem zahrnuje některé následujících, ale je důležitý sám o sobě, protože neklade žádné předem stanovené nároky na to, co by mělo být odměněno či stimulováno, nevyžaduje žádnou konkrétní podobu vykonávané aktivity. *"Na co vlastně ty peníze potřebují mě ani tak nezajímá, jako mě zajímá, jestli je  [tu činnost] ten student dělá pro svůj rozvoj, pro rozvoj ostatních, proto aby nějak zabydloval ten prostor na fakultě, potažmo univerzitě, potažmo v Brně,"* dodává jeden z komisařů. Očekávaným předmětem stimulace stipendiem pak mohou být především společenské pozitivní aspekty vykonávání společných aktivit, *"tohle může být ten největší benefit, který ty studenti pak jako budou mít jako v tom životě, že se třeba seznámí, vzniknou tam nějaký třeba přátelství, můžou z toho vzniknout nějaký třeba firmy, nějaký přátelství třeba na politický úrovni…"*
+
+Výše takové odměny by se neměla odvozovat od nákladů, minimálně ne přímo. Objevují se pojmy jako *"hodnota ušlé příležitosti"*. Jeden z členů komise upřesňuje: *"Proč by nemohl žádat o stipendium někdo, kdo vlastně za to nedal jedinou korunu, zorganizoval nějakou dobrou diskusi, akci nebo se třeba jenom pravidelně schází s někým a diskutuje třeba o politice. Tak nevidím, proč by měl dostat třeba míň peněz než někdo, kdo tomu věnoval třeba mnohem méně času a přitom měl velké náklady."*
+
+### Vyjádření politického názoru, uznání hodnotnosti aktivity
+
+Dalším smyslem stipendia, který prostupuje ostatními, je vyjádření názoru --- preference společenství, případně jeho reprezentantů (objevují se obě varianty). Podle vedení *"tím, že někomu dáte to stipendium, říkáte, že ta jeho aktivita je víc žádoucí než jiná, na kterou to stipendium nedáte"*. V kontextu nové komise je podstatné právě přenášení důrazu na usnášení se v rámci vlastního společenství; člen vedení tohle propojuje s výše zmíněnou edukativní rovinou fungování komise: *"Ať se [studenti] naučí vlastně rozhodovat… pozitivně, negativně zdůvodňovat svá rozhodnutí a dívat se na to s nějakou perspektivou, co vlastně se stane, ať sami řeknou ‚takhle aktivita je pro nás žádoucí, my ji chceme podporovat‘."*
+
+### Podpora neziskových aktivit
+
+Pojímání studentských aktivit coby ekvivalentu fungování NGOs v rámci občanské společnosti je další variantou jak dávat stipendiím smysl --- *"jsou to vlastně  aktivity, které by těžko někdo zaplatit jako v klasickém tržím pojetí a společnosti jsou prospěšné"*, dodává člen stipendijní komise. Studenti tak coby dobrovolníci, případně do jisté míry honorovaní pracovníci, vykonávají určitou aktivitu a stipendiem jsou jim hrazeny náklady na vykonávanou aktivitu a případný honorář (k tomu více viz níže podkapitolu *Předmět a povaha stipendia*). Role komise pak přebírá získává *pře-rozdělovací* status.
+
+Pro některé aktéry je v tomto ohledu podstatné, že Stipendijní fond získává peníze prostřednictvím poplatků studentů, je tedy vhodné, aby z nich byly hrazeny další nejrůznější aktivity studentů, kteří *"je můžou využít zas pro sebe, pro nějaký užitečný cíl"*.
+
+### Rozvíjení individuálních kompetencí
+
+Stipendium má kromě efektu společenského též aspekt individuální: *"prostě ty studenty stimuluje k větší aktivitě, něčemu smysluplnému, co by třeba nedělali v takovém rozsahu nebo vůbec… samozřejmě jako dodatečný zdroj motivace."* dodává člen vedení. Tento pohled sdílí i někteří členové komise, stipendista by měl *"načerpat zkušenosti, které ho vlastně obohatí ve studiu nějakého oboru"* (zde daný aktér dokonce míří přímo k rozvíjení kompetencí spojených se studiem).
+
+### Podpora sociálně slabých osob
+
+*"Stipendium má plnit tuhle funkci, to znamená pomáhat studentům vlastně tady k tomu, aby nemuseli pracovat, aby nemuseli shánět peníze na ty svoje aktivity nikde jinde,"* tvrdí jeden z členů komise a další jej doplňuje tím, že by *"dával [peníze] těm sociálně slabším… (...) třeba to bylo proplacení jízdenky pro přednášejícího, (...) když by bylo víc projektů, větší přetlak projektů, tak bych podpořil ty neziskovější."*
+
+### Investice do propagace fakulty 
+
+Posledním identifikovaným smyslem stipendia je podpora reprezentace fakulty. Spolková a kulturní činnost je *"věc, která vypadá pěkně i navenek (...) [to uvádíme] v různých materiálech pro uchazeče, že je tady třeba bohatá spolková činnost, což (...) ne úplně doceňují"*, říká člen vedení fakulty, který stipendium hodnotí jako *"dobře investované peníze. V tom rozsahu (...) to jsou peníze, které se fakultě vrátí"*. Stipendijní fond tak má z tohoto pohledu podobnou roli jako resort kultury na úrovni státu --- podporuje potenciální reprezentanty interní kultury (přirovnání použito respondentem).
 
 ## Předmět a povaha stipendia
 
-záměr
-projekt
+Pravděpodobně nejdůležitějším hodnotovým sporem je ten, vyjádřitelný opozicemi *záměr --- projekt* a s nimi související *vyplácení honoráře --- kompenzace nákladů*. S oběma jsme se již setkali výše, protože tento konflikt hodnotových východisek formoval do značné míry diskusi aktérů v prvním půlroce fungování komise.
 
-proplacení honoráře
-proplacení nákladů
+Členové komise se v tomto ohledu mezi sebou výrazně liší: od výše citované pozice přiznávající stipendium především jako odměnu za přínosnou činnost, ať pro skupinu či jedince samotného, přes postoj *"lepší je, když tam je nějaká kombinace nějakých těch provozních nákladů a pak třeba ještě nějaké ohodnocení"* až po výraznou preferenci proplácení nákladů úplným dobrovolníkům, vyjádřenou následovně: *"honoráře za něco, s tím jsem už měl trochu problém… [Kdyby byl] větší přetlak projektů, tak bych podpořil ty neziskovější."*
+
+Vedení školy se v tomto ohledu opět vrací k myšlence edukativního aspektu stipendií, tentokrát mířeno na žadatele, ti *"se učí tomu, jak to v reálném životě chodí: když podáváte grant, tak musíte zdůvodnit, musíte vysvětlit ty náklady. A když to dostanete, tak potom odvést nějakou tu práci, a ti ostatní se ptají, [jestli to stálo] za ty peníze."* Právě grantovou logiku ale někteří členové komise zpochybňují s ohledem na své kompetence (*"k tomu aby člověk mohl ohodnotit rozpočet, tak to vyžaduje nějakou zkušenost s těmi rozpočty a to si myslím, že jsme nikdo v té komisi neměli"*) a zároveň odůvodňují vlivem širšího kontextu na akademické prostředí: *"to možná souvisí skutečně s určitým pragmatismem, který na té univerzitě tak trošku je. Jsme zvyklí o ty peníze žádat jako o granty a vydělávat si a podobně, takže jakoby ten duch té univerzity je tak nahlodaný tady tou ekonomizací, s níž se asi nedá nic dělat jako radikálně, to prostě jakoby je logický důsledek nějakých složitějších společensko-ekonomických poměrů, které já rozhodně měnit sám nechci."* Opakovaná přirovnání stipendijní praxe k nějakému pozdějšímu procesu v zaměstnání, k *reálnému životu*, ze strany vedení fakulty i komisařů takovému pozorování nasvědčují.
+
+Protilehlá poloha, vnímající předmět stipendia jako *záměr* (ať již realizovaný nebo teprve budoucí), chce přistupovat ke každé podané žádosti individuálním způsobem a klást vedle sebe její různé jedinečné vlastnosti. Komise je pak dle jednoho z komisařů *"politický orgán v uvozovkách. Máme rozhodovat na základě diskuse mezi sebou a mezi těmi, co podávali vlastně ty návrhy, o tom, co nám přijde jako dobré a co by se mělo podpořit a co ne"*. Pro takový způsob hodnocení jsou předem připravené kategorie, *"které jsou v uvozovkách objektivní"*, a v nich udělované body *"mechanickým, až jakoby technickým řešením té situace"*.
 
 ## Hodnocení
 
-individuální hodnocení
-hodnocení komisí
+S předchozím bodem těsně souvisí povaha hodnocení. Ta se skládá ze dvou složek.
 
-hodnocení každého projektu
-srovnávání mezi projekty
+1) **Hodnocení kolektivní**, v němž se komise takříkajíc "za zavřenými dveřmi" dohodne, a **hodnocení agregativní**, ve kterém dochází k nějaké automatizované agregaci názorů jednotlivých členů komise.
+2) **Hodnocení každého projektu samostatně**, při němž je každý z projektů ohodnocen a z hodnocení vyplynou oceněné projekty, a **hodnocení projektů en bloc**, v němž komise (jako celek nebo její členové) posoudí, které projekty jsou lepší jejich vzájemným porovnáváním.^[Při navrhování komise existovala i varianta, že každý z komisařů jednoduše seřadí projekty od subjektivně nejlepšího po nejhorší a daná pořadí se sečtou. Od řešení bylo upuštěno, protože by pro vyšší spolehlivost vyžadovalo velké množství komisařů (aby nedocházelo příliš často ke shodnému pořadí více projektů) a nebylo by možné dlouhodobě sledovat, zda existuje nějaká stabilní sada kritérií, podle nichž se komisaři orientují.]
 
-technokratické řešení
-arbitrárnost rozhodování
+Z těchto dvou východisek především vycházel spor, který reprezentuje kritika *technokratického řešení* na straně jedné a předcházení *arbitrárnosti hodnocení* na straně druhé. Praxe komise pracující s agregativním hodnocením, v němž je výsledek složen z hodnocení samostatných projektů, podle kritiků *"nijak nezúročuje [zkušenosti hodnotitelů]. Pouze je rozdistribuovává do systému hvězdiček. (...) Demokracie sice není dokonale efektivní, ale ideově je nejlepší v tom, že odráží to, jaký je člověk. A v lidské společnosti se nacházíme a jí se snažíme i jako sociální vědci rozumět."* Člen Studentské komory protiargumentuje tím, že konsensuální hodnocení, v němž neexistují předem daná kritéria hodnocení, vede k tomu, že proces není pro žadatele důvěryhodný: *"Pokud přiřkneme stipendijní komisi --- a je jedno, jak jsou její členové kvalitní, nezaujatí a kompetentní --- takové pravomoci, kdy bude rozhodovat skupinově a konsensuálně, bude to krok zpět. Nabízí se příklad --- výběr vás, komisařů. Nespokojený nevybraný kandidát se dotazoval, jak výběr proběhl, jaká kritéria výběru byla použita apod. Odpověď [kolegy]: ‚Nemůžu mluvit za celou komoru, šlo o kolektivní rozhodnutí, takže je zachována určitá neprůhlednost.‘ To je přesně to, co nechceme."*
 
-
-nejsme grantová komise, protože grantová komise by musela být složena z odborníků [komisar]
+Tento polární spor bylo do jisté míry možné přemostit proměnlivostí kritérií, ale v dlouhodobém výhledu může zůstávat inspirací pro další proměny fungování komise.
 
 ## Deliberativní procedura
 
+Roli diskusního setkání (tedy prostřední fáze procesu hodnocení---diskuse---hodnocení) je možné vnímat jednak instrumentálně: cílem je posunutí diskuse ohledně hodnocených projektů (důraz je kladen na efektivitu a soustředěnost diskuse). Diskuse může být ale i prostředkem rozvoje prostředí (důraz je kladen na podrobné prozkoumání problémů, které se v diskusi objeví, a důsledků, které pro žadatele a jejich nakládání se stipendii mají). Obě role je jako obvykle možné naplňovat zároveň, ale při zvažování konkrétních změn institucionální praxe je vždy přítomné pnutí mezi oběma cíli.
+
+
+
+
 prostředek hodnocení projektů (důraz na efektivitu)
+
+Mě úplně nejvíc zaujalo a hrozně bavilo to jak jsi úplně za čaátku řikal, že v tý komisi třeba záleží na tom, jak si sednem během toho diskusního kola, tak jsem byl k tomu takovej skeptickej, že to je jako jedno, jak si sednem, ne. Ale když bylo úplně to první, tak jsme si opravdu sedli tak, že na jedný straně byla ta komise a na druhý straně ta žadatelé a s tím, že oni se jako měnili a byl tam vždycky jenom ten jeden. A fakt to vypadalo jakože ho vyslýcháme a ty lidi byli ve stresu a bylo takový jako nepříjemný určtiě pro ně, ale i pro nás. [komisar]
+
+
+
 prostředek rozvoje prostředí (důraz na dlouhodobé působení)
+
+Mě přišla na tom nejdůležitější, nebo nejlepší byly ty chvíle, kdy jsme se vlastně dostali k něčemu podstatnému ve vztahu k fakultě, to pro mě bylo hodně zajímavý, konkrétně třeba když jsme řešili, že nějaký projekt, který žádal o stipendia, nám přišel, že by měl žádat jakoby podporu své katedry, že to souviselo s výzkumem, typicky to byly věci z politologie a tak… tak jsem vlastně tam vlastně diskutovali o tom, proč to máme vlastně… proč je vlastně třeba na to žádat stipendia, proč to nepodporuje katedra, co všechno by měla podporovat škola, co všechno by si už měli studenti shánět sami a to sjou přesně ty chvíle, kdy se podle mě tříbí nejen to, co jsou podle mě stipendia, ale tříbí se i přístup toho studenta k té škole a případně můžeme zpětně my jako komise dávat té SK AS reflexi, jakoby zezdola, v uvozovkách, to znamená, kde jsou potenciálně nějaké třeba třecí plochy na té fakultě nebo kde by ta samospráva mohla třeba pomoci i pro nějaký jakoby lepší vztah a lepší komunikaci a tak dále, takže to pro mě bylo nejcennější. Co pro mě naopak bylo nejméně cenné, byly ty chvíle, kdy jsme se hádali, jestli balík ačtyřkových papírů stojí tolik a tolik peněz, to mi přišlo k ničemu. [komisar]
+
+i do budoucna, to co pro mě je na tom nejcennější, na fungování té komise jako nějakého orgánu toho senátu nebo té studentské komory je právě to, že to může být vlastně nějaký prostor pro nějakou licitaci, diskusi a neustálé hledání jako by té pozice těch stipendií, vždycky nové a nové s těmi lidmi, který tam budou at ůž v tom senátu nebo v té komisi [motal]
+
+jsme s Matějmem vymysleli, že budeme mít 10 minut na projektch, v prvních třech minutách se představěj, v těch zbylejch minutách se bude diskutovat. Dneska se teda ukázalo, že na představení je třeba tak pět minu [weiner]
+
+
 
 ## Pozice hodnotitelů uvnitř komunity
 
@@ -161,6 +180,26 @@ benefity
 to by třeba musela ta obec akademiků, nemyslím celá AO, ale obec akademických pracovníků fungovat jinak než jak funguje na naší fakultě a než asi jak funguje na většině univerzit, že by se třeba ti akademičtí pracovníci museli v nějakých velkých počtech navzájem scházet, takže tam by třeba ten jeden z nich referoval, že byl na tom setkání té stipendijní komise, že se tam probíralo to a to, ale takhle se mi zdá, že není organizován život pracovníků na žádné univerzitě. [vedení]
 
 - na jednu stranu by se zapojil [měl by co říct], ale na druhou stranu si nemyslí, že by mělo co říct coby akademik
+
+byl bych rád, aby členem byli lidé ze spolků, ale i např. jeden z akademických pracovníků, protože je to forma externí kontroly – například pokud se u něj bude objevovat hodnocení BULLSHIT u některých projektů a u studentů ne, můžeme se ptát, jestli někde není problém. [autor]
+
+preco? akoze je to studentsky stip fond pre studentov. nejaku pridanu hodnotu v zamestnancovi nevidim (o co je lepsia jeho skusenost ako skusenost mgr studenta?) + obaval by som sa toho, ze bude mat mensiu ochotu deliberovat a pocas deliberacie z pozicie jeho autority by mohli mat jeho slova vacsi dopad na (kludne to aj nazvime manipulativny) na zbytok studentskej komisie + generacny problem, obaval by som sa ze ta komunikaci aby viazla z nejakeho ostychu ostatnych a uz spomenuteho prilisneho respektu (vsetky tie vykacie ceremonie...) vidim v tom viac nevyhod ako vyhod osobne. som teda proti [senator]
+
+
+
+vyjádřila nějaký dost pozitivní vztah ke stipendijní komisi, protože sama jsem se studenty stipendium využila, jeli jsme se studenty na cestu do Vídně, po stopách Viktora Frankla [komisar]
+
+chtěla jsem vědět, jací jsou dnes studenti, chtěla jsem vědět, jaký mají projekty, jaký mají zájmy, trochu mám zájem že jako učitelka jsem trošičku odtržená [komisar]
+
+je to pro mě zajímavý [komisar]
+
+jsem byla asi před šesti lety v akademickým senátu a vlastně teď se vlastně trošičku v těch univerzitních aktivitách, jsem se do nich vrátila ve formě té stipendijní komise [komisar]
+
+Tak si nejsem úplně jistý, jestli vlastně vyučující jsou pro rozhodování tady téhle komise nějaká speciálně cenná veřejnost, jestli vyučující… asi jsou hodnotnější než třeba nějaký člověk z ulice, ale kladu si třeba otázku, jestli třeba vyučující z hlediska akcí, které se konají tady na fakultě, tak jestli jsou třeba hodnotnější než třeba nějaká pracovnice třeba na ekonomickém oddělení. [vedení]
+
+lidé, kteří se tam přihlásili jako akademičtí pracovníci, tak do značné míry se tam přihlásili třeba z vlastního zájmu o tu věc, a to je potom fajn, že. Vlastně měli takovouhle další možnost se podílet na životě fakulty. Pro ně jako to možná mohlo být cenné právě v tom, že tam viděl pomocí jakých kritérií si třeba rozdělujífinanční prostědky a může to třeba v budnoucnu využít třeba v takových tělesech různých agentur, které zase rozdělují peníze, může třeba i něco z fungování téhle komise přenést tam, [vedení]
+
+Já jsem nebyl v pozici studenta, ale zase k tomu přistupoval tak, že jsem za prvé jako hodně zapojený do různých aktivit těch studentů na FSS, nikdy jsem se úplně tak nepočítal a do dneška neberu jako takovej ten klasický zaměnstanec, to je jedna věc a druhá věc je ta, že jsem si myslel, že bych mohl nějak tak svým nzorem a zkušeností přispět k té diskusi a to bylo i to, co jsem si od toho sliboval a to bylo nějaké rozvíření té diskuse u těch stipendií. [komisar]
 
 
 ## Zpětnovazebné vztahy a pozice komise v kontextu instituce
@@ -196,6 +235,8 @@ s vedením… s [děkanem] jsem si poprvé podal ruku minulý týden na Dni FSS 
 
 - vnímání před stabilizací instituce
 - vnímání po stabilizaci instituce
+
+časová náročnost mi naopak velmi vyhovuje, protoře je tam podaná žádnost, jsme vlastně operativně spojení přes FB skupinu, tzn. člověk má možnost ty příspěvky těch ostatních číst, může na to reagovat, pokud je na mejlu a… je tam dokonce v té rámci, v rámci té deliberalizace… je tam vlastně setkání s těmi ostatními, s těmi žadateli těch projektů, kteří mají možnost se vyjádřit, což se mi líbí… tzn.že jsme seznámeni s tím projektem, nějak jsme ho předběžně ohodnotili a potom vlastně se s nima setkáváme na nějaký závěrečný hodnocení a to netrvá nějak dlouho, dovedu si představit jako mnohem, mnohem důkladnější probírání těch cílů projektu. [komisar]
 
 
 
