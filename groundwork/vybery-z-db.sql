@@ -50,3 +50,11 @@ SELECT r.ratingCategoryID, projects.roundID, STD(r.rating)
 FROM projects, ratings as r
 WHERE (r.projectID = projects.id AND r.phase = 'secondRating')
 GROUP BY r.ratingCategoryID
+
+# očištěné o vypadnuté projekty
+
+SELECT rounds.name, ratingCategories.name, STD(r.rating)
+FROM projects, ratings as r, ratingCategories, rounds
+WHERE (r.projectID = projects.id AND r.phase = 'firstRating') AND r.ratingCategoryID = ratingCategories.id
+AND projects.roundID = rounds.id AND projects.firstRatingIneligibility < 2 AND projects.secondRatingIneligibility < 2
+GROUP BY r.ratingCategoryID
