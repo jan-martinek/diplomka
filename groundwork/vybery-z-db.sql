@@ -44,7 +44,7 @@ GROUP BY projects.roundID
 SELECT r.ratingCategoryID, projects.roundID, STD(r.rating)
 FROM projects, ratings as r
 WHERE (r.projectID = projects.id AND r.phase = 'firstRating')
-GROUP BY r.ratingCategoryID
+GROUP BY r.ratingCategoryID, projects.id
 
 SELECT r.ratingCategoryID, projects.roundID, STD(r.rating)
 FROM projects, ratings as r
@@ -58,3 +58,19 @@ FROM projects, ratings as r, ratingCategories, rounds
 WHERE (r.projectID = projects.id AND r.phase = 'firstRating') AND r.ratingCategoryID = ratingCategories.id
 AND projects.roundID = rounds.id AND projects.firstRatingIneligibility < 2 AND projects.secondRatingIneligibility < 2
 GROUP BY r.ratingCategoryID
+
+# std error podle kritérií a projektů očištěné o nedoporučované projekty (první/druhé hodnocení)
+
+SELECT r.ratingCategoryID, projects.id, projects.roundID, STD(r.rating)
+FROM projects, ratings as r
+WHERE (r.projectID = projects.id AND r.phase = 'firstRating')
+AND projects.firstRatingIneligibility < 2 AND projects.secondRatingIneligibility < 2
+GROUP BY r.ratingCategoryID, projects.id
+ORDER BY roundID
+
+SELECT r.ratingCategoryID, projects.id, projects.roundID, STD(r.rating)
+FROM projects, ratings as r
+WHERE (r.projectID = projects.id AND r.phase = 'secondRating')
+AND projects.firstRatingIneligibility < 2 AND projects.secondRatingIneligibility < 2
+GROUP BY r.ratingCategoryID, projects.id
+ORDER BY roundID
