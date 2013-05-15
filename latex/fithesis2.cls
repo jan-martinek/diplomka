@@ -353,7 +353,7 @@ Advisor:
 \begin{alwayssingle}
 \thispagestyle{empty}
 \begin{center}
-{\sc \universityname\\ \facultyname}
+{\sc \universityname\\ \facultyname\\ Katedra politologie}
 \vskip 1em
 
 % if FI then logo in METAFONT format will be typeset

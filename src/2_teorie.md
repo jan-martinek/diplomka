@@ -50,7 +50,7 @@ Dryzek se jednak odvolává na Foucaultovo pozdější zjemnění kategorie disk
 
 # Deliberativní experiment
 
-Dosažení podmínek, v nichž může existovat deliberativní praxe, je z  hlediska vytvoření pravidel, kterými se fungování instituce může řídit, zdánlivě nenáročné -- tato praxe může existovat coby základní vrstva politického uspořádání založeného na reprezentaci (deliberativní principy mohou být uplatňovány v běžné diskusi zvolených reprezentantů), ale velmi netriviální v rovině utvoření funkční veřejné sféry --- prostředí uschopňujícího k rozumné argumentaci a vytvářejícího pro ni prostor. Pro mnoho aktérů politického uspořádání (etablované reprezentanty, zájmové skupiny, voliče atd.) je udržování statu quo ve způsobu vedení komunikace (především konfliktní a marketingové) vnímáno jako snadnější, výhodnější a často i jediná možná varianta.  
+Dosažení podmínek, v nichž může existovat deliberativní praxe, je z hlediska vytvoření pravidel, kterými se fungování instituce může řídit, zdánlivě nenáročné -- tato praxe může existovat coby základní vrstva politického uspořádání založeného na reprezentaci (deliberativní principy mohou být uplatňovány v běžné diskusi zvolených reprezentantů), ale velmi netriviální v rovině utvoření funkční veřejné sféry --- prostředí uschopňujícího k rozumné argumentaci a vytvářejícího pro ni prostor. Pro mnoho aktérů politického uspořádání (etablované reprezentanty, zájmové skupiny, voliče atd.) je udržování statu quo ve způsobu vedení komunikace (především konfliktní a marketingové) vnímáno jako snadnější, výhodnější a často i jediná možná varianta.  
 
 Transformace způsobu argumentace reprezentantů předpokládá ocenění této změny celou veřejností -- je však nepravděpodobné, že by k této změně došlo nějakým skokovým způsobem. Z tohoto důvodu jsou nejčastější formou snah o uvádění deliberativních praktik do praxe nikoli deliberativní revoluce, ale různorodé demokratické experimenty, soustředěné na (vy)řešení specifického problému, dosahem omezeného na užší populaci a nějakým způsobem inkorporující ve svých procedurách deliberaci ve formě diskuse cílené na vzájemné poznání argumentů, preferencí a hodnot účastníků. 
 
@@ -66,13 +66,15 @@ Prvkem, který překračuje hranici mezi demokratickou teorií a institucionáln
 
 4)  *Rozhodnutí není zásadním prvkem experimentu:* Cílem je ovlivnění veřejné diskuse, zvýšení participace a informovanosti občanů, případně zjištění informovaného názoru veřejnosti na určitou problematiku (tzv. market testing).
 
-TODO: Doplnit tři stupně hodnocení deliberativního experimentu.
-
 ## Blaugova polární opozice
 
 Ricardo Blaug v tomto kontextu vymezuje spor mezi *úřadující ("incumbent")* a *kritickou demokracií*. Úřadující demokracie se snaží zlepšit *a zároveň ovládat* participatorní vstupy skrze směrování ("channeling"), zjednodušování a racionalizaci institucionalizovaných zprostředkovatelských kanálů politické vůle ("institutionalized conduits"); zatímco *kritická demokracie* vzniká na okraji a staví se do sporu o povahu vládnutí úřadujícího, elitního způsobu vládnutí ("incumbent elite governance") \cite[199]{smith}. 
 
 Blaugovo rozdělení je ve více definičních rozměrech problematické, jak bude podrobněji ještě níže podrobněji rozebráno v kapitole páté, týkající se institucionálního designu; v krátkosti je z hlediska institucionálního návrhu deliberativních experimentů zajímavé právě překročení jím definované dichotomie: podstatný je zde nikoli pouhý záměr umožnění konání deliberativní praxe (ta je *možná* v instituci definované téměř libovolnými pravidly) a získání potřebného výstupu, ale záměrné *vkládání příležitostí a incentivů* ke skutečné realizaci této praxe. Nejde tedy o pouhé směřování zprostředkované politické vůle (přestože praxe může být vytvářena *úřadující* vládou, např. pro zvýšení legitimity vlastního rozhodování), ale o vytváření prostoru pro vznik deliberace -- iniciátoři těchto experimentů se *explicitně vzdávají části ovládání procesu*: výsledek neplyne z co nejpřesnějšího *"přečtení"* politické vůle veřejnosti, ale z *utváření jejího obsahu* v rámci institucionální praxe. Normativní demokratická teorie je tak zcela úmyslně přetvářena v motivovaně utvářené instituce.
+
+## Hodnocení experimentu
+
+Autor tohoto textu ve své předchozí práci \citep{bakalarka} vymezil možný způsob hodnocení deliberativních experimentů ve třech úrovních: v rovině *politické*; dle *praktické validity designu* a z hlediska toho, *zda se praxí experimentu podařilo ovlivnit veřejný diskurs*. Podrobněji budou tato měřítka přiblížena v kapitole 7.2, která se přímo zabývá hodnocením předmětu této práce, nově vytvořené stipendijní komise.
 
 # Institucionální design --- logika praxe
 
