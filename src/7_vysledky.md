@@ -132,14 +132,29 @@ Zdá se, že procedura hodnocení zapojující diskusní ("deliberativní") elem
 
 # Tři úrovně působení experimentu
 
+Autor tohoto textu zpracoval ve své předchozí práci \citep[11---13]{bakalarka} návrh možného způsobu hodnocení deliberativních experimentů, který se nesoustředí na konkrétní detaily experimentu, ale sleduje experiment jako celek, jehož účelem je prosazovat demokratické hodnoty. 
+
+Demokratická inovace může být hodnocena na třech úrovních: v rovině *politické*, dle *praktické validity designu* a z hlediska toho, *zda se praxí experimentu podařilo ovlivnit veřejný diskurs*.
+
+## Politická rovina
+
+"První z nich je rovina politická, tedy naplnění vlastního účelu experimentu. Ptáme se zde, zda provedení experimentu přispělo k vývoji či řešení určité politické otázky." (ibid.: 11) Cílem stipendijní komise, který je jako základní vnímán všemi aktéry, tedy rozdílení stipendijních prostředků, komise  naplnila. Sekundární cíl, tedy integrace a zlepšení komunikace byl naplňován také, nicméně v tomto případě nejde o cíl dosažitelný --- komise by měla zůstat prostorem, kde v souvislosti s hodnocením projektů dochází k diskutování nejrůznějších problémů, reflexi stavu spolkových aktivit a podobně.
+
+## Praktická validita designu
+
+"V druhém sledu je možné hodnotit výsledek v rovině *praktické validity designu deliberativního experimentu*. Podařilo se experiment zorganizovat dle představ jeho tvůrců?" (ibid.: 12) Zpětným pohledem na první záznamy o tom, jak bude fungovat mechanismus komise (dostupné v *Příloze G*), je možné ověřit, že většina pravidel byla realizována podle původního záměru. Praktickou validitu designu však nemůžeme vnímat pouze jako splnění všech podmínek písmeno od písmena. Experiment je validní z hlediska svého designu především pokud se aktéři zúčastňují praxe a naplňují ji tak, aby bylo dosahováno přesvědčivého výsledku --- aby praxe ústila v legitimně vnímaná rozhodnutí.
+
+V tomto ohledu byla praxe komisařů zpočátku problematická, protože sami užívaný mechanismus zpochybňovali a přijetí například ve studentském časopisu bylo velmi smíšené. Postupně docházelo k jeho adopci a zpětně není samotný mechanismus vnímán jako nevhodný ani svými odpůrci, jak popisuje jeden z komisařů: *"můj odchod nebyl nějaký protestní, byl to prostě odchod s tím, že jsem se s tím systémem nesžil; nebo jsem s ním jako vnitřně nesouhlasil, ale tím neříkám, že je prostě špatný, ale že je jenom špatný vzhledem k tomu, jak já bych si to představoval."* Zároveň probíhalo hodnocení a jak samotní  žadatelé o stipendium, tak vedení fakulty přistupovalo k výsledkům pozitivně a konstruktivně. 
+
+## Rovina ovlivnění veřejného diskursu
+
+"Třetí rovinou je schopnost experimentu ovlivnit veřejný diskurs --- a to spíše než jen v souvislosti s danou problematikou (což je do značné míry reflektováno již v rovině první), tak v obecné rovině dané politické obce. (...) [T]eoretici deliberativní demokracie předpokládají, že účast na deliberaci (coby specifickém komunikačním aktu) ‚[zvyšuje názorovou racionalitu, zlepšuje občanské kompentence nebo obohacuje demokracii]‘." (ibid.)
+
+Zúčastnění aktéři popisují činnost v komisi jako zajímavou a obohacující, ať již díky setkáním s dalšími lidmi nebo díky přesahu k širším tématům spojených se studentským životem a společností. Co se týče ovlivnění širšího kontextu, experiment zatím příliš úspěšný není --- nepodařilo se překonat hranici mezi vedením a studenty. Jako důležité je vnímáno spíše předání odpovědnosti Studentské komoře AS a členové vedení spíše nejsou seznámeni s podobou samotné procedury. Za úspěch je však možné považovat samotné udržení rozhodovací praxe. To projde v blízké době zatěžkávací zkouškou, až komisi a Akademický senát opustí ustavující aktéři.
+
+Z hlediska dalších parametrů jako jsou "zvyšování počtu participujících na opakované deliberativní praxi, zvyšování podílu této praxe na tvorbě politických rozhodnutí nebo vytváření dalších deliberativních praxí ve stejné politické obci, soustředěných okolo jiných problematik" (ibid.: 13) je hlavním limitujícím faktorem prostředí fakulty --- nelze očekávat, že relativně malá, účelově vymezená a do značné míry konzervativní instituce jako je fakulta vysoké školy, bude rychle implementovat rok a půl funkční praxi do svých dalších praxí.
     
 
 # Výhled
 
-    # udržitelnost software
-
-    # propagace
-    bylo by dobré vytvořit pravidla pro propagaci toho, že jsou projekty sponzorovány stipendijním fondem. Např. umístění (a tedy vytvoření) loga na všech propagačních materiálech - srv. NFSFF.
-
-    # výpadek projektu
-    Stalo se taková "nepříjemná věc" - Security Teambulding se neuskuteční ani v náhradním termínu z důvodu malého počtu přihlášených. Jaké kroky bychom, …
+V dlouhodobém výhledu pak zůstávají před komisí různé problémy --- například udržitelnost provozu pomocného software, které je provozováno soukromou třetí osobou (autorem tohoto textu), propagace činnosti komise prostřednictvím výstupů činnosti projektů nebo řešení nových situací, jako je například neočekávané nekonání stipendiem podpořené akce nebo zpětné zjištění, že byla podpořena činnost komerčního subjektu (poslední problém by měla usnadnit legitimita rozhodnutí získaná prostřednictvím hodnotícího procesu).
