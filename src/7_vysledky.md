@@ -62,47 +62,73 @@ Třináct projektů, které byly původně doporučeny, bylo ve druhém kole odm
 
 ### Po diskusi se mění umístění projektu
 
-Jsou projekty, které získají na základě hodnocení žádosti dostatečné hodnocení pro zisk stipendia, shodné s těmi, které jej nakonec dostanou? Ani toto neplatí. Pouhých 7 projektů propadlo v prvním i druhém kole hodnocení, 33 projektů získalo stipendium předběžně i ve finále. Celých 16 projektů si oproti prvnímu kolu pohoršilo, 6 projektů se ve finále "vyšplhalo" mezi úspěšné.
+Jsou projekty, které získají na základě hodnocení žádosti dostatečné hodnocení pro zisk stipendia, shodné s těmi, které jej dostanou po druhém hodnocení? Ani toto neplatí. Celých 16 projektů si oproti prvnímu kolu pohoršilo, 6 projektů se ve finále "vyšplhalo" mezi úspěšné. 7 projektů propadlo v prvním i druhém kole hodnocení a 33 projektů získalo stipendium předběžně i ve finále. Celkově se tedy po diskusi změnil stav více než třetiny projektů.
 
 \begin{figure}[htp] \centering{
 \includegraphics[width=10cm]{zmeny-ano-ne.pdf}}
-\caption{Postoupí vybraný v první kole}
+\caption{Posuny projektů mezi prvním a druhým hodnocením}
 \end{figure}
 
-### Rozptyl hodnocení ve druhém hodnocení je nižší
+### Rozptyl hodnocení projektu je ve druhém hodnocení nižší
 
-Vzhledem k tomu, že první hodnocení zadává každý komisař individuálně a druhé po diskusi s ostatními, dalo by se očekávat, že ve výsledcích druhého hodnocení bude panovat širší konsensus. Z databáze je možné vysledovat podobnou tendenci, ale primárně je způsobena tím, že v prvním kole jsou mnohem rozmanitěji rozdělována doporučení k podpoře, takže standardní odchylka ve vzorku stoupá. Pokud však z celkového množství projektů odebereme projekty, které v prvním nebo druhém hodnocení získaly více než jedno *nedoporučení*, stane se výsledek mnohem méně významným. Rozdíl mezi průměrnou standardní odchylkou 1,26 v prvním hodnocení (medián 1,16) a 1,11 v hodnocením druhém (medián 0,93) je zajímavý, nicméně spíše nepřesvědčivý.
+Vzhledem k tomu, že první hodnocení zadává každý komisař individuálně a druhé po diskusi s ostatními, dalo by se očekávat, že ve výsledcích druhého hodnocení bude panovat širší konsensus. Z databáze je možné vysledovat podobnou tendenci, ale primárně je způsobena tím, že v prvním kole jsou mnohem rozmanitěji rozdělována doporučení k podpoře, takže standardní odchylka ve vzorku stoupá. Pokud však z celkového množství projektů odebereme projekty, které v prvním nebo druhém hodnocení získaly více než jedno *nedoporučení*, stane se výsledek mnohem méně významným. Rozdíl mezi průměrnou směrodatnou odchylkou 1,26 v prvním hodnocení (medián 1,16) a 1,11 v hodnocením druhém (medián 0,93) je zajímavý, nicméně spíše nepřesvědčivý. V *Příloze J* najdete podrobné informace o všech projektech.
 
 \begin{figure}[htp] \centering{
-\includegraphics[width=10cm]{slope-zmeny-rozptylu-hodnoceni.pdf}}
-\caption{Změna standardní odchylky v hodnocení projektů.}
+\includegraphics[width=8cm]{slope-zmeny-rozptylu-hodnoceni.pdf}}
+\caption{Změna standardní odchylky v hodnocení projektů (projekty nedoporučené k podpoře jsou zde vynechány).}
 \end{figure}
 
-V *Příloze J* najdete podrobné informace o všech projektech.
+### Setkání probíhají v diskusním formátu
 
-### Setkání probíhají v kruhovém formátu
+Jak již bylo výše řečeno, různé aspekty formátu diskuse mají výrazný vliv nejen na výsledné hodnocení, ale také na něco, co bychom mohli nazvat "diskursivními výstupy" praxe komise. Jak ve skutečnosti probíhají zasedání?
+
+První zasedání proběhlo klasickým způsobem, kdy se postupně dostává na řadu jeden uchazeč o stipendium a obhajuje svůj projekt. Druhé kolo bylo protipólem (do jisté míry náhodou, protože se mimo jiné nepodařilo zajistit místnost). Přestože bylo zasedání dlouhé a komise seděla společně na jednom místě, rozprava měla spíše diskusní povahu a zapojovali se do ní různí žadatelé.
 
 \begin{figure}[htp] \centering{
 \includegraphics[width=\linewidth]{setkani-komise.jpg}}
-\caption{}
+\caption{Druhé setkání komise v dubnu 2012.}
 \end{figure}
 
+I kvůli časové optimalizaci se podoba dalších zasedání posunovala mezi těmito dvěma póly. Před komisí se nestřídají jednotliví uchazeči, ale obě skupiny sedí proti sobě; obě skupiny jsou tedy jasně vymezitelné. Přesto podle komisařů vzniká dynamická diskuse i uvnitř obou skupin. Diskusí se účastní pouze komise a žadatelé, málokdy přijde někdo jiný, spíše se u diskutujících zastaví kolemjdoucí. Setkání probíhají jak ve společných prostorách fakulty, tak v místnosti vyhrazené pouze fakultním spolkům.
+
+\begin{figure}[htp] \centering{
+\includegraphics[width=12cm]{setkani-komise2.jpg}}
+\caption{Páté setkání komise v dubnu 2013.}
+\end{figure}
 
 ### Kritéria se postupně stabilizují
 
-Nepotvrdila se hypotéza, že kritéria užívaná komisí se díky postupným změnám zaužívají a sníží se tak jejich rozptyl.
+Každý projekt je každým komisařem hodnocen podle několika kritérií. Již po roce a půl fungování komise je tak k dispozici rozsáhlá báze udělených hodnocení: celkem 5 349 jednotlivých hodnocení (1---5 bodů) u 63 projektů a 24 různých kritérií. Autor předpokládal, že kritéria užívaná komisí se jednak díky změnám a také díky postupujícím diskusím "zaužívají" a v důsledku toho se sníží výkyvy v hodnocení komisařů. 
+
+Falešným podkladem pro potvrzení této hypotézy by v takovém případě bylo hodnocení směrodatné odchylky u jednotlivých kritérií. Odchylky se zjevně snižují, nicméně důvodem je především zahrnování projektů, které byly více než jedním komisařem *nedoporučeny k podpoře*. Někteří komisaři totiž v případě *nedoporučení* projekt hodnotí, jiní nechají pole nevyplněná, proto vznikají výrazně rozptýlené množiny hodnocení. Zdánlivá stabilizace pak je způsobena postupnou standardizací přístupu komisařů k hodnotícímu nástroji.
+
+Pokud však data strukturujeme nejen podle kritérií, ale také podle projektů, vidíme mnohem přesvědčivější potvrzení této hypotézy. Na přiložených krabicových grafech (obr. 7.6---7.9) vidíme, že s postupem času dochází ke snižování odchylek a částečně též ke zúžení pole středních kvartilů. Výjimkou je v tomto ohledu poslední kolo, v němž zasedala komise v novém složení. Je tak zřejmé, že stabilizace se může týkat jak užívaných kritérií a tak i  postupné nivelizace jejich reflexe komisaři. Výsledky jsou přesvědčivé jak v případě zahrnutí projektů, které byly alespoň v jednom hodnocení nedoporučeny k podpoře (29 projektů z celkových 62), tak při sledování pouze těch, kterým tato "červená karta" udělena nebyla (33 projektů).
+
+Komisaři sami svou praxi po třech semestrech činnosti vnímají jako předvídatelnější, což může být způsobeno jednak vytvořením zvyku, ale i tím, že předtím nová procedury se stala běžnou.
 
 \begin{figure}[htp] \centering{
-\includegraphics[width=\linewidth]{kriteria-stderr.pdf}}
-\caption{}
+\includegraphics[width=9cm]{boxplot-1-s.pdf}}
+\caption{Směrodatné odchylky hodnocení jednotlivých kritérií u jednotlivých projektů v prvním hodnocení.}
 \end{figure}
 
+\begin{figure}[htp] \centering{
+\includegraphics[width=9cm]{boxplot-2-s.pdf}}
+\caption{Směrodatné odchylky hodnocení jednotlivých kritérií u jednotlivých projektů ve druhém hodnocení.}
+\end{figure}
+
+\begin{figure}[htp] \centering{
+\includegraphics[width=9cm]{boxplot-1-bez.pdf}}
+\caption{Směrodatné odchylky hodnocení jednotlivých kritérií u jednotlivých projektů v prvním hodnocení (odstraněny projekty, které byly alespoň jednom z hodnocení nedoporučeny k podpoře).}
+\end{figure}
+
+\begin{figure}[htp] \centering{
+\includegraphics[width=9cm]{boxplot-2-bez.pdf}}
+\caption{Směrodatné odchylky hodnocení jednotlivých kritérií u jednotlivých projektů ve druhém hodnocení (odstraněny projekty, které byly alespoň jednom z hodnocení nedoporučeny k podpoře).}
+\end{figure}
 
 ### Zhodnocení
 
-Zdá se, že procedura hodnocení zapojující diskusní (deliberativní) element má minimálně navenek skutečný vliv na praktické výsledky.
-
-Vzhledem k tomu, že studentská obec má "průtokový" charakter (mnoho studentů, včetně aktivních, zůstane na fakultě a ve spolcích jen několik málo let), není možné očekávat, že by se situace v dlouhodobém výhledu mohla stabilizovat. Proto by měla mít následující pozorování významnou platnost i pro možné budoucí fungování komise.
+Zdá se, že procedura hodnocení zapojující diskusní ("deliberativní") element má skutečný vliv na praktické výsledky. Vzhledem k tomu, že studentská obec má "průtokový" charakter (mnoho studentů, včetně aktivních, zůstane na fakultě a ve spolcích jen několik málo let), nejspíše není na místě očekávání stabilizace procesu v dlouhodobém výhledu, například ve formě předvídatelnosti kvality projektů překládaných konkrétními žadateli.^[Hypoteticky by při takové stabilizaci mohlo dojít k zapojování očekávání výsledného dojmu z diskuse přímo do prvního hodnocení.] Proto by měla mít učiněná pozorování významnou relevanci i pro možné budoucí fungování komise.
 
 # Tři úrovně působení experimentu
 
