@@ -45,7 +45,7 @@
 
 % if twosided document margins will be
 \if@twoside
-   \oddsidemargin 0.3in
+   \oddsidemargin 0in
    \evensidemargin 0in
    \marginparwidth 0pt
 % if singlesided
