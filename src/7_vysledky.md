@@ -154,7 +154,6 @@ Zúčastnění aktéři popisují činnost v komisi jako zajímavou a obohacují
 
 Z hlediska dalších parametrů jako jsou "zvyšování počtu participujících na opakované deliberativní praxi, zvyšování podílu této praxe na tvorbě politických rozhodnutí nebo vytváření dalších deliberativních praxí ve stejné politické obci, soustředěných okolo jiných problematik" (ibid.: 13) je hlavním limitujícím faktorem prostředí fakulty --- nelze očekávat, že relativně malá, účelově vymezená a do značné míry konzervativní instituce jako je fakulta vysoké školy, bude rychle implementovat rok a půl funkční praxi do svých dalších praxí.
     
-
 # Výhled
 
 V dlouhodobém výhledu pak zůstávají před komisí různé problémy --- například udržitelnost provozu pomocného software, které je provozováno soukromou třetí osobou (autorem tohoto textu), propagace činnosti komise prostřednictvím výstupů činnosti projektů nebo řešení nových situací, jako je například neočekávané nekonání stipendiem podpořené akce nebo zpětné zjištění, že byla podpořena činnost komerčního subjektu (poslední problém by měla usnadnit legitimita rozhodnutí získaná prostřednictvím hodnotícího procesu).
