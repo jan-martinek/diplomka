@@ -24,6 +24,11 @@
   \enquote{#1}
 }
 
+\newcommand*\cleartoleftpage{%
+  \clearpage
+  \ifodd\value{page}\hbox{}\newpage\fi
+}
+
 \thesistitle{Institucionální design grantové komise na principech deliberace \emph{(případová studie)}} % enter thesis title
 \thesissubtitle{diplomová práce}
 \thesisstudent{Jan Martinek}    % name of the author
