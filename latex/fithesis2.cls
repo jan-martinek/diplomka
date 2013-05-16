@@ -422,16 +422,17 @@ Advisor:
 % typesets thesis abstract
 \newenvironment{ThesisAbstract}{%
 \begin{alwayssingle}
-\ifx\@thesislang\Langcs
- \chapter*{\AbstractTitlecs}
- \else \ifx\@thesislang\Langsk
-  \chapter*{\AbstractTitlesk}
-  \else \ifx\@thesislang\Langen
-   \chapter*{\AbstractTitleen}
-   \else \chapter*{\AbstractTitlecs}
-  \fi
- \fi
-\fi}
+%\ifx\@thesislang\Langcs
+% \chapter*{\AbstractTitlecs}
+% \else \ifx\@thesislang\Langsk
+%  \chapter*{\AbstractTitlesk}
+%  \else \ifx\@thesislang\Langen
+%   \chapter*{\AbstractTitleen}
+%   \else \chapter*{\AbstractTitlecs}
+%  \fi
+% \fi
+%\fi
+}
 {\par\vfil\null
 \end{alwayssingle}
 \newpage}
@@ -447,21 +448,21 @@ Advisor:
 %\newpage}
 
 % typesets thesis keywords
-\newenvironment{ThesisKeyWords}{%
-\begin{alwayssingle}
-\ifx\@thesislang\Langcs
- \chapter*{\KeyWordsTitlecs}
- \else \ifx\@thesislang\Langsk
-  \chapter*{\KeyWordsTitlesk}
-  \else \ifx\@thesislang\Langen
-   \chapter*{\KeyWordsTitleen}
-   \else \chapter*{\KeyWordsTitlecs}
-  \fi
- \fi
-\fi}
-{\par\vfill
-\end{alwayssingle}
-\newpage}
+% \newenvironment{ThesisKeyWords}{%
+% \begin{alwayssingle}
+% \ifx\@thesislang\Langcs
+%  \chapter*{\KeyWordsTitlecs}
+%  \else \ifx\@thesislang\Langsk
+%   \chapter*{\KeyWordsTitlesk}
+%   \else \ifx\@thesislang\Langen
+%    \chapter*{\KeyWordsTitleen}
+%    \else \chapter*{\KeyWordsTitlecs}
+%   \fi
+%  \fi
+% \fi}
+% {\par\vfill
+% \end{alwayssingle}
+% \newpage}
 
 % defines MainMatter command that begins main part
 % of the thesis with Arabic page numbering

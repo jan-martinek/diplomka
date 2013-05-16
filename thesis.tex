@@ -1,4 +1,4 @@
-\documentclass[12pt,twoside,draft]{fithesis2}
+\documentclass[12pt,twoside,final]{fithesis2}
 \usepackage[czech]{babel} % package for multilingual support
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
@@ -33,7 +33,7 @@
 Institucionální design grantové komise\\ na principech deliberace\\ \emph{(případová studie)}%
 } % enter thesis title
 \thesissubtitle{diplomová práce}
-\thesisstudent{Jan Martinek}    % name of the author
+\thesisstudent{Jan Martinek (učo 208330)}    % name of the author
 \thesiswoman{false} % defines author’s gender
 \thesisfaculty{fss}
 \thesisyear{jaro 2013}
@@ -43,11 +43,6 @@ Institucionální design grantové komise\\ na principech deliberace\\ \emph{(p�
 \begin{document}
 \FrontMatter
 \ThesisTitlePage
-
-\begin{ThesisDeclaration}
-\DeclarationText
-\AdvisorName
-\end{ThesisDeclaration}
 
 \begin{ThesisDedication}
 \vspace*{10cm}
@@ -60,17 +55,28 @@ Institucionální design grantové komise\\ na principech deliberace\\ \emph{(p�
 
 \end{ThesisDedication}
 
+
+\begin{ThesisDeclaration}
+\DeclarationText
+\AdvisorName
+\end{ThesisDeclaration}
+
+
 \begin{ThesisThanks}
-Rád bych poděkoval..., Císař, tým GoodReader, rodiče, anonymní rozhovoranti, čteči [], FSS, sociologové, Falk, Karel Musílek, SublimeText, John MacFarlane - Pandoc, Markdown, LaTeX, mergely.com, Proof \& Reason a HejTi, Vojta Šmíd a Karel Gargulák, spolubydlící, Vendula Venclíková, Ivana, vyučující, kteří mě silně ovlivnili (viz kapitola 3), estonským vědcům
+
+\input{podekovani}
+
 \end{ThesisThanks}
 
 \begin{ThesisAbstract}
-Abstrakt...
+
+\input{detaily}
+
 \end{ThesisAbstract}
 
-\begin{ThesisKeyWords}
-keyword1, keyword2, etc.
-\end{ThesisKeyWords}
+%\begin{ThesisKeyWords}
+%keyword1, keyword2, etc.
+%\end{ThesisKeyWords}
 
 \MainMatter
 
