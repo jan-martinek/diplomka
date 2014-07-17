@@ -16,11 +16,11 @@ V 90. letech 20. století prožila teorie demokracie "deliberativní obrat" – 
 
 Teorie deliberativní demokracie, ač vychází z několika zásadních, vzájemně provázaných zdrojů (především z teorie veřejné sféry a ideální řečové situace Jürgena Habermase \citep[1]{elster}), není monolitickou ani konzistentní teorií, ale spíše širokou diskusí týkající se problematiky komunikace ve společnosti. Sdílenou myšlenkou zůstává, že v jádru demokracie nejde o agregování preferencí (např. prostřednictvím voleb), ale o jejich transformaci v diskusi \citep[1]{elster}. 
 
-Pro zběžné představení základních rysů deliberativní teorie nicméně poslouží dvě z nejcitovanějších vymezení – jednak vymezení vůči liberální a republikánské koncepci demokracie u Jürgena Habermase (1996a) a pak pojetí rozumného argumentu odvozeného z principu demokratické rovnosti a svobody popsané Joshuou Cohenem (1996).
+Pro zběžné představení základních rysů deliberativní teorie nicméně poslouží dvě z nejcitovanějších vymezení – jednak vymezení vůči liberální a republikánské koncepci demokracie u Jürgena Habermase \citep{habermas1994three} a pak pojetí rozumného argumentu odvozeného z principu demokratické rovnosti a svobody popsané Joshuou Cohenem \citep{cohen1997procedure}.
 
 ## Vymezení vůči liberálnímu a republikánskému modelu demokracie
 
-Habermas vymezuje deliberativní demokracii vůči dvojici dle něj obecně přijímaných normativních modelů demokracie (Habermas 1996a: 21–23): 
+Habermas vymezuje deliberativní demokracii vůči dvojici dle něj obecně přijímaných normativních modelů demokracie \citep[21--23]{habermas1994three}: 
 
 a) *Liberální model* staví na myšlence státu jako aparátu veřejné správy, která vytváří politiku v zájmu společnosti individuálních jedinců integrovaných tržními vztahy. Svoboda občanů je definována v negativních pojmech pojmech (svoboda od externího nátlaku) a politika je pak praxí prosazování této svobody vůči státu a dosahování individuálních cílů prostřednictvím vlády coby mediátora, agregátora a vykonavatele převažujících (individuálních) zájmů. Primárním zdrojem argumentace v politice je individuální rozum občanů.
 
@@ -32,7 +32,7 @@ Klíčovým rozdílem oproti liberálnímu modelu je, vedle oddělení státu a 
 
 ##  Pojetí rozumného argumentu
 
-Joshua Cohen vychází z představy, že společnost nesdílí morální a náboženské představy. Stát ve svých institucích reflektuje pouze hodnoty  rovnosti a svobody. Politický systém však nemůže fungovat pouze na procedurálních principech, jak by se mohlo zdát. Rovnost občanů znamená také, že uznáváme jejich kapacitu pro participaci v diskusích, které mohou ospravedlnit uplatňování moci. Výsledkem je *rozumný pluralismus* (Cohen 1996: 96).
+Joshua Cohen vychází z představy, že společnost nesdílí morální a náboženské představy. Stát ve svých institucích reflektuje pouze hodnoty  rovnosti a svobody. Politický systém však nemůže fungovat pouze na procedurálních principech, jak by se mohlo zdát. Rovnost občanů znamená také, že uznáváme jejich kapacitu pro participaci v diskusích, které mohou ospravedlnit uplatňování moci. Výsledkem je *rozumný pluralismus* \citep[96]{cohen1997procedure}.
 
 Tradiční demokratické instituce fungující na principu agregativního formování kolektivních zájmů (pomocí volebních lístků), který dle Cohena nárok na obecnou rovnost a svobodu občanů nenaplňuje. Potřeby menšin v tomhle přístupu reflektovány zpětně různými opravnými metodami. Ty ale často nejsou dostatečné a svou podstatou vytváří diskriminační vztah většiny k menšinám. 
 
